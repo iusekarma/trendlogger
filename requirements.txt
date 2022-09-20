@@ -1,0 +1,3 @@
+Package            Version
+------------------ ---------
+pytrends           4.8.0
