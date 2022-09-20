@@ -12,3 +12,13 @@ for i in trendingtoday[:5]:
 
 with open('trend.csv','a') as file:
     file.writelines(f'{datetime.now().__str__()},{",".join(trends)}\n')
+
+#Update readme for latest trends
+readme = ''
+with open('README.md','r') as file:
+    readme = file.read()
+
+first_section = readme[:readme.index('<!-- Last Trends -->')]
+last_section =  readme[readme.index('<!-- Requirements -->'):]
+mid_section = "<!-- Last Trends -->\n*"+'\n*'.join(trends)+"\n<br>\n"
+print(first_section+mid_section+last_section)
