@@ -20,7 +20,7 @@ with open('README.md','r') as file:
 
 first_section = readme[:readme.index('<!-- Last Trends -->')]
 last_section =  readme[readme.index('<!-- Requirements -->'):]
-mid_section = "<!-- Last Trends -->\n##Last Trends\n* "+'\n* '.join(trends)+"\n<br>\n"
+mid_section = "<!-- Last Trends -->\n###Last Trends\n* "+'\n* '.join(trends)+"\n<br>\n"
 
 with open('README.md','w') as file:
     file.write(first_section+mid_section+last_section)
