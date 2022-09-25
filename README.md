@@ -2,14 +2,15 @@
 A simple python script which logs the top five searches of the day in India.<br>
 
 
+
 <!-- Last Trends -->
 ### Last Trends
-* Xi Jinping
-* China Coup
-* Brazil
-* Deepti Sharma
-* Khatron Ke Khiladi Season 12 winner
-<br>
+* Pakistan vs England
+* Ponniyin Selvan
+* MS Dhoni
+* Spain
+* Aryadan Muhammed
+> 2022-09-25 18:22:53.066474
 
 <!-- Requirements -->
 ### Requirements
