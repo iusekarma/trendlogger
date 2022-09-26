@@ -3,14 +3,15 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 
 
+
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan vs England
-* Ponniyin Selvan
-* MS Dhoni
-* Spain
-* Aryadan Muhammed
-> 2022-09-25 18:22:53.066474
+* Croma
+* Harsha Engineers share price
+* Rohit Sharma
+* Dinesh Karthik
+* Manmohan Singh
+> 2022-09-26 18:24:54.494128
 
 <!-- Requirements -->
 ### Requirements
