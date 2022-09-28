@@ -5,14 +5,15 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 
 
+
 <!-- Last Trends -->
 ### Last Trends
-* Bangladesh vs UAE
-* World Tourism Day
-* India A vs New Zealand A
-* Jacqueline Fernandez
-* Portugal vs Spain
-> 2022-09-27 18:28:35.341667
+* Mahesh Babu
+* Suryakumar Yadav
+* Deadpool 3
+* Anil Chauhan
+* Popular Front of India
+> 2022-09-28 18:28:42.528378
 
 <!-- Requirements -->
 ### Requirements
