@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* REET Result 2022
-* Naane Varuven
-* Jasprit Bumrah
-* ICC
-* Coolio
-> 2022-09-29 18:26:33.589771
+* Adipurush
+* AP TET Results 2022
+* Repo Rate
+* Plan A Plan B
+* Vande Bharat Express
+> 2022-09-30 18:26:26.221137
 
 <!-- Requirements -->
 ### Requirements
