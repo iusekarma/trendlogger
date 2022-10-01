@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Adipurush
-* AP TET Results 2022
-* Repo Rate
-* Plan A Plan B
-* Vande Bharat Express
-> 2022-09-30 18:26:26.221137
+* Pakistan vs England
+* IND vs SL
+* Arsenal vs Tottenham
+* Liverpool vs Brighton
+* Bigg Boss 16
+> 2022-10-01 18:23:01.391341
 
 <!-- Requirements -->
 ### Requirements
