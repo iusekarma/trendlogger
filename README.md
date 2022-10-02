@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan vs England
-* IND vs SL
-* Arsenal vs Tottenham
-* Liverpool vs Brighton
-* Bigg Boss 16
-> 2022-10-01 18:23:01.391341
+* Man City vs Man United lineups
+* Mahatma Gandhi
+* Adipurush
+* F1
+* 7th day of Navratri
+> 2022-10-02 18:23:12.667498
 
 <!-- Requirements -->
 ### Requirements
