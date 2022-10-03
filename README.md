@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man City vs Man United lineups
-* Mahatma Gandhi
-* Adipurush
-* F1
-* 7th day of Navratri
-> 2022-10-02 18:23:12.667498
+* BSTC Admit Card 2022
+* Atlas Ramachandran
+* South Africa vs India
+* Nykaa share price
+* Alfaaz
+> 2022-10-03 18:28:24.971619
 
 <!-- Requirements -->
 ### Requirements
