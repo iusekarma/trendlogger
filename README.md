@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* BSTC Admit Card 2022
-* Atlas Ramachandran
-* South Africa vs India
-* Nykaa share price
-* Alfaaz
-> 2022-10-03 18:28:24.971619
+* IND W vs UAE W
+* Rishabh Pant
+* Champions League
+* Bayern vs Viktoria plze%C5%88
+* Electronics Mart India IPO
+> 2022-10-04 18:31:10.683353
 
 <!-- Requirements -->
 ### Requirements
