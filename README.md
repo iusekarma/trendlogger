@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Godfather
-* Sports
-* Suryakumar Yadav
-* Ghost movie review
-* Rohit Sharma
-> 2022-10-05 18:34:31.318284
+* Juventus vs Maccabi Haifa
+* Man City
+* Laal Singh Chaddha
+* Pixel 7
+* Kerala Blasters vs East Bengal
+> 2022-10-06 18:26:58.956508
 
 <!-- Requirements -->
 ### Requirements
