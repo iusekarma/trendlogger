@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Juventus vs Maccabi Haifa
-* Man City
-* Laal Singh Chaddha
-* Pixel 7
-* Kerala Blasters vs East Bengal
-> 2022-10-06 18:26:58.956508
+* Pakistan vs Bangladesh
+* Sports
+* AUS vs WI
+* Arun Bali
+* Kabaddi LIVE
+> 2022-10-07 18:27:57.024663
 
 <!-- Requirements -->
 ### Requirements
