@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan vs Bangladesh
-* Sports
-* AUS vs WI
-* Arun Bali
-* Kabaddi LIVE
-> 2022-10-07 18:27:57.024663
+* SSC
+* Man City vs Southampton
+* Indian Air Force Day
+* Ssc.nic
+* Chelsea vs Wolves
+> 2022-10-08 18:22:44.652004
 
 <!-- Requirements -->
 ### Requirements
