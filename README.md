@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SSC
-* Man City vs Southampton
-* Indian Air Force Day
-* Ssc.nic
-* Chelsea vs Wolves
-> 2022-10-08 18:22:44.652004
+* England vs Australia
+* Vignesh Shivan
+* Ishan Kishan
+* Urvashi Rautela
+* Extreme Rules 2022
+> 2022-10-09 18:22:51.269914
 
 <!-- Requirements -->
 ### Requirements
