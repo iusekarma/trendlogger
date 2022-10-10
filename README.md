@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs Australia
-* Vignesh Shivan
-* Ishan Kishan
-* Urvashi Rautela
-* Extreme Rules 2022
-> 2022-10-09 18:22:51.269914
+* Mulayam Singh Yadav
+* ATK Mohun Bagan vs Chennaiyin
+* India vs Western Australia
+* World Mental Health Day
+* Barcelona
+> 2022-10-10 18:29:57.244795
 
 <!-- Requirements -->
 ### Requirements
