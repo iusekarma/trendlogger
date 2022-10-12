@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan vs New Zealand
-* Amitabh Bachchan
-* Hardik Pandya
-* Mohammed Siraj
-* Copenhagen vs Man City
-> 2022-10-11 18:27:02.692626
+* Karwa Chauth
+* Disha Vakani
+* AUS vs ENG T20
+* FC Goa
+* IPO allotment status
+> 2022-10-12 18:29:00.721254
 
 <!-- Requirements -->
 ### Requirements
