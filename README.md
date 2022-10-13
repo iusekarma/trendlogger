@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Karwa Chauth
-* Disha Vakani
-* AUS vs ENG T20
-* FC Goa
-* IPO allotment status
-> 2022-10-12 18:29:00.721254
+* Barcelona
+* Viktoria Plze%C5%88 vs Bayern
+* India vs Western Australia
+* Tottenham vs Eintracht Frankfurt
+* Sri Lanka Women vs Pakistan Women
+> 2022-10-13 18:29:30.101033
 
 <!-- Requirements -->
 ### Requirements
