@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs Australia
-* Kantara
-* Doctor G
-* RRB
-* Mismatched Season 2
-> 2022-10-14 18:25:43.169486
+* APJ Abdul Kalam
+* Mumbai City vs Odisha
+* INDW vs SLW
+* Real Madrid vs Barcelona
+* Leicester City vs Crystal Palace
+> 2022-10-15 18:22:56.707125
 
 <!-- Requirements -->
 ### Requirements
