@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* APJ Abdul Kalam
-* Mumbai City vs Odisha
-* INDW vs SLW
-* Real Madrid vs Barcelona
-* Leicester City vs Crystal Palace
-> 2022-10-15 18:22:56.707125
+* Vaishali Takkar
+* T20 World Cup
+* Man United vs Newcastle
+* ICC T20 World Cup
+* Kerala Blasters
+> 2022-10-16 18:23:12.909248
 
 <!-- Requirements -->
 ### Requirements
