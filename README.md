@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Vaishali Takkar
-* T20 World Cup
-* Man United vs Newcastle
-* ICC T20 World Cup
-* Kerala Blasters
-> 2022-10-16 18:23:12.909248
+* PM Kisan
+* Zimbabwe vs Ireland
+* Ahoi Ashtami
+* NZ vs SA
+* PSG
+> 2022-10-17 18:35:28.783672
 
 <!-- Requirements -->
 ### Requirements
