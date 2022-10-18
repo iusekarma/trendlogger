@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PM Kisan
-* Zimbabwe vs Ireland
-* Ahoi Ashtami
-* NZ vs SA
-* PSG
-> 2022-10-17 18:35:28.783672
+* Namibia Vs Netherlands
+* Kati Bihu 2022
+* Kedarnath Helicopter Crash
+* MHT CET
+* Puneri Paltan
+> 2022-10-18 18:32:28.584108
 
 <!-- Requirements -->
 ### Requirements
