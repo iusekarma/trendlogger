@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Namibia Vs Netherlands
-* Kati Bihu 2022
-* Kedarnath Helicopter Crash
-* MHT CET
-* Puneri Paltan
-> 2022-10-18 18:32:28.584108
+* Scotland vs Ireland
+* NBA
+* BHEL share price
+* Warriors vs Lakers
+* iPad
+> 2022-10-19 18:35:05.020240
 
 <!-- Requirements -->
 ### Requirements
