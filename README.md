@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Scotland vs Ireland
-* NBA
-* BHEL share price
-* Warriors vs Lakers
-* iPad
-> 2022-10-19 18:35:05.020240
+* Premier League
+* Suella Braverman
+* Elche vs Real Madrid
+* NorthEast United vs East Bengal
+* UAE vs Namibia
+> 2022-10-20 18:36:04.433258
 
 <!-- Requirements -->
 ### Requirements
