@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Premier League
-* Suella Braverman
-* Elche vs Real Madrid
-* NorthEast United vs East Bengal
-* UAE vs Namibia
-> 2022-10-20 18:36:04.433258
+* Scotland vs Zimbabwe
+* Prince movie
+* TSLPRB results
+* Sardar
+* Monster Malayalam movie
+> 2022-10-21 18:27:56.908735
 
 <!-- Requirements -->
 ### Requirements
