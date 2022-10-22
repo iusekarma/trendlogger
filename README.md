@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Scotland vs Zimbabwe
-* Prince movie
-* TSLPRB results
-* Sardar
-* Monster Malayalam movie
-> 2022-10-21 18:27:56.908735
+* New Zealand vs Australia
+* Chelsea vs Man United
+* Man City vs Brighton
+* Nottm Forest vs Liverpool
+* Live Score
+> 2022-10-22 18:23:41.313312
 
 <!-- Requirements -->
 ### Requirements
