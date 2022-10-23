@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Zealand vs Australia
-* Chelsea vs Man United
-* Man City vs Brighton
-* Nottm Forest vs Liverpool
-* Live Score
-> 2022-10-22 18:23:41.313312
+* Ireland vs Sri Lanka
+* Hardik Pandya
+* Southampton vs Arsenal
+* Prabhas
+* Suryakumar Yadav
+> 2022-10-23 18:24:04.008807
 
 <!-- Requirements -->
 ### Requirements
