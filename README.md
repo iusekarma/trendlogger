@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ireland vs Sri Lanka
-* Hardik Pandya
-* Southampton vs Arsenal
-* Prabhas
-* Suryakumar Yadav
-> 2022-10-23 18:24:04.008807
+* Rangoli
+* Muhurat Trading Time
+* Cyclone Sitrang
+* Muhurat Trading
+* F1
+> 2022-10-24 18:34:16.262282
 
 <!-- Requirements -->
 ### Requirements
