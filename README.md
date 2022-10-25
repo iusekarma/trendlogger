@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Rangoli
-* Muhurat Trading Time
-* Cyclone Sitrang
-* Muhurat Trading
-* F1
-> 2022-10-24 18:34:16.262282
+* WhatsApp Down
+* Bhai Dooj 2022
+* Ram Setu
+* Lunar eclipse
+* Champions League
+> 2022-10-25 18:46:15.423783
 
 <!-- Requirements -->
 ### Requirements
