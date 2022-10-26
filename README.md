@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* WhatsApp Down
-* Bhai Dooj 2022
-* Ram Setu
-* Lunar eclipse
-* Champions League
-> 2022-10-25 18:46:15.423783
+* Ireland vs England
+* Benfica vs Juventus
+* PAK vs ZIM
+* Man City
+* Gujarati New Year 2022
+> 2022-10-26 18:22:33.314015
 
 <!-- Requirements -->
 ### Requirements
