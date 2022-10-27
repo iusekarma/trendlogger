@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ireland vs England
-* Benfica vs Juventus
-* PAK vs ZIM
-* Man City
-* Gujarati New Year 2022
-> 2022-10-26 18:22:33.314015
+* Sports
+* Vikramjit Singh
+* Tottenham vs Sporting
+* NMDC share price
+* Nipon Goswami
+> 2022-10-27 18:26:18.644154
 
 <!-- Requirements -->
 ### Requirements
