@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sports
-* Vikramjit Singh
-* Tottenham vs Sporting
-* NMDC share price
-* Nipon Goswami
-> 2022-10-27 18:26:18.644154
+* Twitter
+* Man United vs Sheriff
+* SSC
+* Europa League
+* Kerala Blasters
+> 2022-10-28 18:23:00.054375
 
 <!-- Requirements -->
 ### Requirements
