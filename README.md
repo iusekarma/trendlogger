@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Myositis
-* IND vs SA
-* Leicester City vs Man City
-* Brighton vs Chelsea
-* Bournemouth vs Tottenham
-> 2022-10-29 18:20:48.130738
+* Netherlands vs Pakistan
+* Man United vs West Ham
+* Halloween
+* PSG
+* Arsenal vs nottm Forest
+> 2022-10-30 18:22:20.892763
 
 <!-- Requirements -->
 ### Requirements
