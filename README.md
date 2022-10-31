@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Netherlands vs Pakistan
-* Man United vs West Ham
-* Halloween
-* PSG
-* Arsenal vs nottm Forest
-> 2022-10-30 18:22:20.892763
+* Gmail
+* Nifty 50
+* HDFC
+* SBI
+* DCX Systems
+> 2022-10-31 18:24:59.599393
 
 <!-- Requirements -->
 ### Requirements
