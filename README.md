@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Gmail
-* Nifty 50
-* HDFC
-* SBI
-* DCX Systems
-> 2022-10-31 18:24:59.599393
+* Afghanistan vs Sri Lanka
+* BSTC Result 2022
+* IND vs BAN
+* Takeoff Rapper
+* All Saints Day
+> 2022-11-01 18:23:35.098416
 
 <!-- Requirements -->
 ### Requirements
