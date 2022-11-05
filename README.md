@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Zealand vs Ireland
-* Brahmastra
-* Phone Bhoot
-* Virat Kohli Birthday
-* Arsenal vs FC Zurich
-> 2022-11-04 18:21:29.287226
+* UGC NET Result 2022
+* Man City vs Fulham
+* Kerala Blasters
+* PAK vs BAN
+* Vestibular Hypofunction
+> 2022-11-05 18:19:36.350826
 
 <!-- Requirements -->
 ### Requirements
