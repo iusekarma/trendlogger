@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* UGC NET Result 2022
-* Man City vs Fulham
-* Kerala Blasters
-* PAK vs BAN
-* Vestibular Hypofunction
-> 2022-11-05 18:19:36.350826
+* India vs Zimbabwe
+* Netherlands vs South Africa
+* Sports
+* Munugode Election Results
+* Mumbai City vs ATK Mohun Bagan
+> 2022-11-06 18:20:07.961026
 
 <!-- Requirements -->
 ### Requirements
