@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Zimbabwe
-* Netherlands vs South Africa
-* Sports
-* Munugode Election Results
-* Mumbai City vs ATK Mohun Bagan
-> 2022-11-06 18:20:07.961026
+* Champions League
+* Guru Nanak Jayanti
+* Dev Diwali 2022
+* Europa League
+* Bikaji IPO GMP
+> 2022-11-07 18:21:27.990419
 
 <!-- Requirements -->
 ### Requirements
