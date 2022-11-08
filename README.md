@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Champions League
-* Guru Nanak Jayanti
-* Dev Diwali 2022
-* Europa League
-* Bikaji IPO GMP
-> 2022-11-07 18:21:27.990419
+* IND vs ENG
+* TNPSC
+* Vestibular hypofunction
+* Barcelona
+* Chris Evans
+> 2022-11-08 18:24:54.553278
 
 <!-- Requirements -->
 ### Requirements
