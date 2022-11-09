@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs ENG
-* TNPSC
-* Vestibular hypofunction
-* Barcelona
-* Chris Evans
-> 2022-11-08 18:24:54.553278
+* Earthquake in Delhi
+* Earthquake in Delhi today
+* US Midterm Elections
+* Latest News
+* Meta
+> 2022-11-09 18:21:03.149357
 
 <!-- Requirements -->
 ### Requirements
