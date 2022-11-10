@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Earthquake in Delhi
-* Earthquake in Delhi today
-* US Midterm Elections
-* Latest News
-* Meta
-> 2022-11-09 18:21:03.149357
+* Suryakumar Yadav
+* Arsenal vs Brighton
+* Liverpool vs Derby County
+* Rishabh Pant
+* Football World Cup 2022
+> 2022-11-10 18:21:17.320616
 
 <!-- Requirements -->
 ### Requirements
