@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Suryakumar Yadav
-* Arsenal vs Brighton
-* Liverpool vs Derby County
-* Rishabh Pant
-* Football World Cup 2022
-> 2022-11-10 18:21:17.320616
+* Yashoda
+* Siddhaanth Vir Surryavanshi
+* Real Madrid vs C%C3%A1diz
+* Monica O My Darling
+* PAK vs ENG
+> 2022-11-11 18:22:32.476679
 
 <!-- Requirements -->
 ### Requirements
