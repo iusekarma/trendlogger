@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Yashoda
-* Siddhaanth Vir Surryavanshi
-* Real Madrid vs C%C3%A1diz
-* Monica O My Darling
-* PAK vs ENG
-> 2022-11-11 18:22:32.476679
+* Earthquake today
+* Man City vs Brentford
+* Liverpool vs Southampton
+* Tottenham vs Leeds United
+* F1
+> 2022-11-12 18:19:51.196073
 
 <!-- Requirements -->
 ### Requirements
