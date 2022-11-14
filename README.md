@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Fulham vs Man United
-* Wolves Vs Arsenal
-* Children's Day
-* UFC 281
-* Shadab Khan
-> 2022-11-13 18:19:59.203605
+* Doodle for Google  India winner
+* Krishna
+* Juventus vs Lazio
+* BPSC
+* Cristiano Ronaldo
+> 2022-11-14 18:20:27.151734
 
 <!-- Requirements -->
 ### Requirements
