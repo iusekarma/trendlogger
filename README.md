@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Doodle for Google  India winner
-* Krishna
-* Juventus vs Lazio
-* BPSC
-* Cristiano Ronaldo
-> 2022-11-14 18:20:27.151734
+* IPL Retention List
+* Kieron Pollard
+* World Population
+* Jennifer Aniston
+* Pete Davidson
+> 2022-11-15 18:20:08.952790
 
 <!-- Requirements -->
 ### Requirements
