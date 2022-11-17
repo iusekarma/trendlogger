@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* UAE vs Argentina
-* Poland
-* MS Dhoni
-* Bikaji Share Price
-* Saudi Arabia vs Croatia
-> 2022-11-16 18:20:00.092248
+* AUS vs ENG
+* IND vs NZ
+* Paytm Share Price
+* IRFC Share Price
+* BPSC result
+> 2022-11-17 18:19:42.352250
 
 <!-- Requirements -->
 ### Requirements
