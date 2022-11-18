@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* AUS vs ENG
-* IND vs NZ
-* Paytm Share Price
-* IRFC Share Price
-* BPSC result
-> 2022-11-17 18:19:42.352250
+* Drishyam 2
+* Live Score
+* Portugal vs Nigeria
+* Sports
+* Gaalodu Movie Rating
+> 2022-11-18 18:21:27.540104
 
 <!-- Requirements -->
 ### Requirements
