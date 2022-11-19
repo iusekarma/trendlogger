@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Drishyam 2
-* Live Score
-* Portugal vs Nigeria
-* Sports
-* Gaalodu Movie Rating
-> 2022-11-18 18:21:27.540104
+* Australia vs England
+* Qatar vs Ecuador
+* Godfather
+* Indira Gandhi
+* FIFA World Cup games
+> 2022-11-19 18:19:01.344337
 
 <!-- Requirements -->
 ### Requirements
