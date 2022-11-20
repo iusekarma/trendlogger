@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs England
-* Qatar vs Ecuador
-* Godfather
-* Indira Gandhi
-* FIFA World Cup games
-> 2022-11-19 18:19:01.344337
+* Aindrila Sharma
+* Deepak Hooda
+* Argentina vs Saudi Arabia
+* Amazon prime
+* IND %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE NZ
+> 2022-11-20 18:18:43.684251
 
 <!-- Requirements -->
 ### Requirements
