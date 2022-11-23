@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs England
-* Cricket
-* Denmark vs Tunisia
-* Mexico vs Poland
-* Sports
-> 2022-11-22 18:20:09.786935
+* Portugal vs Ghana
+* Suryakumar Yadav
+* Ronaldo
+* Brazil vs Serbia
+* Abu Dhabi T10
+> 2022-11-23 18:18:40.975957
 
 <!-- Requirements -->
 ### Requirements
