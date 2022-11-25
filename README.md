@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* FIFA World Cup standings
-* Kantara
-* Thanksgiving 2022
-* Richa Chadha
-* Myositis
-> 2022-11-24 18:19:28.053544
+* IND vs NZ
+* Brazil vs Serbia
+* Qatar vs Senegal
+* Netherlands vs Ecuador
+* Bhediya
+> 2022-11-25 18:19:04.253540
 
 <!-- Requirements -->
 ### Requirements
