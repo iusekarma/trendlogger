@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* 26/11
-* Constitution of India
-* HTET Admit Card
-* Japan vs Costa Rica
-* Amber Heard
-> 2022-11-26 18:17:17.223866
+* Croatia vs Canada
+* IND vs NZ ODI
+* SL vs AFG
+* Brazil vs Switzerland
+* Shubman Gill
+> 2022-11-27 18:17:34.777935
 
 <!-- Requirements -->
 ### Requirements
