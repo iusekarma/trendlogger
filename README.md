@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Croatia vs Canada
-* IND vs NZ ODI
-* SL vs AFG
-* Brazil vs Switzerland
-* Shubman Gill
-> 2022-11-27 18:17:34.777935
+* Ruturaj Gaikwad
+* Jamal Musiala
+* Ecuador vs Senegal
+* Ozil
+* GATE 2023
+> 2022-11-28 18:19:13.874030
 
 <!-- Requirements -->
 ### Requirements
