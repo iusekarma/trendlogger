@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ruturaj Gaikwad
-* Jamal Musiala
-* Ecuador vs Senegal
-* Ozil
-* GATE 2023
-> 2022-11-28 18:19:13.874030
+* Iran vs USA
+* Poland vs Argentina
+* LOONA Chuu
+* Kashmir Files
+* KVS Recruitment 2022
+> 2022-11-29 18:18:10.558128
 
 <!-- Requirements -->
 ### Requirements
