@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Iran vs USA
-* Poland vs Argentina
-* LOONA Chuu
-* Kashmir Files
-* KVS Recruitment 2022
-> 2022-11-29 18:18:10.558128
+* Australia vs West Indies
+* Cricket
+* Sports
+* IND vs NZ LIVE
+* NDTV
+> 2022-11-30 18:19:30.796393
 
 <!-- Requirements -->
 ### Requirements
