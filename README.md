@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs West Indies
-* Cricket
-* Sports
-* IND vs NZ LIVE
-* NDTV
-> 2022-11-30 18:19:30.796393
+* England vs Pakistan
+* Japan vs Spain
+* Gujarat Election
+* Mexico
+* G20 Presidency
+> 2022-12-01 18:19:13.975307
 
 <!-- Requirements -->
 ### Requirements
