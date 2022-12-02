@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs Pakistan
-* Japan vs Spain
-* Gujarat Election
-* Mexico
-* G20 Presidency
-> 2022-12-01 18:19:13.975307
+* HIT 2 Review
+* Monster
+* Christine McVie Fleetwood Mac
+* Jubin Nautiyal
+* Ricky Ponting
+> 2022-12-02 18:17:10.297080
 
 <!-- Requirements -->
 ### Requirements
