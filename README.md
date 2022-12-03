@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* HIT 2 Review
-* Monster
-* Christine McVie Fleetwood Mac
-* Jubin Nautiyal
-* Ricky Ponting
-> 2022-12-02 18:17:10.297080
+* Argentina vs Australia
+* France vs Poland
+* Switzerland
+* FIFA World Cup 2022 Table
+* Pele
+> 2022-12-03 18:17:03.315218
 
 <!-- Requirements -->
 ### Requirements
