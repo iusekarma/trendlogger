@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Argentina vs Australia
-* France vs Poland
-* Switzerland
-* FIFA World Cup 2022 Table
-* Pele
-> 2022-12-03 18:17:03.315218
+* Indian Navy Day
+* Japan vs Croatia
+* IND vs BAN channel
+* Kerala Blasters
+* FIFA World Cup teams
+> 2022-12-04 18:16:20.016101
 
 <!-- Requirements -->
 ### Requirements
