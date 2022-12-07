@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Portugal vs Switzerland
-* Apurva Padgaonkar
-* UPSC Mains Result 2022
-* Kirstie Alley
-* BR Ambedkar death anniversary
-> 2022-12-06 18:17:59.978753
+* Fifa World Cup brackets
+* Gujarat Election results
+* Rohit Sharma
+* Election Commission of Delhi
+* Rohit Sharma Injury
+> 2022-12-07 18:17:59.500103
 
 <!-- Requirements -->
 ### Requirements
