@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Fifa World Cup brackets
-* Gujarat Election results
-* Rohit Sharma
-* Election Commission of Delhi
-* Rohit Sharma Injury
-> 2022-12-07 18:17:59.500103
+* Himachal Pradesh CM
+* Rampur Election Result
+* Mainpuri Election Result
+* Chennai Weather
+* Ravindra Jadeja
+> 2022-12-08 18:17:45.870911
 
 <!-- Requirements -->
 ### Requirements
