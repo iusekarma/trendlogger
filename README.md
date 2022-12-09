@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Himachal Pradesh CM
-* Rampur Election Result
-* Mainpuri Election Result
-* Chennai Weather
-* Ravindra Jadeja
-> 2022-12-08 18:17:45.870911
+* Croatia vs Brazil
+* IND-W vs AUS-W
+* Netherlands vs Argentina
+* Morocco vs Portugal
+* Marnus Labuschagne
+> 2022-12-09 18:17:40.391902
 
 <!-- Requirements -->
 ### Requirements
