@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Croatia vs Brazil
-* IND-W vs AUS-W
-* Netherlands vs Argentina
-* Morocco vs Portugal
-* Marnus Labuschagne
-> 2022-12-09 18:17:40.391902
+* IND vs BAN
+* Cricket
+* Sports
+* England vs France
+* Argentina vs Croatia
+> 2022-12-10 18:16:58.817585
 
 <!-- Requirements -->
 ### Requirements
