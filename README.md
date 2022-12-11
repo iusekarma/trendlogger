@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs BAN
-* Cricket
-* Sports
-* England vs France
-* Argentina vs Croatia
-> 2022-12-10 18:16:58.817585
+* World Cup games
+* France vs Morocco
+* Liverpool vs Lyon
+* Aston Villa vs Chelsea
+* Antoine Griezmann
+> 2022-12-11 18:17:09.036041
 
 <!-- Requirements -->
 ### Requirements
