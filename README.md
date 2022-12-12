@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* World Cup games
-* France vs Morocco
-* Liverpool vs Lyon
-* Aston Villa vs Chelsea
-* Antoine Griezmann
-> 2022-12-11 18:17:09.036041
+* Maria Telkes
+* Yes Bank Share Price
+* Sula Vineyards IPO
+* Ram Charan
+* Uniparts Share Price
+> 2022-12-12 18:18:23.090585
 
 <!-- Requirements -->
 ### Requirements
