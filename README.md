@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Maria Telkes
-* Yes Bank Share Price
-* Sula Vineyards IPO
-* Ram Charan
-* Uniparts Share Price
-> 2022-12-12 18:18:23.090585
+* Arsenal vs Milan
+* Zika virus
+* Taylor Swift
+* India-China news
+* Big Bash League
+> 2022-12-13 18:17:45.384164
 
 <!-- Requirements -->
 ### Requirements
