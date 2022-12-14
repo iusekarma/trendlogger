@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Arsenal vs Milan
-* Zika virus
-* Taylor Swift
-* India-China news
-* Big Bash League
-> 2022-12-13 18:17:45.384164
+* France vs Morocco
+* Rishabh Pant
+* IND-W vs AUS-W T20
+* IND vs BAN Test 2022
+* Ronaldinho
+> 2022-12-14 18:18:05.591503
 
 <!-- Requirements -->
 ### Requirements
