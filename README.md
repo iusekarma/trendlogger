@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Croatia vs Morocco
-* JEE Main 2023
-* IRCTC Share Price
-* Henry Cavill
-* Karim Benzema
-> 2022-12-15 18:16:15.673363
+* Govinda Naam Mera
+* Shubman Gill
+* Big Bash League
+* Liverpool vs Milan
+* Horoscope
+> 2022-12-16 18:16:51.853429
 
 <!-- Requirements -->
 ### Requirements
