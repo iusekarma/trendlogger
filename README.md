@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Govinda Naam Mera
-* Shubman Gill
-* Big Bash League
-* Liverpool vs Milan
-* Horoscope
-> 2022-12-16 18:16:51.853429
+* Croatia vs Morocco
+* PAK vs ENG
+* South Africa vs Australia
+* IND-W vs AUS-W
+* SSC CGL Answer Key
+> 2022-12-17 18:15:25.499502
 
 <!-- Requirements -->
 ### Requirements
