@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cristiano Ronaldo
-* Neymar
-* Oppenheimer
-* Kerala Blasters
-* Olivier Giroud
-> 2022-12-19 18:17:39.982099
+* IND W vs AUS W
+* China Covid
+* Gram Panchayat Election 2022 Maharashtra Result
+* Tom Cruise
+* Elin Electronics IPO GMP
+> 2022-12-20 18:16:44.820732
 
 <!-- Requirements -->
 ### Requirements
