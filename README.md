@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND W vs AUS W
-* China Covid
-* Gram Panchayat Election 2022 Maharashtra Result
-* Tom Cruise
-* Elin Electronics IPO GMP
-> 2022-12-20 18:16:44.820732
+* Coronavirus News
+* Emily in Paris
+* Jack Ryan, season 3
+* Finland
+* Charles Sobhraj
+> 2022-12-21 18:16:56.875471
 
 <!-- Requirements -->
 ### Requirements
