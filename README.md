@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kaikala Satyanarayana
-* Dhamaka Review
-* Cirkus movie review
-* Glass Onion
-* 18 Pages Movie Review
-> 2022-12-23 18:16:43.543294
+* Tunisha Sharma
+* Christmas wishes
+* Ali Baba: Dastaan-E-Kabul
+* Isha Ambani
+* Varisu Audio Launch
+> 2022-12-24 18:15:43.572138
 
 <!-- Requirements -->
 ### Requirements
