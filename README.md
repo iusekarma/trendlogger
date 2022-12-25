@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Tunisha Sharma
-* Christmas wishes
-* Ali Baba: Dastaan-E-Kabul
-* Isha Ambani
-* Varisu Audio Launch
-> 2022-12-24 18:15:43.572138
+* Chalapathi Rao
+* Ravichandran Ashwin
+* Jesus
+* Christmas songs
+* Kamal Haasan
+> 2022-12-25 18:15:53.318014
 
 <!-- Requirements -->
 ### Requirements
