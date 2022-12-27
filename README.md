@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Brentford vs Tottenham
-* Epic Games
-* Leicester City vs Newcastle
-* Sushant Singh Rajput
-* Boxing Day
-> 2022-12-26 18:16:33.320008
+* Salman Khan
+* David Warner
+* Chelsea vs Bournemouth
+* Australia vs South Africa
+* Prahlad Modi
+> 2022-12-27 18:16:37.941382
 
 <!-- Requirements -->
 ### Requirements
