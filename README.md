@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pele
-* When is CTET exam 2022
-* Fawad Khan Maula Jatt
-* Rishabh Pant
-* Heeraben Modi
-> 2022-12-28 18:16:49.900218
+* CBSE
+* PSG
+* Radhika Merchant
+* Gautam Adani
+* Nitin Manmohan
+> 2022-12-29 18:16:45.971165
 
 <!-- Requirements -->
 ### Requirements
