@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CBSE
-* PSG
-* Radhika Merchant
-* Gautam Adani
-* Nitin Manmohan
-> 2022-12-29 18:16:45.971165
+* Rishabh Pant
+* Happy New Year 2023
+* Pele News
+* Vande Bharat Express
+* Patna Nagar Nigam Election 2022
+> 2022-12-30 18:16:19.957644
 
 <!-- Requirements -->
 ### Requirements
