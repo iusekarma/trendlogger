@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Rishabh Pant
-* Happy New Year 2023
-* Pele News
-* Vande Bharat Express
-* Patna Nagar Nigam Election 2022
-> 2022-12-30 18:16:19.957644
+* Al Nassr
+* Advance Happy New Year 2023
+* Man City vs Everton
+* New Year's Eve
+* Kiara Advani
+> 2022-12-31 18:15:29.346391
 
 <!-- Requirements -->
 ### Requirements
