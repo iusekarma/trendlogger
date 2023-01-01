@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Al Nassr
-* Advance Happy New Year 2023
-* Man City vs Everton
-* New Year's Eve
-* Kiara Advani
-> 2022-12-31 18:15:29.346391
+* Tottenham vs Aston Villa
+* Earthquake
+* Kaleidoscope Netflix
+* Nottm Forest vs Chelsea
+* New Year photos
+> 2023-01-01 18:15:45.918582
 
 <!-- Requirements -->
 ### Requirements
