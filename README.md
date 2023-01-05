@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Varisu Trailer
-* Ssc.nic.in
-* Serie A
-* OnePlus 11
-* CRPF Recruitment 2023
-> 2023-01-04 18:18:01.501602
+* Crystal Palace vs Tottenham
+* Bajaj Finance share price
+* Deepika Padukone
+* Steve Smith
+* Redmi Note 12
+> 2023-01-05 18:17:58.807331
 
 <!-- Requirements -->
 ### Requirements
