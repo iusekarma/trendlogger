@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Crystal Palace vs Tottenham
-* Bajaj Finance share price
-* Deepika Padukone
-* Steve Smith
-* Redmi Note 12
-> 2023-01-05 18:17:58.807331
+* Sports
+* AR Rahman
+* Noah Schnapp
+* Shankar Mishra
+* The Pale Blue Eye
+> 2023-01-06 18:17:11.023619
 
 <!-- Requirements -->
 ### Requirements
