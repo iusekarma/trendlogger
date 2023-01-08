@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Villarreal vs Real Madrid
-* Tottenham vs Portsmouth
-* Delhi Mayor Election
-* Chris Evans
-* Cristiano Ronaldo Al Nassr
-> 2023-01-07 18:15:55.458086
+* Mumbai City vs Kerala Blasters
+* Sports
+* Liverpool vs Wolves
+* Man City vs Chelsea
+* Real Madrid
+> 2023-01-08 18:15:48.198337
 
 <!-- Requirements -->
 ### Requirements
