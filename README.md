@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mumbai City vs Kerala Blasters
-* Sports
-* Liverpool vs Wolves
-* Man City vs Chelsea
-* Real Madrid
-> 2023-01-08 18:15:48.198337
+* Sajid Khan
+* GATE 2023 admit card
+* Infosys
+* Brazil
+* PAK vs NZ ODI
+> 2023-01-09 18:18:12.263805
 
 <!-- Requirements -->
 ### Requirements
