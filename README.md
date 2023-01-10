@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sajid Khan
-* GATE 2023 admit card
-* Infosys
-* Brazil
-* PAK vs NZ ODI
-> 2023-01-09 18:18:12.263805
+* IND vs SL
+* Sports
+* IND %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE SL
+* UP Board Exam date 2023
+* CA Final Result
+> 2023-01-10 18:17:42.968664
 
 <!-- Requirements -->
 ### Requirements
