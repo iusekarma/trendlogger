@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs SL
-* Sports
-* IND %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE SL
-* UP Board Exam date 2023
-* CA Final Result
-> 2023-01-10 18:17:42.968664
+* PAK vs NZ
+* Golden Globes 2023
+* RRR
+* Auto Expo 2023
+* The Fabelmans
+> 2023-01-11 18:21:03.406857
 
 <!-- Requirements -->
 ### Requirements
