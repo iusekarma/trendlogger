@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PAK vs NZ
-* Golden Globes 2023
-* RRR
-* Auto Expo 2023
-* The Fabelmans
-> 2023-01-11 18:21:03.406857
+* Sri Lanka vs India
+* Live Score
+* Veera Simha Reddy
+* PSG
+* Man City
+> 2023-01-12 18:18:57.483432
 
 <!-- Requirements -->
 ### Requirements
