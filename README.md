@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs India
-* Live Score
-* Veera Simha Reddy
-* PSG
-* Man City
-> 2023-01-12 18:18:57.483432
+* Hockey World Cup 2023
+* Elvis Presley
+* Barcelona
+* Paytm share price
+* Kanye West
+> 2023-01-13 18:17:06.885621
 
 <!-- Requirements -->
 ### Requirements
