@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man United vs Man City
-* Napoli vs Juventus
-* Brighton vs Liverpool
-* Steven Spielberg
-* Wolves vs West Ham
-> 2023-01-14 18:15:46.259055
+* Khashaba Dadasaheb Jadhav
+* Live Score
+* Sports
+* Indian Army Day
+* Ind %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE SL
+> 2023-01-15 18:15:35.553586
 
 <!-- Requirements -->
 ### Requirements
