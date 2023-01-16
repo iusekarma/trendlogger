@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Khashaba Dadasaheb Jadhav
-* Live Score
-* Sports
-* Indian Army Day
-* Ind %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE SL
-> 2023-01-15 18:15:35.553586
+* PSG
+* Australian Open
+* Rafael Nadal
+* James Cameron
+* Ligue 1
+> 2023-01-16 18:16:53.755331
 
 <!-- Requirements -->
 ### Requirements
