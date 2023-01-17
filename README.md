@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PSG
-* Australian Open
-* Rafael Nadal
-* James Cameron
-* Ligue 1
-> 2023-01-16 18:16:53.755331
+* SBI PO Prelims Result
+* JEE Main 2023 Admit Card
+* SBI PO Result
+* Babar Azam news
+* Gina Lollobrigida
+> 2023-01-17 18:17:14.252741
 
 <!-- Requirements -->
 ### Requirements
