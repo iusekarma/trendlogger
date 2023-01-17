@@ -6,7 +6,7 @@ pytrend = TrendReq()
 trends = []
 trendingtoday = pytrend.today_searches(pn='IN')
 for i in trendingtoday[:5]:
-    trends.append(i.split('=')[1][:-5].replace('+',' '))
+    trends.append(i.split('=')[1][:-5].replace('+',' ').replace(',',''))
 
 #log it in trend.csv
 with open('trend.csv','a') as file:
