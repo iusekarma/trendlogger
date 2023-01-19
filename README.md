@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Shubman Gill
-* Sports
-* PSG vs Al Nassr
-* ICC
-* FA Cup
-> 2023-01-18 18:17:11.701750
+* Milan vs Inter
+* SSC MTS 2023
+* Adani Enterprises share price
+* Modi in Mumbai
+* THU vs REN
+> 2023-01-19 18:17:57.705055
 
 <!-- Requirements -->
 ### Requirements
