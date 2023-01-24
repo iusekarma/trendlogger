@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs NZ
-* Athiya Shetty
-* Al Nassr
-* IND-W vs WI-W
-* Republic Day
-> 2023-01-23 18:15:54.977746
+* Sports
+* Earthquake
+* Shubman Gill
+* Ind %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE NZ
+* PSG
+> 2023-01-24 18:17:07.272551
 
 <!-- Requirements -->
 ### Requirements
