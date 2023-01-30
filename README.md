@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bubble tea
-* Sports
-* Brighton vs Liverpool
-* Naba Das
-* Royal Rumble 2023
-> 2023-01-29 18:15:34.736326
+* Adani Power share Price
+* PSG
+* Annie Wersching
+* Gandhi
+* Adani FPO
+> 2023-01-30 18:17:28.892781
 
 <!-- Requirements -->
 ### Requirements
