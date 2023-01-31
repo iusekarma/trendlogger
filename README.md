@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Adani Power share Price
-* PSG
-* Annie Wersching
-* Gandhi
-* Adani FPO
-> 2023-01-30 18:17:28.892781
+* Andhra Pradesh capital
+* Priyanka Chopra
+* IND vs NZ 3rd T20
+* Economic Survey 2023
+* February
+> 2023-01-31 18:17:23.258377
 
 <!-- Requirements -->
 ### Requirements
