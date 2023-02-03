@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND-W vs SA-W
-* PSG
-* Sydney Sixers vs Brisbane Heat
-* La Liga
-* Lionel Messi
-> 2023-02-02 18:17:43.530437
+* K Viswanath
+* CA Foundation Result
+* Michael movie Review
+* Thalapathy 67 title
+* JEE Mains Answer Key 2023
+> 2023-02-03 18:17:53.969959
 
 <!-- Requirements -->
 ### Requirements
