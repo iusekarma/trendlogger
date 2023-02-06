@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mallorca vs Real Madrid
-* Ronaldo
-* Man City
-* Pervez Musharraf
-* Cristiano Ronaldo
-> 2023-02-05 18:15:48.350823
+* Turkey Earthquake
+* Valentine Week
+* Adani Enterprises share
+* JEE Mains Result
+* Holi
+> 2023-02-06 18:17:46.734050
 
 <!-- Requirements -->
 ### Requirements
