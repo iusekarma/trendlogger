@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Turkey Earthquake
-* Valentine Week
-* Adani Enterprises share
-* JEE Mains Result
-* Holi
-> 2023-02-06 18:17:46.734050
+* Bard
+* OnePlus 11
+* Kerala Blasters
+* Aaron Finch
+* Kerala Blasters FC
+> 2023-02-07 18:17:25.444395
 
 <!-- Requirements -->
 ### Requirements
