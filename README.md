@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bard
-* OnePlus 11
-* Kerala Blasters
-* Aaron Finch
-* Kerala Blasters FC
-> 2023-02-07 18:17:25.444395
+* Bank of Baroda
+* Bing
+* Man United vs Leeds United
+* Lakers
+* Mahua Moitra
+> 2023-02-08 18:18:13.618905
 
 <!-- Requirements -->
 ### Requirements
