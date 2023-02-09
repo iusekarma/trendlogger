@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bank of Baroda
-* Bing
-* Man United vs Leeds United
-* Lakers
-* Mahua Moitra
-> 2023-02-08 18:18:13.618905
+* Aus vs Ind
+* India vs Australia
+* Cricket
+* Marseille vs PSG
+* Cricket Live
+> 2023-02-09 18:18:16.372222
 
 <!-- Requirements -->
 ### Requirements
