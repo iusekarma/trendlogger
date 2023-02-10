@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Aus vs Ind
-* India vs Australia
-* Cricket
-* Marseille vs PSG
-* Cricket Live
-> 2023-02-09 18:18:16.372222
+* PK Rosy
+* Primary TET Result
+* Rajasthan Budget 2023
+* Farzi review
+* Promise Day
+> 2023-02-10 18:18:17.277505
 
 <!-- Requirements -->
 ### Requirements
