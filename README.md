@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PK Rosy
-* Primary TET Result
-* Rajasthan Budget 2023
-* Farzi review
-* Promise Day
-> 2023-02-10 18:18:17.277505
+* West Ham vs Chelsea
+* Kerala Blasters
+* Arsenal vs Brentford
+* Leicester City vs Tottenham
+* Axar Patel
+> 2023-02-11 18:16:16.178108
 
 <!-- Requirements -->
 ### Requirements
