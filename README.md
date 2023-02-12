@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* West Ham vs Chelsea
-* Kerala Blasters
-* Arsenal vs Brentford
-* Leicester City vs Tottenham
-* Axar Patel
-> 2023-02-11 18:16:16.178108
+* Zimbabwe vs West Indies
+* Ravichandran Ashwin
+* Man City vs Aston Villa
+* Bigg Boss winner 2023
+* Smriti Mandhana
+> 2023-02-12 18:16:38.022672
 
 <!-- Requirements -->
 ### Requirements
