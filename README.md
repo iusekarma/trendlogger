@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Super Bowl
-* PSL
-* Happy Valentine's Day
-* The Flash
-* Women's Day
-> 2023-02-13 18:18:33.734087
+* CTET Answer Key
+* BBC
+* Ellyse Perry
+* Cow Hug Day
+* Javed Khan Amrohi
+> 2023-02-14 18:18:09.047563
 
 <!-- Requirements -->
 ### Requirements
