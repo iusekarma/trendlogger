@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CTET Answer Key
-* BBC
-* Ellyse Perry
-* Cow Hug Day
-* Javed Khan Amrohi
-> 2023-02-14 18:18:09.047563
+* IND W vs WI W
+* UEFA champions League
+* ICC Ranking
+* CRPF Admit Card
+* Arsenal vs Man City
+> 2023-02-15 18:18:22.926996
 
 <!-- Requirements -->
 ### Requirements
