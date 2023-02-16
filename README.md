@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND W vs WI W
-* UEFA champions League
-* ICC Ranking
-* CRPF Admit Card
-* Arsenal vs Man City
-> 2023-02-15 18:18:22.926996
+* England vs New Zealand
+* Prithvi Shaw
+* Sri Lanka Women Vs Australia Women
+* Bengal vs Saurashtra
+* Tripura Election
+> 2023-02-16 18:16:56.782849
 
 <!-- Requirements -->
 ### Requirements
