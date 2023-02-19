@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs ENG
-* Aston Villa vs Arsenal
-* SSC GD Answer Key 2023
-* Nottm Forest vs Man City
-* Al Nassr
-> 2023-02-18 18:16:39.953118
+* Mayilsamy
+* West Indies Women vs Pakistan Women
+* Mayilsamy actor
+* Tottenham vs West Ham
+* Liverpool FC
+> 2023-02-19 18:16:45.288987
 
 <!-- Requirements -->
 ### Requirements
