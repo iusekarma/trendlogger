@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mayilsamy
-* West Indies Women vs Pakistan Women
-* Mayilsamy actor
-* Tottenham vs West Ham
-* Liverpool FC
-> 2023-02-19 18:16:45.288987
+* Cheteshwar Pujara
+* MSBTE result
+* Ligue 1
+* Goa
+* Kartik Aaryan Shehzada
+> 2023-02-20 18:18:02.890993
 
 <!-- Requirements -->
 ### Requirements
