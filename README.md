@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cheteshwar Pujara
-* MSBTE result
-* Ligue 1
-* Goa
-* Kartik Aaryan Shehzada
-> 2023-02-20 18:18:02.890993
+* ICC Women's T20 World Cup
+* International Mother Language Day
+* Hera Pheri 3
+* Phulera Dooj
+* Poco C55
+> 2023-02-21 18:18:12.339178
 
 <!-- Requirements -->
 ### Requirements
