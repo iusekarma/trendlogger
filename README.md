@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* ICC Women's T20 World Cup
-* International Mother Language Day
-* Hera Pheri 3
-* Phulera Dooj
-* Poco C55
-> 2023-02-21 18:18:12.339178
+* Subi Suresh
+* Eintracht Frankfurt vs Napoli
+* Sarah Taylor
+* Japan
+* Rafael Nadal
+> 2023-02-22 18:18:32.602578
 
 <!-- Requirements -->
 ### Requirements
