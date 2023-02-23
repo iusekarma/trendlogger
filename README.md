@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Subi Suresh
-* Eintracht Frankfurt vs Napoli
-* Sarah Taylor
-* Japan
-* Rafael Nadal
-> 2023-02-22 18:18:32.602578
+* IND W vs AUS W
+* Man United vs Barcelona
+* Pawan Khera
+* Veera Simha Reddy OTT
+* Adenovirus
+> 2023-02-23 18:18:50.735322
 
 <!-- Requirements -->
 ### Requirements
