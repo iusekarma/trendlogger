@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND W vs AUS W
-* Man United vs Barcelona
-* Pawan Khera
-* Veera Simha Reddy OTT
-* Adenovirus
-> 2023-02-23 18:18:50.735322
+* Sergio Ramos
+* Joe Root
+* Juventus
+* Pawan Khera statement
+* Tourette syndrome
+> 2023-02-24 18:18:23.732893
 
 <!-- Requirements -->
 ### Requirements
