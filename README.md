@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sergio Ramos
-* Joe Root
-* Juventus
-* Pawan Khera statement
-* Tourette syndrome
-> 2023-02-24 18:18:23.732893
+* Leicester City vs Arsenal
+* Real Madrid vs atl%C3%A9tico Madrid
+* Fulham vs Wolves
+* Sainik School Result 2023
+* UEFA Europa League
+> 2023-02-25 18:17:04.944042
 
 <!-- Requirements -->
 ### Requirements
