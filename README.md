@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Leicester City vs Arsenal
-* Real Madrid vs atl%C3%A9tico Madrid
-* Fulham vs Wolves
-* Sainik School Result 2023
-* UEFA Europa League
-> 2023-02-25 18:17:04.944042
+* Man United vs Newcastle
+* Aus vs SA
+* Tottenham vs Chelsea
+* Crystal Palace vs Liverpool
+* Manish Sisodia
+> 2023-02-26 18:17:05.546920
 
 <!-- Requirements -->
 ### Requirements
