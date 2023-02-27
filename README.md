@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man United vs Newcastle
-* Aus vs SA
-* Tottenham vs Chelsea
-* Crystal Palace vs Liverpool
-* Manish Sisodia
-> 2023-02-26 18:17:05.546920
+* NEET PG 2023
+* Ashwani Gujral
+* Nokia
+* PM KISAN release date 13th installment
+* Osmania university
+> 2023-02-27 18:18:42.906058
 
 <!-- Requirements -->
 ### Requirements
