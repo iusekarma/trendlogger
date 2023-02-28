@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* NEET PG 2023
-* Ashwani Gujral
-* Nokia
-* PM KISAN release date 13th installment
-* Osmania university
-> 2023-02-27 18:18:42.906058
+* SA vs WI
+* NZ vs ENG
+* Vedanta share Price
+* Nepal
+* FCI Result
+> 2023-02-28 18:18:47.834601
 
 <!-- Requirements -->
 ### Requirements
