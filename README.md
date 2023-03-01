@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SA vs WI
-* NZ vs ENG
-* Vedanta share Price
-* Nepal
-* FCI Result
-> 2023-02-28 18:18:47.834601
+* IND vs AUS
+* BAN vs ENG
+* Sports
+* Umesh Yadav
+* Vivo V27 Pro
+> 2023-03-01 18:18:41.256203
 
 <!-- Requirements -->
 ### Requirements
