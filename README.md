@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* WPL 2023
-* Arsenal vs Bournemouth
-* Chelsea vs Leeds United
-* Napoli vs Lazio
-* Wolves vs Tottenham
-> 2023-03-04 18:16:48.713194
+* RCB vs DC
+* PSG
+* UFC
+* Nottm Forest vs Everton
+* Ranbir Kapoor
+> 2023-03-05 18:16:51.238882
 
 <!-- Requirements -->
 ### Requirements
