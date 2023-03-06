@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RCB vs DC
-* PSG
-* UFC
-* Nottm Forest vs Everton
-* Ranbir Kapoor
-> 2023-03-05 18:16:51.238882
+* Liverpool vs Man United
+* Real Betis vs Real Madrid
+* Amitabh Bachchan
+* MI vs RCB
+* Pakistani actor Qavi Khan
+> 2023-03-06 18:19:05.348765
 
 <!-- Requirements -->
 ### Requirements
