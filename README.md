@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bournemouth vs Liverpool
-* Real Madrid vs Espanyol
-* Leicester City vs Chelsea
-* Virat Kohli
-* Rohit Sharma
-> 2023-03-11 18:16:00.853575
+* Shreyas Iyer
+* Fulham vs Arsenal
+* Mumbai City FC
+* India Post GDS Result 2023
+* Bangladesh vs England
+> 2023-03-12 18:16:07.369741
 
 <!-- Requirements -->
 ### Requirements
