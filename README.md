@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Shreyas Iyer
-* Fulham vs Arsenal
-* Mumbai City FC
-* India Post GDS Result 2023
-* Bangladesh vs England
-> 2023-03-12 18:16:07.369741
+* NZ vs SL
+* RRR
+* The Elephant Whisperers
+* Brendan Fraser
+* WTC Final 2023
+> 2023-03-13 18:17:09.791003
 
 <!-- Requirements -->
 ### Requirements
