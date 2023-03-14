@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* NZ vs SL
-* RRR
-* The Elephant Whisperers
-* Brendan Fraser
-* WTC Final 2023
-> 2023-03-13 18:17:09.791003
+* NEET PG 2023 Result
+* Man City vs RB Leipzig
+* Pi Day
+* Albert Einstein
+* AP SSC Hall Tickets 2023
+> 2023-03-14 18:21:21.299143
 
 <!-- Requirements -->
 ### Requirements
