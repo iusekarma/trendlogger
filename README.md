@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* GPT-4
-* Credit Suisse
-* Alia Bhatt
-* Bihar Board 12th Result 2023
-* Sameer Khakhar
-> 2023-03-15 18:18:07.670694
+* Worker
+* Shadow and Bone
+* Aman Dhaliwal
+* Social Science
+* SA vs WI ODI
+> 2023-03-16 18:17:55.160922
 
 <!-- Requirements -->
 ### Requirements
