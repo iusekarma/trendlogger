@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Worker
-* Shadow and Bone
-* Aman Dhaliwal
-* Social Science
-* SA vs WI ODI
-> 2023-03-16 18:17:55.160922
+* IND vs AUS
+* IND vs AUS Live
+* Virat Kohli
+* Zwigato
+* World Sleep Day
+> 2023-03-17 18:16:28.514941
 
 <!-- Requirements -->
 ### Requirements
