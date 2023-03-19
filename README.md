@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* BAN vs IRE
-* Bihar Board 12th Result 2023
-* Amritpal Singh
-* Lance Reddick John Wick
-* Southampton vs Tottenham
-> 2023-03-18 18:16:12.986745
+* Mario Molina
+* Al Nassr
+* Arsenal vs Crystal Palace
+* FA Cup
+* Man City
+> 2023-03-19 18:16:26.887093
 
 <!-- Requirements -->
 ### Requirements
