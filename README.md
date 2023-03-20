@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mario Molina
-* Al Nassr
-* Arsenal vs Crystal Palace
-* FA Cup
-* Man City
-> 2023-03-19 18:16:26.887093
+* BAN vs IRE
+* PSG
+* Credit Suisse
+* Ligue 1
+* Man Utd
+> 2023-03-20 18:18:04.929644
 
 <!-- Requirements -->
 ### Requirements
