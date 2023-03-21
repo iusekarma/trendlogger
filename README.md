@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* BAN vs IRE
-* PSG
-* Credit Suisse
-* Ligue 1
-* Man Utd
-> 2023-03-20 18:18:04.929644
+* Nowruz
+* Bihar School Examination Board
+* Earthquake
+* IND vs AUS 3rd ODI
+* WPL Points Table
+> 2023-03-21 18:17:08.242250
 
 <!-- Requirements -->
 ### Requirements
