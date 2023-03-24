@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ire vs Ban
-* Rahul Gandhi
-* John Wick 4
-* Argentina vs Panama
-* Hindenburg Research
-> 2023-03-23 18:16:59.637906
+* Kitty O'Neil
+* Ramadan Mubarak
+* TNPSC Group 4 Result 2023
+* TNPSC Group 4 Result
+* Pradeep Sarkar
+> 2023-03-24 18:16:56.074187
 
 <!-- Requirements -->
 ### Requirements
