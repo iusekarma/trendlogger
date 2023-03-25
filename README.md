@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kitty O'Neil
-* Ramadan Mubarak
-* TNPSC Group 4 Result 2023
-* TNPSC Group 4 Result
-* Pradeep Sarkar
-> 2023-03-24 18:16:56.074187
+* Innocent
+* SA vs WI T20
+* Hailey Bieber
+* Earth Hour 2023
+* France
+> 2023-03-25 18:15:20.881171
 
 <!-- Requirements -->
 ### Requirements
