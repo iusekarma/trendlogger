@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Innocent
-* SA vs WI T20
-* Hailey Bieber
-* Earth Hour 2023
-* France
-> 2023-03-25 18:15:20.881171
+* Akanksha Dubey
+* Morocco vs Brazil
+* WPL Final
+* Germany vs Peru
+* England vs Ukraine
+> 2023-03-26 18:15:33.877488
 
 <!-- Requirements -->
 ### Requirements
