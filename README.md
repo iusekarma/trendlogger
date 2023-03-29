@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* How to check PAN link with Aadhar
-* India vs Kyrgyzstan
-* TET Paper 2 result
-* Nashville
-* Vedanta dividend
-> 2023-03-28 18:17:22.004525
+* Argentina vs cura%C3%A7ao
+* Bangladesh vs Ireland
+* UPI Charges
+* Germany vs Belgium
+* Parineeti Chopra
+> 2023-03-29 18:22:34.104024
 
 <!-- Requirements -->
 ### Requirements
