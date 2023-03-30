@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Argentina vs cura%C3%A7ao
-* Bangladesh vs Ireland
-* UPI Charges
-* Germany vs Belgium
-* Parineeti Chopra
-> 2023-03-29 18:22:34.104024
+* Dasara movie review
+* Pathu Thala
+* IPL 2023 start Date
+* %E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A4%B5%E0%A4%AE%E0%A5%80
+* Ponniyin Selvan 2 Trailer
+> 2023-03-30 18:15:34.512104
 
 <!-- Requirements -->
 ### Requirements
