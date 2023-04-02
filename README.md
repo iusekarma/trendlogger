@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man City vs Liverpool
-* Andrew Tate
-* Arsenal vs Leeds United
-* Delhi Capitals
-* Gigi Hadid
-> 2023-04-01 18:14:42.802197
+* South Africa vs Netherlands
+* Real Madrid vs Valladolid
+* Salim Durani
+* Zendaya
+* Palm Sunday 2023
+> 2023-04-02 18:14:26.527338
 
 <!-- Requirements -->
 ### Requirements
