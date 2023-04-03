@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* South Africa vs Netherlands
-* Real Madrid vs Valladolid
-* Salim Durani
-* Zendaya
-* Palm Sunday 2023
-> 2023-04-02 18:14:26.527338
+* SBI
+* PSG vs Lyon
+* Mahavir Jayanti 2023
+* IPL Points Table
+* PSG
+> 2023-04-03 18:15:52.355084
 
 <!-- Requirements -->
 ### Requirements
