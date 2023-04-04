@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SBI
-* PSG vs Lyon
-* Mahavir Jayanti 2023
-* IPL Points Table
-* PSG
-> 2023-04-03 18:15:52.355084
+* DC vs GT
+* Twitter
+* OnePlus Nord CE 3 Lite
+* Everton vs Tottenham
+* Robert Downey Jr
+> 2023-04-04 18:14:18.946499
 
 <!-- Requirements -->
 ### Requirements
