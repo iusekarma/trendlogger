@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* DC vs GT
-* Twitter
-* OnePlus Nord CE 3 Lite
-* Everton vs Tottenham
-* Robert Downey Jr
-> 2023-04-04 18:14:18.946499
+* RR vs PBKS
+* Al Nassr
+* UP Board Result 2023
+* Bhanuka Rajapaksa
+* Rohit Sharma
+> 2023-04-05 18:18:49.262458
 
 <!-- Requirements -->
 ### Requirements
