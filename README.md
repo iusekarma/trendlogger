@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RR vs PBKS
-* Al Nassr
-* UP Board Result 2023
-* Bhanuka Rajapaksa
-* Rohit Sharma
-> 2023-04-05 18:18:49.262458
+* Hanuman Jayanti 2023
+* Hanuman Chalisa
+* Good Friday
+* Man United vs Brentford
+* Samastha Result 2023
+> 2023-04-06 18:15:54.887369
 
 <!-- Requirements -->
 ### Requirements
