@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RR vs DC
-* SSC GD Result 2023
-* Man United vs Everton
-* Manish Pandey
-* Chelsea
-> 2023-04-08 18:14:46.769680
+* GT vs KKR
+* PBKS vs SRH
+* Easter
+* Points Table IPL 2023
+* Real Madrid vs Villarreal
+> 2023-04-09 18:14:50.302114
 
 <!-- Requirements -->
 ### Requirements
