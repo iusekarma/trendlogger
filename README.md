@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* GT vs KKR
-* PBKS vs SRH
-* Easter
-* Points Table IPL 2023
-* Real Madrid vs Villarreal
-> 2023-04-09 18:14:50.302114
+* Al Nassr
+* Siblings Day
+* Dalai Lama
+* Tata Motors share
+* Elon Musk Twitter
+> 2023-04-10 18:16:01.549794
 
 <!-- Requirements -->
 ### Requirements
