@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Al Nassr
-* Siblings Day
-* Dalai Lama
-* Tata Motors share
-* Elon Musk Twitter
-> 2023-04-10 18:16:01.549794
+* DC vs MI
+* Barcelona vs Girona
+* Millie Bobby Brown
+* Champions League
+* OnePlus Nord CE 3 Lite 5G
+> 2023-04-11 18:15:10.172617
 
 <!-- Requirements -->
 ### Requirements
