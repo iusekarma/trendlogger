@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Axar Patel
-* Benfica vs Inter
-* Keshub Mahindra
-* The Marvels
-* Kerala Blasters
-> 2023-04-12 18:15:46.505010
+* GT vs PBKS
+* Atiq Ahmed
+* UGC NET Result 2023
+* Milan vs Napoli
+* Bloody Daddy Shahid Kapoor
+> 2023-04-13 18:16:06.064684
 
 <!-- Requirements -->
 ### Requirements
