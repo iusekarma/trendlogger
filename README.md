@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* GT vs PBKS
-* Atiq Ahmed
-* UGC NET Result 2023
-* Milan vs Napoli
-* Bloody Daddy Shahid Kapoor
-> 2023-04-13 18:16:06.064684
+* Europa League
+* Eden Gardens
+* C%C3%A9line Dion
+* Shakuntalam review
+* Mrs Undercover
+> 2023-04-14 18:15:43.953967
 
 <!-- Requirements -->
 ### Requirements
