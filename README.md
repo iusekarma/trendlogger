@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Infosys Share Price
-* Chennai Super Kings
-* MS Dhoni
-* HDFC Bank share price
-* Mammootty
-> 2023-04-17 18:16:38.921253
+* MI vs SRH
+* Leeds United vs Liverpool
+* Tilak Varma
+* BTEUP result 2023
+* Timothee Chalamet
+> 2023-04-18 18:16:46.396583
 
 <!-- Requirements -->
 ### Requirements
