@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* MI vs SRH
-* Leeds United vs Liverpool
-* Tilak Varma
-* BTEUP result 2023
-* Timothee Chalamet
-> 2023-04-18 18:16:46.396583
+* LSG vs RR
+* Al Nassr
+* Napoli vs Milan
+* Most populated country
+* Sawai Mansingh Stadium pitch report
+> 2023-04-19 18:16:57.404639
 
 <!-- Requirements -->
 ### Requirements
