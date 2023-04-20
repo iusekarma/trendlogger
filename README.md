@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* LSG vs RR
-* Al Nassr
-* Napoli vs Milan
-* Most populated country
-* Sawai Mansingh Stadium pitch report
-> 2023-04-19 18:16:57.404639
+* DC vs KKR
+* Eid-Ul-Fitr 2023
+* Bayern vs Man City
+* Yash Chopra
+* Orange cap in IPL 2023
+> 2023-04-20 18:16:02.544689
 
 <!-- Requirements -->
 ### Requirements
