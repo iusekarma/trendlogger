@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* DC vs KKR
-* Eid-Ul-Fitr 2023
-* Bayern vs Man City
-* Yash Chopra
-* Orange cap in IPL 2023
-> 2023-04-20 18:16:02.544689
+* Kisi Ka Bhai Kisi Ki Jaan
+* Sevilla vs Man United
+* Ramadan 2023
+* Virupaksha Movie Review
+* Evil Dead
+> 2023-04-21 18:16:10.664979
 
 <!-- Requirements -->
 ### Requirements
