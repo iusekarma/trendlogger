@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Arijit Singh
-* Parkash Singh Badal
-* Al Nassr
-* DRDO
-* Hardik pandya
-> 2023-04-25 18:16:09.432922
+* KKR vs RCB
+* Mamukoya
+* VIT
+* Shahbaz Ahmed
+* Vivo X90
+> 2023-04-26 18:16:16.703136
 
 <!-- Requirements -->
 ### Requirements
