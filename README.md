@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* KKR vs RCB
-* Mamukoya
-* VIT
-* Shahbaz Ahmed
-* Vivo X90
-> 2023-04-26 18:16:16.703136
+* Chelsea vs Brentford
+* Barcelona
+* Chelsea
+* Ruturaj Gaikwad
+* Operation Kaveri
+> 2023-04-27 18:15:55.713353
 
 <!-- Requirements -->
 ### Requirements
