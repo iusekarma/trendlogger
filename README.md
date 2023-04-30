@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* LSG vs PBKS
-* Ponniyin Selvan 2
-* Citadel
-* Tottenham vs Man United
-* PSEB 8th class result 2023
-> 2023-04-28 18:15:20.920706
+* Alan Rickman
+* NEET admit card 2023
+* Jaiswal
+* PSG vs Lorient
+* Barcelona vs Real Betis
+> 2023-04-30 18:14:37.354749
 
 <!-- Requirements -->
 ### Requirements
