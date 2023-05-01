@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Alan Rickman
-* NEET admit card 2023
-* Jaiswal
-* PSG vs Lorient
-* Barcelona vs Real Betis
-> 2023-04-30 18:14:37.354749
+* RCB vs LSG
+* Ponniyin Selvan
+* Jock Zonfrillo
+* Sandeep Sharma
+* Suryakumar Yadav
+> 2023-05-01 18:15:47.393932
 
 <!-- Requirements -->
 ### Requirements
