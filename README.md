@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RCB vs LSG
-* Ponniyin Selvan
-* Jock Zonfrillo
-* Sandeep Sharma
-* Suryakumar Yadav
-> 2023-05-01 18:15:47.393932
+* DC vs GT
+* Sharad Pawar
+* GUJCET Result 2023
+* Leicester City vs Everton
+* Brain
+> 2023-05-02 18:15:50.694733
 
 <!-- Requirements -->
 ### Requirements
