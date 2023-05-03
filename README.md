@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* DC vs GT
-* Sharad Pawar
-* GUJCET Result 2023
-* Leicester City vs Everton
-* Brain
-> 2023-05-02 18:15:50.694733
+* PBKS vs MI
+* Pakistan vs New Zealand
+* Manobala
+* Arsenal vs Chelsea
+* Ayush Badoni
+> 2023-05-03 18:15:48.968438
 
 <!-- Requirements -->
 ### Requirements
