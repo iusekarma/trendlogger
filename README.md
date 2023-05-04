@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PBKS vs MI
-* Pakistan vs New Zealand
-* Manobala
-* Arsenal vs Chelsea
-* Ayush Badoni
-> 2023-05-03 18:15:48.968438
+* KKR vs SRH
+* Man City vs West Ham
+* Anil Dujana
+* Liverpool vs Fulham
+* 10th Result 2023 Date
+> 2023-05-04 18:15:55.540456
 
 <!-- Requirements -->
 ### Requirements
