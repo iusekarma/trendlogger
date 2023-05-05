@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* KKR vs SRH
-* Man City vs West Ham
-* Anil Dujana
-* Liverpool vs Fulham
-* 10th Result 2023 Date
-> 2023-05-04 18:15:55.540456
+* RR vs GT
+* The Kerala Story
+* Pakistan vs New Zealand
+* Brighton vs Man United
+* 10th Results 2023
+> 2023-05-05 18:15:37.047063
 
 <!-- Requirements -->
 ### Requirements
