@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* GT vs LSG
-* NEET 2023 answer key
-* Titans vs Super Giants
-* ONDC
-* Newcastle vs Arsenal
-> 2023-05-07 18:14:51.052977
+* PBKS Vs KKR
+* Mother's Day
+* Troyes vs PSG
+* TN 12th Result 2023
+* PAK vs NZ
+> 2023-05-08 18:15:46.307109
 
 <!-- Requirements -->
 ### Requirements
