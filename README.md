@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PBKS Vs KKR
-* Mother's Day
-* Troyes vs PSG
-* TN 12th Result 2023
-* PAK vs NZ
-> 2023-05-08 18:15:46.307109
+* Bangladesh vs Ireland
+* Champions League
+* AP EAMCET hall ticket download 2023
+* Chris Jordan
+* Poco F5
+> 2023-05-09 18:16:14.937748
 
 <!-- Requirements -->
 ### Requirements
