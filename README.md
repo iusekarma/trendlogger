@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bangladesh vs Ireland
-* Champions League
-* AP EAMCET hall ticket download 2023
-* Chris Jordan
-* Poco F5
-> 2023-05-09 18:16:14.937748
+* Fastest fifty in IPL
+* Bard
+* Pixel 7a
+* Fastest 50 in IPL history
+* MS Dhoni
+> 2023-05-11 18:15:36.178242
 
 <!-- Requirements -->
 ### Requirements
