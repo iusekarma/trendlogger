@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Fastest fifty in IPL
-* Bard
-* Pixel 7a
-* Fastest 50 in IPL history
-* MS Dhoni
-> 2023-05-11 18:15:36.178242
+* 10th Class Result 2023 check online
+* Mother's Day
+* Vishnu Vinod
+* MP Board 12th Result 2023
+* Juventus vs Sevilla
+> 2023-05-12 18:15:23.903337
 
 <!-- Requirements -->
 ### Requirements
