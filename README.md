@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* 10th Class Result 2023 check online
-* Mother's Day
-* Vishnu Vinod
-* MP Board 12th Result 2023
-* Juventus vs Sevilla
-> 2023-05-12 18:15:23.903337
+* Mi vs gt
+* SRH vs LSG
+* PBKS vs DC
+* Parineeti Chopra Engagement
+* Happy Mother's Day
+> 2023-05-13 18:14:57.592631
 
 <!-- Requirements -->
 ### Requirements
