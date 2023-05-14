@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mi vs gt
-* SRH vs LSG
-* PBKS vs DC
-* Parineeti Chopra Engagement
-* Happy Mother's Day
-> 2023-05-13 18:14:57.592631
+* PSG vs Ajaccio
+* CUET
+* Everton vs Man City
+* PSG
+* Real Madrid vs Getafe
+> 2023-05-14 18:14:10.194007
 
 <!-- Requirements -->
 ### Requirements
