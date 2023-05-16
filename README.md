@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* MP Board Result 2023
-* GT vs SRH
-* MP Board 10th Result 2023
-* Bhuvneshwar Kumar
-* Man City
-> 2023-05-15 18:16:01.273053
+* Leicester City vs Liverpool
+* Krunal Pandya
+* Brock Lesnar
+* Vicky Kaushal
+* Bayern Munich
+> 2023-05-16 18:15:41.194306
 
 <!-- Requirements -->
 ### Requirements
