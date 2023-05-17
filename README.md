@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Leicester City vs Liverpool
-* Krunal Pandya
-* Brock Lesnar
-* Vicky Kaushal
-* Bayern Munich
-> 2023-05-16 18:15:41.194306
+* DC vs PBKS
+* Al Nassr
+* Tim David
+* Narendra Modi
+* Ant-Man
+> 2023-05-17 18:15:34.415670
 
 <!-- Requirements -->
 ### Requirements
