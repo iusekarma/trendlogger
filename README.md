@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* DC vs PBKS
-* Al Nassr
-* Tim David
-* Narendra Modi
-* Ant-Man
-> 2023-05-17 18:15:34.415670
+* BSE Odisha Result 2023
+* Fast X reviews
+* Arjun Ram Meghwal
+* Siddaramaiah
+* SBI share price
+> 2023-05-18 18:15:46.548384
 
 <!-- Requirements -->
 ### Requirements
