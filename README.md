@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* BSE Odisha Result 2023
-* Fast X reviews
-* Arjun Ram Meghwal
-* Siddaramaiah
-* SBI share price
-> 2023-05-18 18:15:46.548384
+* PBKS vs RR
+* 2000 Note
+* BGMI
+* TN 10th Result
+* Pichaikkaran 2 Review
+> 2023-05-19 18:15:31.693293
 
 <!-- Requirements -->
 ### Requirements
