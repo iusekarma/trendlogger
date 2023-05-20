@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PBKS vs RR
-* 2000 Note
-* BGMI
-* TN 10th Result
-* Pichaikkaran 2 Review
-> 2023-05-19 18:15:31.693293
+* CSK vs DC
+* LSG vs KKR
+* JAC 10th result 2023
+* Agniveer Result 2023
+* Polycet results 2023
+> 2023-05-20 18:14:30.073943
 
 <!-- Requirements -->
 ### Requirements
