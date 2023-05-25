@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* HS Result 2023
-* Vaibhavi Upadhyaya
-* PSEB 12th Result 2023
-* 12th HSC Result 2023
-* Vishu Bumper 2023 result
-> 2023-05-24 18:15:45.374044
+* MP Board 10th Result 2023
+* GSEB 10th Result link
+* Ashish Vidyarthi
+* Plus Two Result 2023
+* Plus Two Result 2023 school wise
+> 2023-05-25 18:15:40.400246
 
 <!-- Requirements -->
 ### Requirements
