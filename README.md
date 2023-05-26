@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* MP Board 10th Result 2023
-* GSEB 10th Result link
-* Ashish Vidyarthi
-* Plus Two Result 2023
-* Plus Two Result 2023 school wise
-> 2023-05-25 18:15:40.400246
+* Gill
+* Man United vs Chelsea
+* WBJEE Result 2023
+* Germany
+* POLYCET Results 2023
+> 2023-05-26 18:15:26.326598
 
 <!-- Requirements -->
 ### Requirements
