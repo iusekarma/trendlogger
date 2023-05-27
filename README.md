@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Gill
-* Man United vs Chelsea
-* WBJEE Result 2023
-* Germany
-* POLYCET Results 2023
-> 2023-05-26 18:15:26.326598
+* IPL Final 2023
+* Live Score
+* HS Result 2023
+* Shubman Gill IPL 2023 runs
+* WTC Final
+> 2023-05-27 18:14:28.805294
 
 <!-- Requirements -->
 ### Requirements
