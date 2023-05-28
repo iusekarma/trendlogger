@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IPL Final 2023
-* Live Score
-* HS Result 2023
-* Shubman Gill IPL 2023 runs
-* WTC Final
-> 2023-05-27 18:14:28.805294
+* New Parliament building
+* PSG
+* Al Nassr
+* Man United vs Fulham
+* French Open
+> 2023-05-28 18:14:20.936885
 
 <!-- Requirements -->
 ### Requirements
