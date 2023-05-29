@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Parliament building
-* PSG
-* Al Nassr
-* Man United vs Fulham
-* French Open
-> 2023-05-28 18:14:20.936885
+* SSC Result 2023 Maharashtra Board
+* Sidhu Moose Wala
+* JEE Advanced Admit Card
+* Manipur
+* Memorial Day
+> 2023-05-29 18:15:22.030304
 
 <!-- Requirements -->
 ### Requirements
