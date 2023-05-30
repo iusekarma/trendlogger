@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SSC Result 2023 Maharashtra Board
-* Sidhu Moose Wala
-* JEE Advanced Admit Card
-* Manipur
-* Memorial Day
-> 2023-05-29 18:15:22.030304
+* Rivaba Jadeja
+* Rashid Khan
+* IPL Winners List
+* JAC 12th Result 2023 Arts
+* Ganga Dussehra 2023
+> 2023-05-30 18:15:37.697419
 
 <!-- Requirements -->
 ### Requirements
