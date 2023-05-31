@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Rivaba Jadeja
-* Rashid Khan
-* IPL Winners List
-* JAC 12th Result 2023 Arts
-* Ganga Dussehra 2023
-> 2023-05-30 18:15:37.697419
+* Orissaresults.nic.in 2023
+* Al Pacino
+* Brij Bhushan Sharan Singh
+* World No Tobacco Day
+* Mahesh Babu
+> 2023-05-31 18:15:48.593327
 
 <!-- Requirements -->
 ### Requirements
