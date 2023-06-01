@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Orissaresults.nic.in 2023
-* Al Pacino
-* Brij Bhushan Sharan Singh
-* World No Tobacco Day
-* Mahesh Babu
-> 2023-05-31 18:15:48.593327
+* Europa League
+* Asur Season 2
+* ENG vs IRE
+* Al Nassr
+* US debt ceiling news
+> 2023-06-01 18:16:34.397840
 
 <!-- Requirements -->
 ### Requirements
