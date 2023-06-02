@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Europa League
-* Asur Season 2
-* ENG vs IRE
-* Al Nassr
-* US debt ceiling news
-> 2023-06-01 18:16:34.397840
+* Coromandel Express
+* Dwayne Johnson
+* Roman Reigns
+* Zara Hatke Zara Bachke Review
+* AR Rahman
+> 2023-06-02 18:15:15.044410
 
 <!-- Requirements -->
 ### Requirements
