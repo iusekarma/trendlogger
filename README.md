@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Coromandel Express
-* Dwayne Johnson
-* Roman Reigns
-* Zara Hatke Zara Bachke Review
-* AR Rahman
-> 2023-06-02 18:15:15.044410
+* News Today
+* Nepal PM Pushpa Kamal Dahal
+* Novak Djokovic
+* David Warner
+* World Bicycle Day
+> 2023-06-03 18:14:37.279680
 
 <!-- Requirements -->
 ### Requirements
