@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* News Today
-* Nepal PM Pushpa Kamal Dahal
-* Novak Djokovic
-* David Warner
-* World Bicycle Day
-> 2023-06-03 18:14:37.279680
+* PSG vs Clermont Foot
+* UAE vs West Indies
+* Ruturaj Gaikwad
+* SL vs AFG
+* JEE Advanced 2023
+> 2023-06-04 18:14:48.786641
 
 <!-- Requirements -->
 ### Requirements
