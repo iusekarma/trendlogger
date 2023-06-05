@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PSG vs Clermont Foot
-* UAE vs West Indies
-* Ruturaj Gaikwad
-* SL vs AFG
-* JEE Advanced 2023
-> 2023-06-04 18:14:48.786641
+* Kollam Sudhi
+* NIRF Ranking 2023
+* Zlatan
+* Pat Cummins
+* TBSE result 2023
+> 2023-06-05 18:15:32.833507
 
 <!-- Requirements -->
 ### Requirements
