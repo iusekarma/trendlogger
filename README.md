@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kollam Sudhi
-* NIRF Ranking 2023
-* Zlatan
-* Pat Cummins
-* TBSE result 2023
-> 2023-06-05 18:15:32.833507
+* HS Result 2023
+* Honda Elevate
+* Vissel Kobe vs Barcelona
+* iOS 17
+* IKIO Lighting IPO GMP
+> 2023-06-06 18:15:42.126799
 
 <!-- Requirements -->
 ### Requirements
