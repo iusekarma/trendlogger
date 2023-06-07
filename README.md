@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* HS Result 2023
-* Honda Elevate
-* Vissel Kobe vs Barcelona
-* iOS 17
-* IKIO Lighting IPO GMP
-> 2023-06-06 18:15:42.126799
+* David Warner
+* Sports
+* IND vs AUS Live
+* Inter Miami
+* Avatar
+> 2023-06-07 18:16:30.815296
 
 <!-- Requirements -->
 ### Requirements
