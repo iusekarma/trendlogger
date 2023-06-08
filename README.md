@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* David Warner
-* Sports
-* IND vs AUS Live
-* Inter Miami
-* Avatar
-> 2023-06-07 18:16:30.815296
+* Transformers
+* CHSE Odisha Result 2023 Arts
+* Fiorentina vs West Ham
+* Never Have I Ever Season 4
+* Gitanjali Aiyar
+> 2023-06-08 18:15:21.874848
 
 <!-- Requirements -->
 ### Requirements
