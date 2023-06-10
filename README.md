@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ajinkya Rahane
-* Willi Ninja
-* Virat Kohli
-* JKBOSE 12th Result 2023
-* UAE vs West Indies
-> 2023-06-09 18:15:41.875998
+* Marnus Labuschagne
+* Varun Tej and Lavanya Tripathi
+* COMEDK Result
+* NBA
+* Elon Musk
+> 2023-06-10 18:14:46.161666
 
 <!-- Requirements -->
 ### Requirements
