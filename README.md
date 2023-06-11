@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Marnus Labuschagne
-* Varun Tej and Lavanya Tripathi
-* COMEDK Result
-* NBA
-* Elon Musk
-> 2023-06-10 18:14:46.161666
+* Ajinkya Rahane
+* Rohit Sharma
+* Sidhu Moose Wala
+* Asia Cup 2023
+* Djokovic
+> 2023-06-11 18:14:58.123633
 
 <!-- Requirements -->
 ### Requirements
