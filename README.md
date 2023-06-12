@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ajinkya Rahane
-* Rohit Sharma
-* Sidhu Moose Wala
-* Asia Cup 2023
-* Djokovic
-> 2023-06-11 18:14:58.123633
+* UPSC
+* AP EAMCET results 2023
+* IEX) Share Price
+* Urja Global Share
+* Park Soo Ryun
+> 2023-06-12 18:15:50.595331
 
 <!-- Requirements -->
 ### Requirements
