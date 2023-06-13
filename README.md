@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* UPSC
-* AP EAMCET results 2023
-* IEX) Share Price
-* Urja Global Share
-* Park Soo Ryun
-> 2023-06-12 18:15:50.595331
+* NEET Result 2023
+* Earthquake
+* Inter supply results 2023
+* BTS
+* MRF Share Price
+> 2023-06-13 18:15:45.059700
 
 <!-- Requirements -->
 ### Requirements
