@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* NEET Result 2023
-* Earthquake
-* Inter supply results 2023
-* BTS
-* MRF Share Price
-> 2023-06-13 18:15:45.059700
+* AP EAMCET Results 2023
+* World Blood Donor Day
+* Che Guevara
+* Nations League
+* Romelu Lukaku
+> 2023-06-14 18:15:44.505646
 
 <!-- Requirements -->
 ### Requirements
