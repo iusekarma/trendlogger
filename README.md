@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* AP EAMCET Results 2023
-* World Blood Donor Day
-* Che Guevara
-* Nations League
-* Romelu Lukaku
-> 2023-06-14 18:15:44.505646
+* Gujarat Cyclone
+* Extraction 2
+* Asia Cup 2023 Schedule
+* Uniform Civil Code
+* Jee Karda series
+> 2023-06-15 18:15:31.712929
 
 <!-- Requirements -->
 ### Requirements
