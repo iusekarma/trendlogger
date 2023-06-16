@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Gujarat Cyclone
-* Extraction 2
-* Asia Cup 2023 Schedule
-* Uniform Civil Code
-* Jee Karda series
-> 2023-06-15 18:15:31.712929
+* Spain vs Italy
+* Talati result 2023
+* Adipurush Box Office Collection
+* Father's Day date
+* Al Pacino
+> 2023-06-16 18:15:23.105063
 
 <!-- Requirements -->
 ### Requirements
