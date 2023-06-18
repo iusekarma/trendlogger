@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bigg Boss OTT 2 Contestants
-* Malta vs England
-* Father Day
-* China Xi Jinping
-* F1
-> 2023-06-17 18:14:50.841538
+* Kamala Sohonie
+* Portugal vs Bosnia and Herzegovina
+* Rakesh Master Death
+* Netherlands vs Italy
+* India vs Lebanon
+> 2023-06-18 18:14:42.175595
 
 <!-- Requirements -->
 ### Requirements
