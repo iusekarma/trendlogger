@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kamala Sohonie
-* Portugal vs Bosnia and Herzegovina
-* Rakesh Master Death
-* Netherlands vs Italy
-* India vs Lebanon
-> 2023-06-18 18:14:42.175595
+* Sri Lanka vs UAE
+* Indonesia vs Argentina
+* JKBOSE 10th Result 2023
+* Rahul Gandhi
+* Chennai Weather
+> 2023-06-19 18:16:51.605376
 
 <!-- Requirements -->
 ### Requirements
