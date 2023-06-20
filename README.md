@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs UAE
-* Indonesia vs Argentina
-* JKBOSE 10th Result 2023
-* Rahul Gandhi
-* Chennai Weather
-> 2023-06-19 18:16:51.605376
+* Netherlands vs Zimbabwe
+* England vs North Macedonia
+* 10th class supplementary result 2023
+* 2nd PUC Supplementary Result 2023
+* Dwayne Johnson
+> 2023-06-20 18:14:56.667714
 
 <!-- Requirements -->
 ### Requirements
