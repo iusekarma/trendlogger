@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India Vs Pakistan Football
-* World Music Day
-* Secret Invasion
-* Longest day of the year 2023
-* Elon Musk
-> 2023-06-21 18:15:47.080838
+* Leo first look
+* West Indies vs Nepal
+* Prime Minister Narendra Modi
+* Kritisanon
+* Mamata Banerjee
+> 2023-06-22 18:16:21.692868
 
 <!-- Requirements -->
 ### Requirements
