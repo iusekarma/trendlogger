@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Warren Buffett
-* 1920 Horrors of the Heart
-* Ellyse Perry
-* Shehbaz Sharif
-* Adani
-> 2023-06-23 18:18:06.477378
+* Zimbabwe vs West Indies
+* Nepal vs India
+* Wagner Group
+* TSPSC Group 4 Hall Ticket
+* Lionel Messi
+> 2023-06-24 18:17:14.597198
 
 <!-- Requirements -->
 ### Requirements
