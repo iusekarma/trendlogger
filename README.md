@@ -3,11 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* BBC
-* Kim Kardashian
-* Icc World Cup 2023 Qualifier
-* Kamal Haasan
-> 2023-06-25 18:17:22.659870
+* West Indies vs Netherlands
+* Devraj Patel
+* ideaForge IPO GMP
+* ZIM vs USA
+* TNEA Rank List 2023
+> 2023-06-26 18:18:25.735359
 
 <!-- Requirements -->
 ### Requirements
