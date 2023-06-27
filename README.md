@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* West Indies vs Netherlands
-* Devraj Patel
-* ideaForge IPO GMP
-* ZIM vs USA
-* TNEA Rank List 2023
-> 2023-06-26 18:18:25.735359
+* India vs Kuwait
+* ICC World Cup
+* SL vs SCO
+* Asian Kabaddi Championship 2023
+* Russian President Vladimir Putin
+> 2023-06-27 18:18:16.628684
 
 <!-- Requirements -->
 ### Requirements
