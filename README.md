@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Kuwait
-* ICC World Cup
-* SL vs SCO
-* Asian Kabaddi Championship 2023
-* Russian President Vladimir Putin
-> 2023-06-27 18:18:16.628684
+* David Corenswet
+* SSC MTS Answer Key
+* Triumph Speed 400
+* India football
+* LIC ADO
+> 2023-06-28 18:18:07.058951
 
 <!-- Requirements -->
 ### Requirements
