@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* David Corenswet
-* SSC MTS Answer Key
-* Triumph Speed 400
-* India football
-* LIC ADO
-> 2023-06-28 18:18:07.058951
+* Eid Mubarak
+* Satyaprem Ki Katha
+* ENG vs AUS
+* Zimbabwe vs Oman
+* SPY Movie Review
+> 2023-06-29 18:19:27.974184
 
 <!-- Requirements -->
 ### Requirements
