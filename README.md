@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Eid Mubarak
-* Satyaprem Ki Katha
-* ENG vs AUS
-* Zimbabwe vs Oman
-* SPY Movie Review
-> 2023-06-29 18:19:27.974184
+* Income tax
+* Doctor's Day 2023
+* Mason Mount
+* PAN Aadhaar Link Last Date
+* Jack Ryan
+> 2023-06-30 18:17:35.408212
 
 <!-- Requirements -->
 ### Requirements
