@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Income tax
-* Doctor's Day 2023
-* Mason Mount
-* PAN Aadhaar Link Last Date
-* Jack Ryan
-> 2023-06-30 18:17:35.408212
+* Happy Doctor's Day
+* India vs Lebanon
+* China
+* Dominik Szoboszlai
+* Usman Khawaja
+> 2023-07-01 18:16:27.125572
 
 <!-- Requirements -->
 ### Requirements
