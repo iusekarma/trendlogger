@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Happy Doctor's Day
-* India vs Lebanon
-* China
-* Dominik Szoboszlai
-* Usman Khawaja
-> 2023-07-01 18:16:27.125572
+* Ajit Pawar
+* Zimbabwe vs Sri Lanka
+* Ben Stokes
+* Bigg Boss Malayalam Season 5
+* Deputy CM of Maharashtra
+> 2023-07-02 18:16:24.188081
 
 <!-- Requirements -->
 ### Requirements
