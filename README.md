@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ajit Pawar
-* Zimbabwe vs Sri Lanka
-* Ben Stokes
-* Bigg Boss Malayalam Season 5
-* Deputy CM of Maharashtra
-> 2023-07-02 18:16:24.188081
+* Wimbledon
+* Guru Purnima Quotes in english
+* HDFC Bank share price
+* Netherlands vs Oman
+* Full moon July 2023
+> 2023-07-03 18:17:23.358104
 
 <!-- Requirements -->
 ### Requirements
