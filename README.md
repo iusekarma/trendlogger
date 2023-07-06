@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Oman vs West Indies
-* CA Final Result
-* Bangladesh vs Afghanistan
-* OnePlus Nord 3
-* Triumph 400
-> 2023-07-05 18:19:07.650537
+* Threads
+* Scotland vs Netherlands
+* Hong Kong singer Coco Lee
+* Realme Narzo 60
+* MS Dhoni
+> 2023-07-06 18:17:57.208572
 
 <!-- Requirements -->
 ### Requirements
