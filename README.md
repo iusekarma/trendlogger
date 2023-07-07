@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Threads
-* Scotland vs Netherlands
-* Hong Kong singer Coco Lee
-* Realme Narzo 60
-* MS Dhoni
-> 2023-07-06 18:17:57.208572
+* West Indies vs Sri Lanka
+* ideaForge share price
+* Chocolate Day
+* Andy Murray
+* TS Inter Supplementary Results 2023
+> 2023-07-07 18:17:56.080973
 
 <!-- Requirements -->
 ### Requirements
