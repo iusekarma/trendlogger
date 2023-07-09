@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sourav Ganguly
-* Afg vs Ban
-* Korean singer Lee Sang Eun
-* Edwin van der Sar
-* Samsung Galaxy M34 5G
-> 2023-07-08 18:16:42.039661
+* Sri Lanka vs Netherlands
+* IND W vs BAN W
+* West Bengal Panchayat Election
+* The Kapil Sharma Show
+* Travis Head
+> 2023-07-09 18:16:45.156710
 
 <!-- Requirements -->
 ### Requirements
