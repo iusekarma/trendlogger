@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs Netherlands
-* IND W vs BAN W
-* West Bengal Panchayat Election
-* The Kapil Sharma Show
-* Travis Head
-> 2023-07-09 18:16:45.156710
+* Jawan
+* Hyundai Exter
+* Reliance share price
+* JKBOSE 11th Result 2023
+* Novak Djokovic
+> 2023-07-10 18:17:54.218846
 
 <!-- Requirements -->
 ### Requirements
