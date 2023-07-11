@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Jawan
-* Hyundai Exter
-* Reliance share price
-* JKBOSE 11th Result 2023
-* Novak Djokovic
-> 2023-07-10 18:17:54.218846
+* Election results
+* Nothing Phone 2
+* Vedanta share price
+* Russian President Vladimir Putin
+* Afg vs Ban
+> 2023-07-11 18:17:56.558877
 
 <!-- Requirements -->
 ### Requirements
