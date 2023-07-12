@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Election results
-* Nothing Phone 2
-* Vedanta share price
-* Russian President Vladimir Putin
-* Afg vs Ban
-> 2023-07-11 18:17:56.558877
+* Cricket
+* Live Score
+* Mission Impossible 7
+* Man United vs Leeds United
+* Chandrayaan-3 launch date
+> 2023-07-12 18:17:56.162167
 
 <!-- Requirements -->
 ### Requirements
