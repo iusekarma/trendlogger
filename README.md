@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket
-* Live Score
-* Mission Impossible 7
-* Man United vs Leeds United
-* Chandrayaan-3 launch date
-> 2023-07-12 18:17:56.162167
+* Yamuna water level
+* India Women vs Bangladesh Women
+* Malala Yousafzai
+* xAI
+* Shubman Gill
+> 2023-07-13 18:18:02.116334
 
 <!-- Requirements -->
 ### Requirements
