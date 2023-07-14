@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Yamuna water level
-* India Women vs Bangladesh Women
-* Malala Yousafzai
-* xAI
-* Shubman Gill
-> 2023-07-13 18:18:02.116334
+* Chandrayaan 3 Launch date
+* Baby Movie Review
+* Maaveeran Review
+* NASA
+* The Summer I Turned Pretty
+> 2023-07-14 18:17:08.605614
 
 <!-- Requirements -->
 ### Requirements
