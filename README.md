@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CUET Result 2023
-* Jyoti Maurya news
-* Lionel Messi Inter Miami
-* Vondrousova
-* Amazon Prime Day
-> 2023-07-15 18:16:27.673519
+* Zarina Hashmi
+* Sri Lanka vs Pakistan
+* Tom Holland The Crowded Room
+* Dwayne Johnson
+* China
+> 2023-07-16 18:16:36.165262
 
 <!-- Requirements -->
 ### Requirements
