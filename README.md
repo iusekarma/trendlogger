@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Zarina Hashmi
-* Sri Lanka vs Pakistan
-* Tom Holland The Crowded Room
-* Dwayne Johnson
-* China
-> 2023-07-16 18:16:36.165262
+* Eunice Newton Foote
+* Netweb Technologies IPO
+* Vicky Kaushal
+* Prime Minister Narendra Modi
+* India A vs Nepal
+> 2023-07-17 18:18:18.300848
 
 <!-- Requirements -->
 ### Requirements
