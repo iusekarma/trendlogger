@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Oommen Chandy
-* Sahara Refund Portal
-* FIFA Women's World Cup 2023
-* Tottenham vs West Ham
-* Nelson Mandela
-> 2023-07-18 18:17:37.054467
+* India A vs Pakistan A
+* India Women vs Bangladesh Women
+* Mumbai rains
+* IND vs PAK Live
+* Man United vs Lyon
+> 2023-07-19 18:15:57.034464
 
 <!-- Requirements -->
 ### Requirements
