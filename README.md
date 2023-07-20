@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India A vs Pakistan A
-* India Women vs Bangladesh Women
-* Mumbai rains
-* IND vs PAK Live
-* Man United vs Lyon
-> 2023-07-19 18:15:57.034464
+* India vs West Indies
+* Reliance share price
+* MLS All-Stars vs Arsenal
+* Manipur news today
+* Chelsea vs Wrexham
+> 2023-07-20 18:16:31.798973
 
 <!-- Requirements -->
 ### Requirements
