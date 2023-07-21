@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs West Indies
-* Reliance share price
-* MLS All-Stars vs Arsenal
-* Manipur news today
-* Chelsea vs Wrexham
-> 2023-07-20 18:16:31.798973
+* Earthquake In Jaipur
+* Virat Kohli
+* Barbie movie
+* IND A vs BAN A
+* Earthquake today
+> 2023-07-21 18:16:44.036759
 
 <!-- Requirements -->
 ### Requirements
