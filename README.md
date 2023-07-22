@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Earthquake In Jaipur
-* Virat Kohli
-* Barbie movie
-* IND A vs BAN A
-* Earthquake today
-> 2023-07-21 18:16:44.036759
+* Mukesh Kumar
+* Oppenheimer box office
+* China
+* Leagues Cup
+* Steve Smith
+> 2023-07-22 18:14:45.926603
 
 <!-- Requirements -->
 ### Requirements
