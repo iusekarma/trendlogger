@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mukesh Kumar
-* Oppenheimer box office
-* China
-* Leagues Cup
-* Steve Smith
-> 2023-07-22 18:14:45.926603
+* Parents Day
+* Chelsea vs Brighton
+* Barcelona vs Juventus
+* Manchester United
+* Man City
+> 2023-07-23 18:14:44.410048
 
 <!-- Requirements -->
 ### Requirements
