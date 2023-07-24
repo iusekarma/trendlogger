@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Parents Day
-* Chelsea vs Brighton
-* Barcelona vs Juventus
-* Manchester United
-* Man City
-> 2023-07-23 18:14:44.410048
+* Real Madrid vs Milan
+* Rohit Sharma
+* ITC share price
+* Twitter new logo
+* Ishan Kishan
+> 2023-07-24 18:17:48.371702
 
 <!-- Requirements -->
 ### Requirements
