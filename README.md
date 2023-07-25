@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Real Madrid vs Milan
-* Rohit Sharma
-* ITC share price
-* Twitter new logo
-* Ishan Kishan
-> 2023-07-24 18:17:48.371702
+* PSG
+* UGC NET Result 2023
+* Asian Paints Share Price
+* Canara Bank share price
+* IRCTC Ticket Booking
+> 2023-07-25 18:15:25.369824
 
 <!-- Requirements -->
 ### Requirements
