@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PSG
-* UGC NET Result 2023
-* Asian Paints Share Price
-* Canara Bank share price
-* IRCTC Ticket Booking
-> 2023-07-25 18:15:25.369824
+* Kargil Vijay Diwas
+* Al-Nassr
+* No-confidence motion
+* LeBron James Bronny
+* Surinder Shinda
+> 2023-07-26 18:15:33.290368
 
 <!-- Requirements -->
 ### Requirements
