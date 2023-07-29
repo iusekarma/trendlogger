@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bro Movie Review
-* Rocky Aur Rani Ki Prem Kahani
-* Hepatitis
-* Dhanush
-* Harmanpreet Kaur
-> 2023-07-28 18:14:17.413259
+* Sanju Samson
+* Bangladesh
+* Sanjay Dutt
+* International Tiger Day
+* Riyad Mahrez Al-Ahli
+> 2023-07-29 18:14:07.812879
 
 <!-- Requirements -->
 ### Requirements
