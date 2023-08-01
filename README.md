@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man United vs Dortmund
-* Major League Cricket
-* Kiara Advani
-* Water
-* NTPC share price
-> 2023-07-31 18:15:50.715634
+* West Indies vs India
+* Angus Cloud
+* Redmi 12 5G
+* Gurgaon News
+* Al Nassr
+> 2023-08-01 18:15:39.926743
 
 <!-- Requirements -->
 ### Requirements
