@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* West Indies vs India
-* Angus Cloud
-* Redmi 12 5G
-* Gurgaon News
-* Al Nassr
-> 2023-08-01 18:15:39.926743
+* Cricket
+* Nitin Desai
+* Sports
+* Liverpool vs Bayern
+* Barcelona
+> 2023-08-02 18:15:30.849776
 
 <!-- Requirements -->
 ### Requirements
