@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Altina Schinasi
-* Rahul Gandhi
-* Zomato share price
-* Alex Hales
-* Israel
-> 2023-08-04 18:15:30.794853
+* Man United vs Lens
+* Manchester United
+* Amitabh Bachchan
+* Earthquake
+* Mark Margolis
+> 2023-08-05 18:14:09.621049
 
 <!-- Requirements -->
 ### Requirements
