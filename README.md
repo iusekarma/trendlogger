@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man United vs Lens
-* Manchester United
-* Amitabh Bachchan
-* Earthquake
-* Mark Margolis
-> 2023-08-05 18:14:09.621049
+* Al Nassr
+* One Piece
+* Hiroshima Day
+* India West Indies T20
+* Shreyas Hareesh
+> 2023-08-06 18:13:53.211172
 
 <!-- Requirements -->
 ### Requirements
