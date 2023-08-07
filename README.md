@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Al Nassr
-* One Piece
-* Hiroshima Day
-* India West Indies T20
-* Shreyas Hareesh
-> 2023-08-06 18:13:53.211172
+* Cricket
+* Vijay Raghavendra Wife
+* IND Vs WI T20
+* Zomato share price
+* CA Foundation result June 2023
+> 2023-08-07 18:14:59.149886
 
 <!-- Requirements -->
 ### Requirements
