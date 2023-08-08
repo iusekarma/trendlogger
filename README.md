@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket
-* Vijay Raghavendra Wife
-* IND Vs WI T20
-* Zomato share price
-* CA Foundation result June 2023
-> 2023-08-07 18:14:59.149886
+* Siddique director
+* Siddique-Lal
+* MP Police Admit Card
+* Only Murders in the Building
+* Pepperfry Ambareesh Murty
+> 2023-08-08 18:16:35.512396
 
 <!-- Requirements -->
 ### Requirements
