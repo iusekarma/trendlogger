@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Siddique director
-* Siddique-Lal
-* MP Police Admit Card
-* Only Murders in the Building
-* Pepperfry Ambareesh Murty
-> 2023-08-08 18:16:35.512396
+* Suryakumar Yadav
+* Tilak Varma
+* Al Nassr
+* Rahul Gandhi flying kiss
+* Mahatma Gandhi
+> 2023-08-09 18:16:42.241104
 
 <!-- Requirements -->
 ### Requirements
