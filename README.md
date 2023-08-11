@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SBFC IPO allotment
-* Made in Heaven season 2
-* BPSC Admit Card
-* Satyaprem Ki Katha
-* RBI Policy
-> 2023-08-10 18:15:33.349722
+* Bhola Shankar Review
+* OMG 2 Review
+* Heart of Stone
+* Adipurush OTT release date
+* Akshay Kumar OMG 2
+> 2023-08-11 18:14:53.096083
 
 <!-- Requirements -->
 ### Requirements
