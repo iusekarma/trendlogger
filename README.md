@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Inter Miami
-* WI vs IND
-* Mohun Bagan vs East Bengal
-* Al-Nassr
-* Al-hilal vs al-nassr
-> 2023-08-12 18:13:55.231588
+* Cricket
+* Sports
+* Athletic Club vs Real Madrid
+* Chelsea vs Liverpool
+* NCVT ITI Result 2023
+> 2023-08-13 18:13:40.457902
 
 <!-- Requirements -->
 ### Requirements
