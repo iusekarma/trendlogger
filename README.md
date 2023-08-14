@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket
-* Sports
-* Athletic Club vs Real Madrid
-* Chelsea vs Liverpool
-* NCVT ITI Result 2023
-> 2023-08-13 18:13:40.457902
+* Independence Day speech
+* Barcelona
+* TVS Supply Chain IPO GMP
+* Rahul Gandhi
+* Adani news
+> 2023-08-14 18:15:07.629195
 
 <!-- Requirements -->
 ### Requirements
