@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Independence Day speech
-* Barcelona
-* TVS Supply Chain IPO GMP
-* Rahul Gandhi
-* Adani news
-> 2023-08-14 18:15:07.629195
+* Man United vs Wolves
+* Akshay Kumar
+* Burj Khalifa
+* Taali
+* IND vs IRE
+> 2023-08-15 18:14:53.939663
 
 <!-- Requirements -->
 ### Requirements
