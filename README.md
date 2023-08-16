@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man United vs Wolves
-* Akshay Kumar
-* Burj Khalifa
-* Taali
-* IND vs IRE
-> 2023-08-15 18:14:53.939663
+* Inter Miami
+* Parsi New Year
+* SBFC share price
+* Mohun Bagan vs Machhindra
+* IBPS Clerk Admit Card
+> 2023-08-16 18:14:56.145651
 
 <!-- Requirements -->
 ### Requirements
