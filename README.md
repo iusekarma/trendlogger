@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Inter Miami
-* Parsi New Year
-* SBFC share price
-* Mohun Bagan vs Machhindra
-* IBPS Clerk Admit Card
-> 2023-08-16 18:14:56.145651
+* New Zealand vs UAE
+* Novak Djokovic
+* Blue Beetle
+* AP Dhillon
+* Adani Power share
+> 2023-08-17 18:15:29.286024
 
 <!-- Requirements -->
 ### Requirements
