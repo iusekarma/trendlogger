@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Zealand vs UAE
-* Novak Djokovic
-* Blue Beetle
-* AP Dhillon
-* Adani Power share
-> 2023-08-17 18:15:29.286024
+* Ireland vs India
+* Sports
+* CTET Admit Card
+* Ghoomer
+* Dulquer Salmaan
+> 2023-08-18 18:15:00.250442
 
 <!-- Requirements -->
 ### Requirements
