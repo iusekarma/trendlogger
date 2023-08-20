@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* World Photography Day
-* Liverpool vs Bournemouth
-* Tottenham vs Man United
-* Teej festival
-* Ratan Tata
-> 2023-08-19 18:13:35.049087
+* Inter Miami
+* Roscosmos
+* Women's World Cup
+* Man City vs Newcastle
+* Ire vs Ind Live
+> 2023-08-20 18:13:28.474021
 
 <!-- Requirements -->
 ### Requirements
