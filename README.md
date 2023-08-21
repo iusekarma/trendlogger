@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Inter Miami
-* Roscosmos
-* Women's World Cup
-* Man City vs Newcastle
-* Ire vs Ind Live
-> 2023-08-20 18:13:28.474021
+* Asia Cup 2023
+* Jio Financial Services
+* The village
+* CTET Answer Key 2023
+* BPSC Teacher Admit Card
+> 2023-08-21 18:14:08.190481
 
 <!-- Requirements -->
 ### Requirements
