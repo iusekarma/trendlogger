@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Asia Cup 2023
-* Jio Financial Services
-* The village
-* CTET Answer Key 2023
-* BPSC Teacher Admit Card
-> 2023-08-21 18:14:08.190481
+* Crystal Palace vs Arsenal
+* AFG vs PAK
+* Raju Punjabi news
+* Raju Punjabi news today
+* Chiranjeevi
+> 2023-08-22 18:15:10.888050
 
 <!-- Requirements -->
 ### Requirements
