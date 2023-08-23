@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Crystal Palace vs Arsenal
-* AFG vs PAK
-* Raju Punjabi news
-* Raju Punjabi news today
-* Chiranjeevi
-> 2023-08-22 18:15:10.888050
+* Heath Streak
+* AP EAMCET seat allotment 2023
+* Alien
+* Rebel Moon
+* RRB PO Result 2023
+> 2023-08-23 18:13:18.015865
 
 <!-- Requirements -->
 ### Requirements
