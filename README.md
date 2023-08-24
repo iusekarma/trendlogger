@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Heath Streak
-* AP EAMCET seat allotment 2023
-* Alien
-* Rebel Moon
-* RRB PO Result 2023
-> 2023-08-23 18:13:18.015865
+* Afghanistan vs Pakistan
+* Prigozhin
+* Seema Deo
+* King of Kotha' Review
+* Mumbai City FC
+> 2023-08-24 18:15:33.035322
 
 <!-- Requirements -->
 ### Requirements
