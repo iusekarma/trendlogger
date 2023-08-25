@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Afghanistan vs Pakistan
-* Prigozhin
-* Seema Deo
-* King of Kotha' Review
-* Mumbai City FC
-> 2023-08-24 18:15:33.035322
+* Neeraj Chopra
+* ICSI
+* Donald Trump
+* Gandeevadhari Arjuna
+* Milind Safai
+> 2023-08-25 18:15:30.048251
 
 <!-- Requirements -->
 ### Requirements
