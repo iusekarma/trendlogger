@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Onam
-* Vivo V29e
-* Reliance AGM
-* Man City
-* Durand Cup
-> 2023-08-28 18:15:48.435969
+* Karizma XMR
+* Gas Cylinder price
+* Spanish Football Luis Rubiales
+* Aeroflex IPO allotment status
+* China
+> 2023-08-29 18:15:38.164124
 
 <!-- Requirements -->
 ### Requirements
