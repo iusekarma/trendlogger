@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* One Piece Netflix
-* iQOO Z7 Pro
-* Champions League draw
-* Adani
-* Free Fire India
-> 2023-08-31 18:15:33.577570
+* Kushi Movie Review
+* Abdul Karim Telgi
+* Aparna Nair
+* Dog
+* Yevgeny Prigozhin
+> 2023-09-01 18:13:58.216994
 
 <!-- Requirements -->
 ### Requirements
