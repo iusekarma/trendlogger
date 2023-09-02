@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kushi Movie Review
-* Abdul Karim Telgi
-* Aparna Nair
-* Dog
-* Yevgeny Prigozhin
-> 2023-09-01 18:13:58.216994
+* Cricket
+* Live Cricket
+* Sports
+* Real Madrid vs Getafe
+* Aditya-L1 mission launch date
+> 2023-09-02 18:14:22.613471
 
 <!-- Requirements -->
 ### Requirements
