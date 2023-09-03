@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket
-* Live Cricket
-* Sports
-* Real Madrid vs Getafe
-* Aditya-L1 mission launch date
-> 2023-09-02 18:14:22.613471
+* Durand Cup final
+* Al Nassr
+* Arsenal vs Man United
+* Liverpool vs Aston Villa
+* Real Madrid
+> 2023-09-03 18:14:19.962006
 
 <!-- Requirements -->
 ### Requirements
