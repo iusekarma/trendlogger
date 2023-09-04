@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Durand Cup final
-* Al Nassr
-* Arsenal vs Man United
-* Liverpool vs Aston Villa
-* Real Madrid
-> 2023-09-03 18:14:19.962006
+* LAFC vs Inter Miami
+* IRFC share price
+* Harish Salve
+* Joe Jonas
+* Sandeep Lamichhane
+> 2023-09-04 18:14:55.272417
 
 <!-- Requirements -->
 ### Requirements
