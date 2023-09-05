@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* LAFC vs Inter Miami
-* IRFC share price
-* Harish Salve
-* Joe Jonas
-* Sandeep Lamichhane
-> 2023-09-04 18:14:55.272417
+* Free Fire India
+* Bharat
+* India World Cup Squad
+* England vs New Zealand
+* Dulquer Salmaan
+> 2023-09-05 18:15:37.664819
 
 <!-- Requirements -->
 ### Requirements
