@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Free Fire India
-* Bharat
-* India World Cup Squad
-* England vs New Zealand
-* Dulquer Salmaan
-> 2023-09-05 18:15:37.664819
+* Krishnashtami 2023
+* Novak Djokovic
+* TVS Apache RTR 310
+* Ben Shelton
+* %E0%A4%AC%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%B6 %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE %E0%A4%AA%E0%A4%BE%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8
+> 2023-09-06 18:16:00.190387
 
 <!-- Requirements -->
 ### Requirements
