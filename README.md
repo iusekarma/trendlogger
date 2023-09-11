@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sports
-* KL Rahul
-* Coco Gauff
-* Justin Trudeau
-* Indian cricket team
-> 2023-09-10 18:14:18.066786
+* England vs New Zealand
+* Alba Baptista
+* Babar Azam
+* Lucknow Weather
+* 9/11
+> 2023-09-11 18:16:02.197834
 
 <!-- Requirements -->
 ### Requirements
