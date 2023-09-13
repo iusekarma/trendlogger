@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Sri Lanka
-* Portugal vs Luxembourg
-* Kuldeep Yadav
-* Sneakers
-* Nipah
-> 2023-09-12 18:15:44.583482
+* ENG vs NZ
+* Ravindra Jadeja
+* RBI Assistant Notification
+* Ben Stokes
+* Ashok Selvan
+> 2023-09-13 18:16:09.558185
 
 <!-- Requirements -->
 ### Requirements
