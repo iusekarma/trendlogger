@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ganesh Chaturthi 2023
-* BTS
-* Real Madrid
-* Cat
-* PM Vishwakarma Yojana
-> 2023-09-18 18:16:35.477731
+* Vijay Antony Daughter
+* Canada
+* Champions League
+* Jio AirFiber
+* UEFA Champions League
+> 2023-09-19 18:16:23.388147
 
 <!-- Requirements -->
 ### Requirements
