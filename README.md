@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Vijay Antony Daughter
-* Canada
-* Champions League
-* Jio AirFiber
-* UEFA Champions League
-> 2023-09-19 18:16:23.388147
+* Kerala lottery result
+* England vs Ireland
+* Psg vs Dortmund
+* Al Nassr
+* HDFC Bank share price
+> 2023-09-20 18:16:30.933412
 
 <!-- Requirements -->
 ### Requirements
