@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kerala lottery result
-* England vs Ireland
-* Psg vs Dortmund
-* Al Nassr
-* HDFC Bank share price
-> 2023-09-20 18:16:30.933412
+* Inter Miami vs Toronto
+* Kerala Blasters vs Bengaluru
+* Sex Education' Season 4
+* Kerala Blasters
+* Canada news
+> 2023-09-21 18:16:46.153748
 
 <!-- Requirements -->
 ### Requirements
