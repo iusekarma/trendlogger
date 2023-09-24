@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Zealand vs Bangladesh
-* England vs Ireland
-* Radha Ashtami
-* Al Nassr
-* Man City vs nottm Forest
-> 2023-09-23 18:14:43.786521
+* IND vs AUS
+* Daughters Day
+* Asian Games 2023
+* Asian Games 2023 medal tally
+* Spencer johnson
+> 2023-09-24 18:14:37.206511
 
 <!-- Requirements -->
 ### Requirements
