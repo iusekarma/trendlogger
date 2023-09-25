@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs AUS
-* Daughters Day
-* Asian Games 2023
-* Asian Games 2023 medal tally
-* Spencer johnson
-> 2023-09-24 18:14:37.206511
+* CTET Result 2023
+* Atl%C3%A9tico Madrid vs Real Madrid
+* World Pharmacist Day
+* Pharmacist Day
+* JSW Infrastructure IPO GMP
+> 2023-09-25 18:16:48.398281
 
 <!-- Requirements -->
 ### Requirements
