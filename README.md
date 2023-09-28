@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Google's 25th birthday
-* Cricket
-* Cricket Live
-* Nepal vs Mongolia
-* Icc
-> 2023-09-27 18:16:44.359717
+* Chandramukhi 2
+* MS Swaminathan
+* Fukrey 3
+* Skanda Review
+* Inter Miami vs Houston Dynamo
+> 2023-09-28 18:16:22.964841
 
 <!-- Requirements -->
 ### Requirements
