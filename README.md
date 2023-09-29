@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Chandramukhi 2
-* MS Swaminathan
-* Fukrey 3
-* Skanda Review
-* Inter Miami vs Houston Dynamo
-> 2023-09-28 18:16:22.964841
+* BSTC Result 2023
+* IND vs ENG
+* BAN vs SL
+* Kane Williamson
+* Gen V
+> 2023-09-29 18:16:41.978640
 
 <!-- Requirements -->
 ### Requirements
