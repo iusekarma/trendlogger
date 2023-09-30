@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* BSTC Result 2023
-* IND vs ENG
-* BAN vs SL
-* Kane Williamson
-* Gen V
-> 2023-09-29 18:16:41.978640
+* Australia vs Netherlands
+* Barcelona vs Sevilla
+* Barcelona
+* IND %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE ENG
+* Guwahati
+> 2023-09-30 18:15:11.584736
 
 <!-- Requirements -->
 ### Requirements
