@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs Netherlands
-* Barcelona vs Sevilla
-* Barcelona
-* IND %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE ENG
-* Guwahati
-> 2023-09-30 18:15:11.584736
+* Kerala Blasters
+* Asian Games 2023 India medals today
+* Bigg Boss Tamil Season 7
+* Nagabhushan
+* Inter Miami vs New York City
+> 2023-10-01 18:14:51.354881
 
 <!-- Requirements -->
 ### Requirements
