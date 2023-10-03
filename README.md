@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* NZ vs SA
-* ENG vs BAN
-* Mahira Khan
-* Indri whisky
-* Rajinikanth Lal Salaam
-> 2023-10-02 18:16:49.305548
+* Aus vs Pak
+* Asian Games
+* Asian Games cricket
+* STET Result
+* Live Score cricket
+> 2023-10-03 18:17:07.725912
 
 <!-- Requirements -->
 ### Requirements
