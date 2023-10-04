@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Aus vs Pak
-* Asian Games
-* Asian Games cricket
-* STET Result
-* Live Score cricket
-> 2023-10-03 18:17:07.725912
+* Napoli vs Real Madrid
+* Neeraj Chopra
+* Gayatri Joshi
+* Vivo V29 Pro
+* World Cup Opening Ceremony
+> 2023-10-04 18:17:14.508478
 
 <!-- Requirements -->
 ### Requirements
