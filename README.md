@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Napoli vs Real Madrid
-* Neeraj Chopra
-* Gayatri Joshi
-* Vivo V29 Pro
-* World Cup Opening Ceremony
-> 2023-10-04 18:17:14.508478
+* ICC World Cup 2023 schedule
+* Newcastle vs PSG
+* Leo Trailer
+* Leo
+* Khufiya review
+> 2023-10-05 18:17:13.409275
 
 <!-- Requirements -->
 ### Requirements
