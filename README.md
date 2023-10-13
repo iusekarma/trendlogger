@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Train Accident
-* Erica Robin Miss Universe Pakistan
-* Sam Bankman-Fried Caroline Ellison
-* Sachin Tendulkar
-* Animal
-> 2023-10-12 18:17:01.001721
+* Argentina vs Paraguay
+* Surya Grahan 2023
+* Friday the 13th
+* Sam Bahadur
+* Brazil
+> 2023-10-13 18:16:55.212271
 
 <!-- Requirements -->
 ### Requirements
