@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Glenn Maxwell
-* Al Nassr
-* Fastest century in ODI
-* Sevilla vs Arsenal
-* Real Madrid
-> 2023-10-25 18:15:47.108826
+* Koffee with Karan Season 8
+* Man City
+* Ben Stokes
+* Eng %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE SL
+* Barcelona
+> 2023-10-26 18:16:24.799163
 
 <!-- Requirements -->
 ### Requirements
