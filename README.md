@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Matthew Perry
-* Kalamassery
-* Chandra Grahan
-* Man United vs Man City
-* Shreyas Iyer
-> 2023-10-29 18:15:14.238005
+* Jasprit Bumrah
+* Renjusha Menon serials
+* Autism Spectrum Disorder
+* Kuldeep Yadav
+* Cello World IPO GMP
+> 2023-10-30 18:16:44.091870
 
 <!-- Requirements -->
 ### Requirements
