@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mohammed Shami
-* JEE mains 2024
-* Sachin Tendulkar
-* Naresh Goyal Jet Airways
-* Manchester United
-> 2023-11-02 18:16:23.287727
+* Polimera 2
+* Elvish Yadav news
+* Aarya
+* Urfi Javed news
+* ESAF Small Finance Bank IPO GMP
+> 2023-11-03 18:16:47.928761
 
 <!-- Requirements -->
 ### Requirements
