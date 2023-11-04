@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Polimera 2
-* Elvish Yadav news
-* Aarya
-* Urfi Javed news
-* ESAF Small Finance Bank IPO GMP
-> 2023-11-03 18:16:47.928761
+* Earthquake Today
+* Fakhar Zaman
+* Hardik Pandya
+* Earthquakes Today
+* Fulham vs Man United
+> 2023-11-04 18:15:07.064130
 
 <!-- Requirements -->
 ### Requirements
