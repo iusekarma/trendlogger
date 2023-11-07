@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Angelo Mathews
-* Earthquake
-* Ravindra Jadeja
-* Mumbai City vs al-hilal
-* Rashmika Mandanna
-> 2023-11-06 18:16:32.376272
+* Tottenham vs Chelsea
+* CAT Admit Card
+* Mitchell Starc
+* Chelsea
+* Rashid Khan
+> 2023-11-07 18:16:13.740875
 
 <!-- Requirements -->
 ### Requirements
