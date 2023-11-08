@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Tottenham vs Chelsea
-* CAT Admit Card
-* Mitchell Starc
-* Chelsea
-* Rashid Khan
-> 2023-11-07 18:16:13.740875
+* ODI ranking
+* Man City
+* Rockstar Games GTA 6
+* Supreme Court
+* Chris Woakes
+> 2023-11-08 18:16:31.359368
 
 <!-- Requirements -->
 ### Requirements
