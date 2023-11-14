@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bhai Dooj 2023
-* KL Rahul
-* AQI Delhi
-* Children's Day
-* Barcelona
-> 2023-11-13 18:16:34.017431
+* Kevin Turen producer
+* PRS Oberoi
+* Michael Vaughan
+* Carlos Alcaraz
+* Tata Technologies IPO
+> 2023-11-14 18:14:29.930352
 
 <!-- Requirements -->
 ### Requirements
