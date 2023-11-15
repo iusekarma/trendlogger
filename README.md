@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kevin Turen producer
-* PRS Oberoi
-* Michael Vaughan
-* Carlos Alcaraz
-* Tata Technologies IPO
-> 2023-11-14 18:14:29.930352
+* Cricket Score
+* Live Score
+* Virat Kohli
+* Gill
+* Sports
+> 2023-11-15 18:16:13.270258
 
 <!-- Requirements -->
 ### Requirements
