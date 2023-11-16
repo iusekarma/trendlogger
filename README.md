@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket Score
-* Live Score
-* Virat Kohli
-* Gill
-* Sports
-> 2023-11-15 18:16:13.270258
+* Temba Bavuma
+* David Warner
+* Mitchell Starc
+* Pat Cummins
+* Mitchell Marsh
+> 2023-11-16 18:16:55.250535
 
 <!-- Requirements -->
 ### Requirements
