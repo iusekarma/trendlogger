@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Temba Bavuma
-* David Warner
-* Mitchell Starc
-* Pat Cummins
-* Mitchell Marsh
-> 2023-11-16 18:16:55.250535
+* World Cup Qualifiers
+* Kannur Squad
+* Tiger Nageswara Rao
+* MP Election 2023
+* Sapta Sagaradaache Ello
+> 2023-11-17 18:17:03.273191
 
 <!-- Requirements -->
 ### Requirements
