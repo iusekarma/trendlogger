@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Portugal vs Iceland
-* India vs Qatar
-* GST
-* Tata Technologies IPO
-* IREDA
-> 2023-11-20 18:16:40.557932
+* Legends League Cricket 2023
+* SBI PO Result
+* TCS share price
+* SBI PO Prelims Result
+* Resume
+> 2023-11-21 18:17:52.361323
 
 <!-- Requirements -->
 ### Requirements
