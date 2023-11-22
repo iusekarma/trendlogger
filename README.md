@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Legends League Cricket 2023
-* SBI PO Result
-* TCS share price
-* SBI PO Prelims Result
-* Resume
-> 2023-11-21 18:17:52.361323
+* Tulsi Vivah
+* Oppenheimer
+* Gautam Gambhir
+* Mammootty
+* Tata IPO
+> 2023-11-22 18:16:42.468158
 
 <!-- Requirements -->
 ### Requirements
