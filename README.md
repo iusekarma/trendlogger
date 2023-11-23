@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Tulsi Vivah
-* Oppenheimer
-* Gautam Gambhir
-* Mammootty
-* Tata IPO
-> 2023-11-22 18:16:42.468158
+* IND vs AUS
+* JioCinema
+* Animal movie
+* Rinku singh
+* Gurpatwant Singh Pannun
+> 2023-11-23 18:16:19.123888
 
 <!-- Requirements -->
 ### Requirements
