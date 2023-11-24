@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs AUS
-* JioCinema
-* Animal movie
-* Rinku singh
-* Gurpatwant Singh Pannun
-> 2023-11-23 18:16:19.123888
+* Napoleon movie
+* Black Friday Sale
+* SSC GD
+* PUMA
+* Rahul Gandhi
+> 2023-11-24 18:16:07.063224
 
 <!-- Requirements -->
 ### Requirements
