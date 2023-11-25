@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Napoleon movie
-* Black Friday Sale
-* SSC GD
-* PUMA
-* Rahul Gandhi
-> 2023-11-24 18:16:07.063224
+* Al Nassr
+* Rajasthan Election 2023
+* Premier League
+* IPL Auction 2024
+* Kerala Blasters
+> 2023-11-25 18:15:02.788505
 
 <!-- Requirements -->
 ### Requirements
