@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Guru Nanak Jayanti
-* Gurpurab
-* NSE holidays
-* Geert Wilders
-* Kantara
-> 2023-11-27 18:16:43.549400
+* Cricket
+* Uttarakhand Tunnel
+* Al Nassr
+* IND %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE AUS
+* IPO allotment status
+> 2023-11-28 18:17:01.083539
 
 <!-- Requirements -->
 ### Requirements
