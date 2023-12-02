@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sam Bahadur
-* Salaar
-* Shreyas Iyer
-* Bomb in Bangalore schools
-* Raipur
-> 2023-12-01 18:16:42.825770
+* Sports
+* Rinku Singh
+* Giorgia Meloni
+* Vijayakanth
+* Ruturaj Gaikwad
+> 2023-12-02 18:15:01.909767
 
 <!-- Requirements -->
 ### Requirements
