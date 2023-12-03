@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sports
-* Rinku Singh
-* Giorgia Meloni
-* Vijayakanth
-* Ruturaj Gaikwad
-> 2023-12-02 18:15:01.909767
+* Election Results Live
+* Telangana election results
+* Rajasthan Election 2023
+* Congress
+* Chhattisgarh Election 2023
+> 2023-12-03 18:15:04.522380
 
 <!-- Requirements -->
 ### Requirements
