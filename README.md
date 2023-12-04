@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Election Results Live
-* Telangana election results
-* Rajasthan Election 2023
-* Congress
-* Chhattisgarh Election 2023
-> 2023-12-03 18:15:04.522380
+* Nifty 50
+* Suzlon share price
+* IND vs SA
+* TATA TECHNOLOGIES share price
+* Indian Navy Day
+> 2023-12-04 18:17:05.701200
 
 <!-- Requirements -->
 ### Requirements
