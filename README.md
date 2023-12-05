@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Nifty 50
-* Suzlon share price
-* IND vs SA
-* TATA TECHNOLOGIES share price
-* Indian Navy Day
-> 2023-12-04 18:17:05.701200
+* Dinesh Phadnis
+* Sukhdev Singh Gogamedi
+* GTA 6
+* Rajasthan CM
+* Dunki
+> 2023-12-05 18:17:19.526918
 
 <!-- Requirements -->
 ### Requirements
