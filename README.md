@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Dinesh Phadnis
-* Sukhdev Singh Gogamedi
-* GTA 6
-* Rajasthan CM
-* Dunki
-> 2023-12-05 18:17:19.526918
+* IND W vs ENG W
+* Luton Town vs Arsenal
+* The Archies
+* Mohun Bagan vs Odisha
+* Junior Mehmood
+> 2023-12-06 18:16:56.759574
 
 <!-- Requirements -->
 ### Requirements
