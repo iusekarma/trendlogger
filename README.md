@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND W vs ENG W
-* Luton Town vs Arsenal
-* The Archies
-* Mohun Bagan vs Odisha
-* Junior Mehmood
-> 2023-12-06 18:16:56.759574
+* Hi Nanna review
+* Gemini
+* Man United vs Chelsea
+* Aston Villa vs Man City
+* PayTm Share Price
+> 2023-12-07 18:17:00.789525
 
 <!-- Requirements -->
 ### Requirements
