@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Hi Nanna review
-* Gemini
-* Man United vs Chelsea
-* Aston Villa vs Man City
-* PayTm Share Price
-> 2023-12-07 18:17:00.789525
+* Junior Mehmood
+* Mahua Moitra
+* Tottenham vs West Ham
+* KCR
+* Vladimir Putin
+> 2023-12-08 18:16:41.642416
 
 <!-- Requirements -->
 ### Requirements
