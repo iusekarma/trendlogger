@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Junior Mehmood
-* Mahua Moitra
-* Tottenham vs West Ham
-* KCR
-* Vladimir Putin
-> 2023-12-08 18:16:41.642416
+* IND-W vs ENG-W
+* WPL Auction
+* Crystal Palace vs Liverpool
+* Man United vs Bournemouth
+* Leave the World Behind movie
+> 2023-12-09 18:15:07.181087
 
 <!-- Requirements -->
 ### Requirements
