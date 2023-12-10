@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND-W vs ENG-W
-* WPL Auction
-* Crystal Palace vs Liverpool
-* Man United vs Bournemouth
-* Leave the World Behind movie
-> 2023-12-09 18:15:07.181087
+* Vishnu Dev Sai
+* CLAT 2024 Result
+* Luton Town vs Man CIty
+* IND vs PAK
+* IND vs PAK U19
+> 2023-12-10 18:15:30.901824
 
 <!-- Requirements -->
 ### Requirements
