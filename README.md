@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* MP CM
-* Article 370
-* Abrogation
-* AFC Cup
-* Annastacia Palaszczuk
-> 2023-12-11 18:17:03.616055
+* IND vs SA
+* CBSE
+* Diya Kumari
+* Al Nassr
+* Rajinikanth
+> 2023-12-12 18:16:53.860415
 
 <!-- Requirements -->
 ### Requirements
