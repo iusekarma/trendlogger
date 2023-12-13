@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs SA
-* CBSE
-* Diya Kumari
-* Al Nassr
-* Rajinikanth
-> 2023-12-12 18:16:53.860415
+* England vs West Indies
+* ICC
+* Sports
+* Brooklyn Nine-Nine
+* Union Berlin vs Real Madrid
+> 2023-12-13 18:15:26.812788
 
 <!-- Requirements -->
 ### Requirements
