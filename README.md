@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs West Indies
-* ICC
-* Sports
-* Brooklyn Nine-Nine
-* Union Berlin vs Real Madrid
-> 2023-12-13 18:15:26.812788
+* Australia vs Pakistan
+* AUS vs PAK
+* Satheesh Shubha
+* Kerala Blasters
+* Barcelona
+> 2023-12-14 18:17:03.160678
 
 <!-- Requirements -->
 ### Requirements
