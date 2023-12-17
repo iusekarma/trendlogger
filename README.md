@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Matthew Perry
-* IPL auction 2024
-* Diya Kumari
-* Vijay Diwas
-* Man City vs Crystal Palace
-> 2023-12-16 18:15:25.860086
+* IND vs SA
+* Avesh Khan
+* West Indies vs England
+* New Zealand vs Bangladesh
+* Liverpool vs Man United
+> 2023-12-17 18:15:26.129183
 
 <!-- Requirements -->
 ### Requirements
