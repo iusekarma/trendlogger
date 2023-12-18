@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs SA
-* Avesh Khan
-* West Indies vs England
-* New Zealand vs Bangladesh
-* Liverpool vs Man United
-> 2023-12-17 18:15:26.129183
+* IPL Auction 2024
+* Inox India IPO
+* Real Madrid
+* IRCTC share price
+* Motisons Jewellers IPO
+> 2023-12-18 18:16:51.384931
 
 <!-- Requirements -->
 ### Requirements
