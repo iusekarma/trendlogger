@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IPL Auction 2024
-* Inox India IPO
-* Real Madrid
-* IRCTC share price
-* Motisons Jewellers IPO
-> 2023-12-18 18:16:51.384931
+* India vs South Africa
+* Sameer Rizvi
+* Alzarri Joseph
+* Daryl Mitchell
+* IPL Auction 2023 Live
+> 2023-12-19 18:13:37.453128
 
 <!-- Requirements -->
 ### Requirements
