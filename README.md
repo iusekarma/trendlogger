@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs South Africa
-* Sameer Rizvi
-* Alzarri Joseph
-* Daryl Mitchell
-* IPL Auction 2023 Live
-> 2023-12-19 18:13:37.453128
+* England vs West Indies
+* Why Market is down today
+* Chelsea
+* Soumya Sarkar
+* DOMS Industries share price
+> 2023-12-20 18:16:37.155607
 
 <!-- Requirements -->
 ### Requirements
