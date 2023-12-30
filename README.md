@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Zealand vs Bangladesh
-* Devil Movie Review
-* Arsenal
-* Pat Cummins
-* Ayodhya Airport
-> 2023-12-29 18:15:40.132796
+* Amrit Bharat Express
+* Man City vs Sheffield United
+* Sukanya Samriddhi Yojana
+* Chelsea
+* BTS' V
+> 2023-12-30 18:15:56.857493
 
 <!-- Requirements -->
 ### Requirements
