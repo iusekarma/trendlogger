@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Amrit Bharat Express
-* Man City vs Sheffield United
-* Sukanya Samriddhi Yojana
-* Chelsea
-* BTS' V
-> 2023-12-30 18:15:56.857493
+* Al Nassr
+* Fulham vs Arsenal
+* Manchester United
+* UAE vs AFG
+* Thalapathy 68
+> 2023-12-31 18:15:13.607072
 
 <!-- Requirements -->
 ### Requirements
