@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Al Nassr
-* Fulham vs Arsenal
-* Manchester United
-* UAE vs AFG
-* Thalapathy 68
-> 2023-12-31 18:15:13.607072
+* New Year's Day
+* Japan Earthquake
+* Nifty 50
+* David Warner
+* Time
+> 2024-01-01 18:16:43.818933
 
 <!-- Requirements -->
 ### Requirements
