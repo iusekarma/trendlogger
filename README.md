@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Year's Day
-* Japan Earthquake
-* Nifty 50
-* David Warner
-* Time
-> 2024-01-01 18:16:43.818933
+* Liverpool vs Newcastle
+* Jeffrey Epstein
+* IND W vs AUS W
+* INDW vs AUSW
+* Rafael Nadal
+> 2024-01-02 18:16:51.151289
 
 <!-- Requirements -->
 ### Requirements
