@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Liverpool vs Newcastle
-* Jeffrey Epstein
-* IND W vs AUS W
-* INDW vs AUSW
-* Rafael Nadal
-> 2024-01-02 18:16:51.151289
+* South Africa vs India
+* SA vs IND
+* Pakistan vs Australia
+* GATE 2024
+* UGC NET
+> 2024-01-03 18:17:01.331863
 
 <!-- Requirements -->
 ### Requirements
