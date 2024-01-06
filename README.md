@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* T20 World Cup
-* Lakshadweep
-* Japan
-* Nestle India share price
-* FA Cup
-> 2024-01-05 18:16:15.552476
+* Sri Lanka Vs Zimbabwe
+* Christian Oliver
+* Neri Oxman
+* David Warner
+* AR Rahman
+> 2024-01-06 18:15:35.869321
 
 <!-- Requirements -->
 ### Requirements
