@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka Vs Zimbabwe
-* Christian Oliver
-* Neri Oxman
-* David Warner
-* AR Rahman
-> 2024-01-06 18:15:35.869321
+* Maldives
+* Lakshadweep
+* Real Madrid
+* Arsenal vs Liverpool
+* Man City vs Huddersfield
+> 2024-01-07 18:15:39.720288
 
 <!-- Requirements -->
 ### Requirements
