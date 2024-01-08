@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Maldives
-* Lakshadweep
-* Real Madrid
-* Arsenal vs Liverpool
-* Man City vs Huddersfield
-> 2024-01-07 18:15:39.720288
+* India Women vs Australia Women
+* Bilkis Bano
+* Golden Globes 2024
+* MS Dhoni
+* Jyoti CNC Automation IPO GMP
+> 2024-01-08 18:17:18.593114
 
 <!-- Requirements -->
 ### Requirements
