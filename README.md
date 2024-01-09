@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India Women vs Australia Women
-* Bilkis Bano
-* Golden Globes 2024
-* MS Dhoni
-* Jyoti CNC Automation IPO GMP
-> 2024-01-08 18:17:18.593114
+* Rashid Khan singer
+* Wigan Athletic vs Man United
+* Mindful AI Lab
+* Jeffrey Epstein
+* Moto G34 5G
+> 2024-01-09 18:13:52.983982
 
 <!-- Requirements -->
 ### Requirements
