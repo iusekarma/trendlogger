@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India Women vs Australia Women
-* Hrithik Roshan
-* Chelsea
-* SA20
-* Hindi Diwas
-> 2024-01-10 18:16:55.699970
+* Real Madrid vs atl%C3%A9tico Madrid
+* Polycab share price
+* Earthquake Today
+* Killer Soup
+* Mukesh Ambani
+> 2024-01-11 18:17:01.049493
 
 <!-- Requirements -->
 ### Requirements
