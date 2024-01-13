@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Guntur Kaaram
-* Captain Miller
-* Ayalaan
-* CTET
-* AFC Asian Cup
-> 2024-01-12 18:16:50.865887
+* Chelsea vs Fulham
+* Lift
+* HCL Technologies Q3 Results
+* Prabha Atre
+* Shreyas Iyer
+> 2024-01-13 18:15:40.523515
 
 <!-- Requirements -->
 ### Requirements
