@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Chelsea vs Fulham
-* Lift
-* HCL Technologies Q3 Results
-* Prabha Atre
-* Shreyas Iyer
-> 2024-01-13 18:15:40.523515
+* IND vs AFG
+* PAK vs NZ
+* Premier League
+* Afc Asian cup
+* Shivam Dube
+> 2024-01-14 18:15:40.627089
 
 <!-- Requirements -->
 ### Requirements
