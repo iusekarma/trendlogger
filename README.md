@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs AFG
-* PAK vs NZ
-* Premier League
-* Afc Asian cup
-* Shivam Dube
-> 2024-01-14 18:15:40.627089
+* Cricket
+* IRFC share price
+* Indian Army Day
+* Virat Kohli
+* Wipro share price
+> 2024-01-15 18:16:34.564484
 
 <!-- Requirements -->
 ### Requirements
