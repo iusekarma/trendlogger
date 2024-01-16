@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket
-* IRFC share price
-* Indian Army Day
-* Virat Kohli
-* Wipro share price
-> 2024-01-15 18:16:34.564484
+* HDFC Bank Results
+* Vivek Ramaswamy
+* Creta 2024
+* Sumit Nagal
+* Steve Smith
+> 2024-01-16 18:16:50.607379
 
 <!-- Requirements -->
 ### Requirements
