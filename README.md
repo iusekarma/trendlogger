@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket
-* New Zealand vs Pakistan
-* Live Score
-* Sri Lanka vs Zimbabwe
-* West Indies vs Australia
-> 2024-01-17 18:17:17.622364
+* CTET
+* JEE Mains 2024
+* IND vs AFG 3rd T20
+* Shivam Dube
+* T20 World Cup 2024
+> 2024-01-18 18:17:03.433264
 
 <!-- Requirements -->
 ### Requirements
