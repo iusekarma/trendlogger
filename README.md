@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Shoaib Malik
-* Arsenal vs Crystal Palace
-* El Salvador vs Inter Miami
-* Rahul Gandhi
-* Boeing
-> 2024-01-20 18:15:45.184713
+* Sushant Singh Rajput
+* Real Madrid vs almer%C3%ADa
+* Rick Harrison
+* UFC 297
+* Bournemouth vs Liverpool
+> 2024-01-21 18:16:23.108768
 
 <!-- Requirements -->
 ### Requirements
