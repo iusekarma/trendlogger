@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sushant Singh Rajput
-* Real Madrid vs almer%C3%ADa
-* Rick Harrison
-* UFC 297
-* Bournemouth vs Liverpool
-> 2024-01-21 18:16:23.108768
+* Arun Yogiraj
+* Rangoli
+* News
+* Mira Road News
+* Ram lalla murti
+> 2024-01-22 18:17:13.405077
 
 <!-- Requirements -->
 ### Requirements
