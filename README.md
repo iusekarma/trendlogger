@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Arun Yogiraj
-* Rangoli
-* News
-* Mira Road News
-* Ram lalla murti
-> 2024-01-22 18:17:13.405077
+* Syria vs India
+* Groww
+* HDFC Bank share price
+* OnePlus 12
+* Zee share price
+> 2024-01-23 18:17:14.215228
 
 <!-- Requirements -->
 ### Requirements
