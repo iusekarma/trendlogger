@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Syria vs India
-* Groww
-* HDFC Bank share price
-* OnePlus 12
-* Zee share price
-> 2024-01-23 18:17:14.215228
+* Chelsea vs Middlesbrough
+* National Girl Child Day
+* Big Bash League
+* Mamata Banerjee
+* JEE Mains 2024 admit card
+> 2024-01-24 18:16:30.494996
 
 <!-- Requirements -->
 ### Requirements
