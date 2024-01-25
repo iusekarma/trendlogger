@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Chelsea vs Middlesbrough
-* National Girl Child Day
-* Big Bash League
-* Mamata Banerjee
-* JEE Mains 2024 admit card
-> 2024-01-24 18:16:30.494996
+* Republic Day
+* Copa del Rey
+* 26 January 2024
+* Bhavatharini
+* Ravichandran Ashwin
+> 2024-01-25 18:17:27.174950
 
 <!-- Requirements -->
 ### Requirements
