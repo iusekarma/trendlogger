@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Republic Day
-* Copa del Rey
-* 26 January 2024
-* Bhavatharini
-* Ravichandran Ashwin
-> 2024-01-25 18:17:27.174950
+* Novak Djokovic
+* Sam Bahadur
+* CSIR
+* Shubman Gill
+* Daniil Medvedev
+> 2024-01-26 18:15:47.416794
 
 <!-- Requirements -->
 ### Requirements
