@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Novak Djokovic
-* Sam Bahadur
-* CSIR
-* Shubman Gill
-* Daniil Medvedev
-> 2024-01-26 18:15:47.416794
+* Ollie Pope
+* Ravindra Jadeja
+* Dev Patel
+* Sabalenka
+* Kanguva
+> 2024-01-27 18:14:01.942046
 
 <!-- Requirements -->
 ### Requirements
