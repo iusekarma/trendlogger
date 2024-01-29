@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* AUS vs WI
-* Barcelona
-* Munawar Faruqui
-* Shubman Gill
-* Medvedev
-> 2024-01-28 18:13:59.142108
+* Nova Agritech IPO
+* Realme 12 Pro
+* Sakat Chauth Vrat Katha
+* Pariksha Pe Charcha 2024
+* Nithin Kamath
+> 2024-01-29 18:15:30.998572
 
 <!-- Requirements -->
 ### Requirements
