@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Nova Agritech IPO
-* Realme 12 Pro
-* Sakat Chauth Vrat Katha
-* Pariksha Pe Charcha 2024
-* Nithin Kamath
-> 2024-01-29 18:15:30.998572
+* Under 19 World Cup
+* Mahatma Gandhi
+* Maldives President Mohamed Muizzu
+* U19 Cricket World Cup
+* TNPSC Group 4
+> 2024-01-30 18:15:57.791339
 
 <!-- Requirements -->
 ### Requirements
