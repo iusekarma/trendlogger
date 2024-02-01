@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Premier League
-* Budget 2024
-* Paytm
-* King
-* Fastag KYC Update
-> 2024-01-31 18:12:45.282421
+* Budget 2024 time
+* February
+* Lewis Hamilton
+* Man City
+* Fed meeting
+> 2024-02-01 18:15:36.257711
 
 <!-- Requirements -->
 ### Requirements
