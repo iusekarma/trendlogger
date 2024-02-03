@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Poonam Pandey Death News
-* India vs England
-* Shoaib Bashir
-* Jaiswal
-* Poonam Pandey passed away
-> 2024-02-02 18:16:48.347787
+* Lal Krishna Advani
+* Mohun Bagan vs East Bengal
+* AFC Asian Cup
+* Zak Crawley
+* Carl Weathers
+> 2024-02-03 18:14:17.091248
 
 <!-- Requirements -->
 ### Requirements
