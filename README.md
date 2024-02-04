@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Lal Krishna Advani
-* Mohun Bagan vs East Bengal
-* AFC Asian Cup
-* Zak Crawley
-* Carl Weathers
-> 2024-02-03 18:14:17.091248
+* Australia vs West Indies
+* New Zealand vs South Africa
+* Premier League
+* Man United vs West Ham
+* Inter Miami
+> 2024-02-04 18:17:09.536652
 
 <!-- Requirements -->
 ### Requirements
