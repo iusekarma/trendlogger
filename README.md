@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs West Indies
-* New Zealand vs South Africa
-* Premier League
-* Man United vs West Ham
-* Inter Miami
-> 2024-02-04 18:17:09.536652
+* Ronaldo
+* Jacob Elordi
+* Jio Finance share price
+* Tata Motors share price
+* Real Madrid
+> 2024-02-05 18:17:23.250589
 
 <!-- Requirements -->
 ### Requirements
