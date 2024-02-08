@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Icai.nic.in
-* Propose Day
-* Valentine's Day
-* Farooq Nazki
-* CTET Answer Key
-> 2024-02-07 18:15:53.397364
+* Pakistan U19 vs Australia u19
+* LIC share price
+* Gokulpuri Metro Station
+* Teri Baaton Mein Aisa Uljha Jiya
+* RBI Policy
+> 2024-02-08 18:15:27.323343
 
 <!-- Requirements -->
 ### Requirements
