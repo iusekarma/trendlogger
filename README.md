@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan U19 vs Australia u19
-* LIC share price
-* Gokulpuri Metro Station
-* Teri Baaton Mein Aisa Uljha Jiya
-* RBI Policy
-> 2024-02-08 18:15:27.323343
+* Australia vs West Indies
+* Sri Lanka vs Afghanistan
+* Lal Salaam Review
+* PV Narasimha Rao
+* Guntur Kaaram
+> 2024-02-09 18:15:50.274574
 
 <!-- Requirements -->
 ### Requirements
