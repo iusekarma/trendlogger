@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs West Indies
-* Sri Lanka vs Afghanistan
-* Lal Salaam Review
-* PV Narasimha Rao
-* Guntur Kaaram
-> 2024-02-09 18:15:50.274574
+* Teddy Day
+* Man City vs Everton
+* UP Police Admit Card 2024
+* Liverpool vs Burnley
+* Teddy bear
+> 2024-02-10 18:14:42.005966
 
 <!-- Requirements -->
 ### Requirements
