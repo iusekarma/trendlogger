@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* ICC U19
-* West Ham vs Arsenal
-* Glenn Maxwell
-* Raj Limbani
-* Hungarian President Katalin Novak
-> 2024-02-11 18:15:40.079811
+* Sri Lanka vs Afghanistan
+* Bihar news
+* Hug Day
+* Barcelona vs Granada
+* Ashok Chavan
+> 2024-02-12 18:15:24.177960
 
 <!-- Requirements -->
 ### Requirements
