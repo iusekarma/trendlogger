@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs Afghanistan
-* Bihar news
-* Hug Day
-* Barcelona vs Granada
-* Ashok Chavan
-> 2024-02-12 18:15:24.177960
+* UP Police admit card
+* UAE
+* Scholarship
+* UEFA Champions League
+* Hindalco Share price
+> 2024-02-13 18:17:08.389362
 
 <!-- Requirements -->
 ### Requirements
