@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* UP Police admit card
-* UAE
-* Scholarship
-* UEFA Champions League
-* Hindalco Share price
-> 2024-02-13 18:17:08.389362
+* Happy Valentine's Day my love
+* Afghanistan vs Sri Lanka
+* Real Madrid
+* UPSC
+* AUS vs WI
+> 2024-02-14 18:15:39.686270
 
 <!-- Requirements -->
 ### Requirements
