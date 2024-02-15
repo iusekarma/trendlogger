@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Happy Valentine's Day my love
-* Afghanistan vs Sri Lanka
-* Real Madrid
-* UPSC
-* AUS vs WI
-> 2024-02-14 18:15:39.686270
+* India vs England
+* Cricket
+* ICC
+* Live Score
+* Bramayugam
+> 2024-02-15 18:17:00.904572
 
 <!-- Requirements -->
 ### Requirements
