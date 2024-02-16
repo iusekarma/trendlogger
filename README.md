@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs England
-* Cricket
-* ICC
-* Live Score
-* Bramayugam
-> 2024-02-15 18:17:00.904572
+* OpenAI Sora
+* Inter Miami
+* Kane Williamson
+* Ratha Saptami
+* IPO allotment status
+> 2024-02-16 18:16:14.174833
 
 <!-- Requirements -->
 ### Requirements
