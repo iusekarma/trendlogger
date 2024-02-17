@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* OpenAI Sora
-* Inter Miami
-* Kane Williamson
-* Ratha Saptami
-* IPO allotment status
-> 2024-02-16 18:16:14.174833
+* Suhani Bhatnagar
+* Yashasvi Jaiswal
+* PSL
+* Kamal Nath
+* Brentford vs Liverpool
+> 2024-02-17 18:14:40.219154
 
 <!-- Requirements -->
 ### Requirements
