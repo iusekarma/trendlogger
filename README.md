@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Real Madrid
-* Bayern Munich
-* Ben Stokes
-* UP Police Paper Leak 2024
-* Kalki Dham
-> 2024-02-19 18:16:40.636105
+* Rituraj Singh
+* Sri Lanka vs Afghanistan
+* Virat Kohli
+* Anushka Sharma
+* Deepika Padukone
+> 2024-02-20 18:18:14.345648
 
 <!-- Requirements -->
 ### Requirements
