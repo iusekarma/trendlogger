@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Rituraj Singh
-* Sri Lanka vs Afghanistan
-* Virat Kohli
-* Anushka Sharma
-* Deepika Padukone
-> 2024-02-20 18:18:14.345648
+* Ameen Sayani
+* Rakul Preet Singh
+* Fali S Nariman
+* International Mother Language Day
+* Inter Milan
+> 2024-02-21 18:15:38.447545
 
 <!-- Requirements -->
 ### Requirements
