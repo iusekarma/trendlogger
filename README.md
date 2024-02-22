@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ameen Sayani
-* Rakul Preet Singh
-* Fali S Nariman
-* International Mother Language Day
-* Inter Milan
-> 2024-02-21 18:15:38.447545
+* IPL 2024 Schedule
+* Inter Miami vs Real Salt Lake
+* Napoli vs Barcelona
+* WPL
+* Manjummel Boys
+> 2024-02-22 18:16:11.362351
 
 <!-- Requirements -->
 ### Requirements
