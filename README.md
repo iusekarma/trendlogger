@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IPL 2024 Schedule
-* Inter Miami vs Real Salt Lake
-* Napoli vs Barcelona
-* WPL
-* Manjummel Boys
-> 2024-02-22 18:16:11.362351
+* England vs India
+* Eng vs Ind
+* Article 370 Movie
+* Manohar Joshi
+* Lasya Nanditha
+> 2024-02-23 18:16:42.208148
 
 <!-- Requirements -->
 ### Requirements
