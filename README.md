@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs India
-* Eng vs Ind
-* Article 370 Movie
-* Manohar Joshi
-* Lasya Nanditha
-> 2024-02-23 18:16:42.208148
+* Barcelona vs Getafe
+* Man United vs Fulham
+* Musheer Khan
+* Vivo V30
+* Carabao Cup
+> 2024-02-24 18:15:19.291851
 
 <!-- Requirements -->
 ### Requirements
