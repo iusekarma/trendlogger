@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Barcelona vs Getafe
-* Man United vs Fulham
-* Musheer Khan
-* Vivo V30
-* Carabao Cup
-> 2024-02-24 18:15:19.291851
+* Dhruv Jurel
+* Kerala Blasters
+* Bayern Munich
+* Nafe Singh Rathee
+* Sudarshan Setu
+> 2024-02-25 18:14:53.893553
 
 <!-- Requirements -->
 ### Requirements
