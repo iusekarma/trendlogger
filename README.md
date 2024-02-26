@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Dhruv Jurel
-* Kerala Blasters
-* Bayern Munich
-* Nafe Singh Rathee
-* Sudarshan Setu
-> 2024-02-25 18:14:53.893553
+* Pankaj Udhas
+* Inter Miami
+* GPT Healthcare IPO GMP
+* Xiaomi 14
+* Asian Paints share price
+> 2024-02-26 18:15:57.158934
 
 <!-- Requirements -->
 ### Requirements
