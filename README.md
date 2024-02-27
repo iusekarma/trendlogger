@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pankaj Udhas
-* Inter Miami
-* GPT Healthcare IPO GMP
-* Xiaomi 14
-* Asian Paints share price
-> 2024-02-26 18:15:57.158934
+* Sidhu Moose Wala
+* Anant Ambani
+* Rajya Sabha Election 2024
+* Neil Wagner
+* Gaganyaan Mission
+> 2024-02-27 18:16:04.864742
 
 <!-- Requirements -->
 ### Requirements
