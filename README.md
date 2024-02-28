@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sidhu Moose Wala
-* Anant Ambani
-* Rajya Sabha Election 2024
-* Neil Wagner
-* Gaganyaan Mission
-> 2024-02-27 18:16:04.864742
+* PM Kisan
+* FA Cup
+* Afghanistan vs Ireland
+* BCCI
+* CAA
+> 2024-02-28 18:15:49.056539
 
 <!-- Requirements -->
 ### Requirements
