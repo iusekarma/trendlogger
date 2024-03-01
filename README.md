@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs New Zealand
-* Deepika Padukone
-* %E0%A4%B2%E0%A5%80%E0%A4%AA %E0%A4%A1%E0%A5%87 2024
-* K Shivaram
-* Bitcoin price
-> 2024-02-29 18:16:36.716421
+* Rameshwaram Cafe
+* Puneri Paltan
+* IPO allotment status
+* F1
+* Avtar Saini Intel India
+> 2024-03-01 18:16:58.993732
 
 <!-- Requirements -->
 ### Requirements
