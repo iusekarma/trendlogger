@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Rameshwaram Cafe
-* Puneri Paltan
-* IPO allotment status
-* F1
-* Avtar Saini Intel India
-> 2024-03-01 18:16:58.993732
+* Bayern Munich
+* Gautam Gambhir
+* Delhi Weather
+* RCB vs MI WPL
+* Bansuri Swaraj
+> 2024-03-02 18:16:04.071313
 
 <!-- Requirements -->
 ### Requirements
