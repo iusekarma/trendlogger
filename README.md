@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man City vs Man United
-* Inter Miami
-* Real Madrid
-* Man City
-* Polio drops
-> 2024-03-03 18:14:51.407963
+* Sri Lanka vs Bangladesh
+* Mukka Proteins IPO GMP
+* Barcelona
+* Abhijit Gangopadhyay
+* Ellyse Perry
+> 2024-03-04 18:15:59.316407
 
 <!-- Requirements -->
 ### Requirements
