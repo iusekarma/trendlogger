@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Facebook
-* Tata Motors Share price
-* Nothing Phone 2a
-* Al Nassr
-* Mark Zuckerberg
-> 2024-03-05 18:15:43.839258
+* Simona Halep tennis
+* PSG
+* JM Financial
+* GG vs RCB
+* BAN vs SL
+> 2024-03-06 18:16:33.493809
 
 <!-- Requirements -->
 ### Requirements
