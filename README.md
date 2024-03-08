@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs India
-* IND vs ENG
-* Cricket
-* Mahashivratri 2024
-* Real Madrid vs RB Leipzig
-> 2024-03-07 18:16:06.984547
+* Dragon Ball
+* New Zealand vs Australia
+* Inter Miami
+* Dolly Sohi
+* Ajay Devgn
+> 2024-03-08 18:16:34.973670
 
 <!-- Requirements -->
 ### Requirements
