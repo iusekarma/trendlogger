@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Flat white
-* CAA
-* Poor Things
-* Inter Miami
-* What is CAA in India
-> 2024-03-11 18:16:12.241308
+* Haryana News
+* MI vs RCB WPL
+* Aattam
+* Modi
+* Rishabh Pant IPL
+> 2024-03-12 18:15:56.971374
 
 <!-- Requirements -->
 ### Requirements
