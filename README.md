@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Haryana News
-* MI vs RCB WPL
-* Aattam
-* Modi
-* Rishabh Pant IPL
-> 2024-03-12 18:15:56.971374
+* Raj Anadkat
+* Sri Lanka vs Bangladesh
+* Barcelona vs Napoli
+* BJP Candidate List 2024
+* Share Market Today
+> 2024-03-13 18:15:42.643270
 
 <!-- Requirements -->
 ### Requirements
