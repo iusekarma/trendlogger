@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Raj Anadkat
-* Sri Lanka vs Bangladesh
-* Barcelona vs Napoli
-* BJP Candidate List 2024
-* Share Market Today
-> 2024-03-13 18:15:42.643270
+* Mamata Banerjee
+* Inter Miami
+* ECI
+* Vladimir Putin
+* Sainik School Result 2024
+> 2024-03-14 18:15:55.670380
 
 <!-- Requirements -->
 ### Requirements
