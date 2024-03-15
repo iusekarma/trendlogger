@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mamata Banerjee
-* Inter Miami
-* ECI
-* Vladimir Putin
-* Sainik School Result 2024
-> 2024-03-14 18:15:55.670380
+* WPL Live Score
+* Bangladesh vs Sri Lanka
+* Yodha
+* Murder Mubarak
+* Amitabh Bachchan
+> 2024-03-15 18:17:01.006628
 
 <!-- Requirements -->
 ### Requirements
