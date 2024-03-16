@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* WPL Live Score
-* Bangladesh vs Sri Lanka
-* Yodha
-* Murder Mubarak
-* Amitabh Bachchan
-> 2024-03-15 18:17:01.006628
+* Election Date 2024
+* Election Commission of India
+* West Bengal cm Mamata Banerjee
+* Real Madrid
+* All England Badminton
+> 2024-03-16 18:16:29.998295
 
 <!-- Requirements -->
 ### Requirements
