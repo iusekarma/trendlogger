@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Election Date 2024
-* Election Commission of India
-* West Bengal cm Mamata Banerjee
-* Real Madrid
-* All England Badminton
-> 2024-03-16 18:16:29.998295
+* FA Cup
+* Sidhu Moosewala
+* Chelsea vs Leicester City
+* Rahul Gandhi
+* Election Commission
+> 2024-03-17 18:14:30.247895
 
 <!-- Requirements -->
 ### Requirements
