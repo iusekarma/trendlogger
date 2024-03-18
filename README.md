@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* FA Cup
-* Sidhu Moosewala
-* Chelsea vs Leicester City
-* Rahul Gandhi
-* Election Commission
-> 2024-03-17 18:14:30.247895
+* Sri Lanka vs Bangladesh
+* CSK
+* Chennai Super Kings
+* Barcelona
+* Bihar Board 12th Result
+> 2024-03-18 18:15:54.001573
 
 <!-- Requirements -->
 ### Requirements
