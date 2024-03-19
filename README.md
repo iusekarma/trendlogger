@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs Bangladesh
-* CSK
-* Chennai Super Kings
-* Barcelona
-* Bihar Board 12th Result
-> 2024-03-18 18:15:54.001573
+* Nowruz
+* Narzo 70 Pro 5G
+* Hardik Pandya
+* Imad Wasim
+* Inter result 2024
+> 2024-03-19 18:16:00.509600
 
 <!-- Requirements -->
 ### Requirements
