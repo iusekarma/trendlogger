@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Nowruz
-* Narzo 70 Pro 5G
-* Hardik Pandya
-* Imad Wasim
-* Inter result 2024
-> 2024-03-19 18:16:00.509600
+* Abraham Ozler
+* Sadhguru
+* Pashupati Kumar Paras
+* Pradeep Sharma
+* Badaun
+> 2024-03-20 18:16:00.806934
 
 <!-- Requirements -->
 ### Requirements
