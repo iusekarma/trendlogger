@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Abraham Ozler
-* Sadhguru
-* Pashupati Kumar Paras
-* Pradeep Sharma
-* Badaun
-> 2024-03-20 18:16:00.806934
+* CSK
+* RCB vs CSK
+* Ae Watan Mere Watan
+* Punjab Kings captain 2024
+* Vivo T3 5G
+> 2024-03-21 18:16:15.632015
 
 <!-- Requirements -->
 ### Requirements
