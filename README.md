@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CSK
-* RCB vs CSK
-* Ae Watan Mere Watan
-* Punjab Kings captain 2024
-* Vivo T3 5G
-> 2024-03-21 18:16:15.632015
+* Sports
+* Grecia Munoz
+* Virat Kohli
+* Rachin Ravindra
+* World Water Day
+> 2024-03-22 18:15:56.139977
 
 <!-- Requirements -->
 ### Requirements
