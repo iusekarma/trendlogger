@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sports
-* Grecia Munoz
-* Virat Kohli
-* Rachin Ravindra
-* World Water Day
-> 2024-03-22 18:15:56.139977
+* Bihar Board Result
+* Moscow
+* Princess of Wales
+* Argentina vs El Salvador
+* Ishant Sharma
+> 2024-03-23 18:14:32.732020
 
 <!-- Requirements -->
 ### Requirements
