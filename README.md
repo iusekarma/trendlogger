@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bihar Board Result
-* Moscow
-* Princess of Wales
-* Argentina vs El Salvador
-* Ishant Sharma
-> 2024-03-23 18:14:32.732020
+* F1
+* Holi Wishes in Hindi
+* Gujarat Titans vs Mumbai Indians match scorecard
+* Brazil
+* Naveen Jindal
+> 2024-03-24 18:17:36.229361
 
 <!-- Requirements -->
 ### Requirements
