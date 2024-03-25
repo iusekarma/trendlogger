@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* F1
-* Holi Wishes in Hindi
-* Gujarat Titans vs Mumbai Indians match scorecard
-* Brazil
-* Naveen Jindal
-> 2024-03-24 18:17:36.229361
+* GT vs MI
+* Delhi Chief Minister Arvind Kejriwal
+* Varun Gandhi
+* Mohammad Amir
+* Taarak Mehta Ka Ooltah Chashmah
+> 2024-03-25 18:17:08.124204
 
 <!-- Requirements -->
 ### Requirements
