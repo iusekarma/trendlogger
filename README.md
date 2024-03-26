@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* GT vs MI
-* Delhi Chief Minister Arvind Kejriwal
-* Varun Gandhi
-* Mohammad Amir
-* Taarak Mehta Ka Ooltah Chashmah
-> 2024-03-25 18:17:08.124204
+* CUET UG 2024
+* Baltimore
+* Shikhar Dhawan
+* Ms Dhoni
+* IPL Full schedule 2024
+> 2024-03-26 18:16:44.571487
 
 <!-- Requirements -->
 ### Requirements
