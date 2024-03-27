@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CUET UG 2024
-* Baltimore
-* Shikhar Dhawan
-* Ms Dhoni
-* IPL Full schedule 2024
-> 2024-03-26 18:16:44.571487
+* Highest score in IPL
+* SRH vs MI
+* Siddharth
+* Benjamin Netanyahu
+* Ram Charan
+> 2024-03-27 18:17:07.720142
 
 <!-- Requirements -->
 ### Requirements
