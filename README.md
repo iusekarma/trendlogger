@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RR vs DC
-* Good Friday
-* JEE Main
-* Godzilla x Kong
-* Maundy Thursday
-> 2024-03-28 18:16:13.260986
+* Crew Movie
+* Sunil Narine
+* Premalu
+* Godzilla vs Kong
+* Easter
+> 2024-03-29 18:15:55.982830
 
 <!-- Requirements -->
 ### Requirements
