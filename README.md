@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* LSG vs PBKS
-* Daniel Balaji
-* Bihar Board 10th Result 2024
-* Premier League
-* Orange Cap in IPL 2024
-> 2024-03-30 18:16:40.441443
+* Easter
+* Prithvi Shaw
+* Liverpool vs Brighton
+* Matheesha Pathirana
+* Bihar School Examination Board
+> 2024-03-31 18:15:12.044026
 
 <!-- Requirements -->
 ### Requirements
