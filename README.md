@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Easter
-* Prithvi Shaw
-* Liverpool vs Brighton
-* Matheesha Pathirana
-* Bihar School Examination Board
-> 2024-03-31 18:15:12.044026
+* MS Dhoni
+* Nifty 50
+* Real Madrid vs Athletic Club
+* SBI net banking
+* SBI
+> 2024-04-01 18:15:59.490277
 
 <!-- Requirements -->
 ### Requirements
