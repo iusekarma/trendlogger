@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CTET
-* Russian
-* Realme 12x 5G
-* Sanjay Singh
-* Kejriwal
-> 2024-04-02 18:16:15.032959
+* KKR vs DC
+* Angkrish Raghuvanshi
+* Taiwan
+* Sunil Narine
+* Rinku singh
+> 2024-04-03 18:16:10.822145
 
 <!-- Requirements -->
 ### Requirements
