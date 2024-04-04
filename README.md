@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* KKR vs DC
-* Angkrish Raghuvanshi
-* Taiwan
-* Sunil Narine
-* Rinku singh
-> 2024-04-03 18:16:10.822145
+* GT vs PBKS
+* Man City vs Aston Villa
+* Gourav Vallabh
+* Inter Miami
+* Sanjay Nirupam
+> 2024-04-04 18:16:56.361423
 
 <!-- Requirements -->
 ### Requirements
