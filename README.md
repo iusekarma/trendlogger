@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* GT vs PBKS
-* Man City vs Aston Villa
-* Gourav Vallabh
-* Inter Miami
-* Sanjay Nirupam
-> 2024-04-04 18:16:56.361423
+* Family Star Movie Review
+* Rashmika Mandanna
+* Earthquake
+* Liverpool
+* Apple iPhone 16 Pro Max
+> 2024-04-05 18:16:16.803131
 
 <!-- Requirements -->
 ### Requirements
