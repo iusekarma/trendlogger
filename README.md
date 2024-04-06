@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Family Star Movie Review
-* Rashmika Mandanna
-* Earthquake
-* Liverpool
-* Apple iPhone 16 Pro Max
-> 2024-04-05 18:16:16.803131
+* Royal Challengers vs Royals
+* Crystal Palace vs Man City
+* Ather
+* Sanju Samson
+* CUET correction window 2024
+> 2024-04-06 18:15:28.477199
 
 <!-- Requirements -->
 ### Requirements
