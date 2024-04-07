@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Royal Challengers vs Royals
-* Crystal Palace vs Man City
-* Ather
-* Sanju Samson
-* CUET correction window 2024
-> 2024-04-06 18:15:28.477199
+* LSG vs GT
+* Surya Grahan 2024
+* Suryakumar Yadav
+* Man United vs Liverpool
+* Rohit Sharma
+> 2024-04-07 18:15:29.625583
 
 <!-- Requirements -->
 ### Requirements
