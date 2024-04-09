@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Eid 2024
-* Rinku Singh
-* Krunal Pandya
-* Allu Arjun
-* Chelsea
-> 2024-04-08 18:18:31.950159
+* SRH vs PBKS
+* Happy Ugadi
+* Al-Nassr
+* Ruturaj Gaikwad
+* Shashank Singh
+> 2024-04-09 18:15:05.791515
 
 <!-- Requirements -->
 ### Requirements
