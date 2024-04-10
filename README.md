@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SRH vs PBKS
-* Happy Ugadi
-* Al-Nassr
-* Ruturaj Gaikwad
-* Shashank Singh
-> 2024-04-09 18:15:05.791515
+* RR vs GT
+* Arsenal vs Bayern
+* Champions League
+* Umar Khalid
+* Joker 2
+> 2024-04-10 18:18:29.352748
 
 <!-- Requirements -->
 ### Requirements
