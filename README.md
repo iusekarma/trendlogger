@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RR vs GT
-* Arsenal vs Bayern
-* Champions League
-* Umar Khalid
-* Joker 2
-> 2024-04-10 18:18:29.352748
+* Will Jacks
+* Pakistan
+* Hardik Pandya
+* Varshangalkku Shesham
+* Atletico Madrid
+> 2024-04-11 18:16:01.944429
 
 <!-- Requirements -->
 ### Requirements
