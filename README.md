@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Will Jacks
-* Pakistan
-* Hardik Pandya
-* Varshangalkku Shesham
-* Atletico Madrid
-> 2024-04-11 18:16:01.944429
+* LSG vs DC
+* Chamkila movie
+* Gaami
+* Park Bo Ram
+* Baisakhi
+> 2024-04-12 18:13:57.382249
 
 <!-- Requirements -->
 ### Requirements
