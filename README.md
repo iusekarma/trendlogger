@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* LSG vs DC
-* Chamkila movie
-* Gaami
-* Park Bo Ram
-* Baisakhi
-> 2024-04-12 18:13:57.382249
+* PBKS vs RR
+* Rishabh Pant
+* Man City vs Luton Town
+* CUET PG Result 2024
+* Narendra Modi
+> 2024-04-13 18:13:02.676625
 
 <!-- Requirements -->
 ### Requirements
