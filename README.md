@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PBKS vs RR
-* Rishabh Pant
-* Man City vs Luton Town
-* CUET PG Result 2024
-* Narendra Modi
-> 2024-04-13 18:13:02.676625
+* CSK vs MI
+* LSG vs KKR
+* Producer Soundarya Jagadish
+* Salman Khan
+* Shamar Joseph
+> 2024-04-14 22:54:17.976683
 
 <!-- Requirements -->
 ### Requirements
