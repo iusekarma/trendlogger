@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CSK vs MI
-* LSG vs KKR
-* Producer Soundarya Jagadish
-* Salman Khan
-* Shamar Joseph
-> 2024-04-14 22:54:17.976683
+* SRH vs RCB
+* Highest score in IPL
+* Orange Cap in IPL 2024
+* Mumbai Indians
+* Arsenal
+> 2024-04-15 18:16:37.901080
 
 <!-- Requirements -->
 ### Requirements
