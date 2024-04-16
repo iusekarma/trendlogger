@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SRH vs RCB
-* Highest score in IPL
-* Orange Cap in IPL 2024
-* Mumbai Indians
-* Arsenal
-> 2024-04-15 18:16:37.901080
+* RR vs KKR
+* Kannada actor Dwarakish
+* Chelsea
+* Rahul Gandhi
+* NEET PG 2024
+> 2024-04-16 18:15:42.248313
 
 <!-- Requirements -->
 ### Requirements
