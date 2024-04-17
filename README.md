@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RR vs KKR
-* Kannada actor Dwarakish
-* Chelsea
-* Rahul Gandhi
-* NEET PG 2024
-> 2024-04-16 18:15:42.248313
+* GT vs DC
+* Ram Navami 2024
+* Angry Rantman
+* Sri Rama Navami 2024
+* Narendra Modi
+> 2024-04-17 18:16:41.938774
 
 <!-- Requirements -->
 ### Requirements
