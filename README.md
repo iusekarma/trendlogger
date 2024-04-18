@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* GT vs DC
-* Ram Navami 2024
-* Angry Rantman
-* Sri Rama Navami 2024
-* Narendra Modi
-> 2024-04-17 18:16:41.938774
+* Man City vs Real Madrid
+* Richard Gleeson
+* PSEB 10th Result 2024
+* Arsenal
+* Nifty 50
+> 2024-04-18 18:16:51.715536
 
 <!-- Requirements -->
 ### Requirements
