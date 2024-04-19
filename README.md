@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man City vs Real Madrid
-* Richard Gleeson
-* PSEB 10th Result 2024
-* Arsenal
-* Nifty 50
-> 2024-04-18 18:16:51.715536
+* India national elections 2024
+* JAC 10th Result 2024
+* Israel news
+* Sydney Sweeney
+* PAK vs NZ
+> 2024-04-19 18:15:54.800740
 
 <!-- Requirements -->
 ### Requirements
