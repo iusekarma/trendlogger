@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India national elections 2024
-* JAC 10th Result 2024
-* Israel news
-* Sydney Sweeney
-* PAK vs NZ
-> 2024-04-19 18:15:54.800740
+* SRH vs DC
+* FA Cup
+* MP Board Result
+* Upresults.nic.in 2024 Class 10
+* Bitcoin halving
+> 2024-04-20 18:16:41.253256
 
 <!-- Requirements -->
 ### Requirements
