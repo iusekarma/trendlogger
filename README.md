@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PBKS vs GT
-* Coventry Vs Man United
-* Orange Cap in IPL 2024
-* Sunil narine
-* Narendra Modi
-> 2024-04-21 18:16:52.404793
+* AP SSC Results 2024
+* Sandeep Sharma
+* Hanuman Jayanti 2024
+* Earth Day
+* Real Madrid
+> 2024-04-22 18:16:09.311664
 
 <!-- Requirements -->
 ### Requirements
