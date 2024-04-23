@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* AP SSC Results 2024
-* Sandeep Sharma
-* Hanuman Jayanti 2024
-* Earth Day
-* Real Madrid
-> 2024-04-22 18:16:09.311664
+* CSK vs LSG
+* Hanuman Chalisa
+* Iranian President Ebrahim Raisi
+* Serie A
+* MP Board result
+> 2024-04-23 18:16:20.827437
 
 <!-- Requirements -->
 ### Requirements
