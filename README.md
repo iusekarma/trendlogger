@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CSK vs LSG
-* Hanuman Chalisa
-* Iranian President Ebrahim Raisi
-* Serie A
-* MP Board result
-> 2024-04-23 18:16:20.827437
+* DC vs GT
+* Inter Results 2024
+* TS Inter Results 2024
+* Sachin Tendulkar
+* Premier League
+> 2024-04-24 18:15:51.974862
 
 <!-- Requirements -->
 ### Requirements
