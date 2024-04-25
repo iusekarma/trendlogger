@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* DC vs GT
-* Inter Results 2024
-* TS Inter Results 2024
-* Sachin Tendulkar
-* Premier League
-> 2024-04-24 18:15:51.974862
+* RCB vs SRH
+* Kotak Mahindra Bank
+* NTA JEE Mains
+* Arijit Singh
+* IBM HashiCorp acquisition
+> 2024-04-25 18:16:50.628911
 
 <!-- Requirements -->
 ### Requirements
