@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India general elections 2024
-* KKR vs PBKS
-* Virat Kohli
-* Rinku Singh
-* Man City
-> 2024-04-26 18:16:38.151544
+* LSG vs RR
+* Pakistan vs New Zealand
+* Rasikh Salam
+* Kristi Noem
+* Real Madrid
+> 2024-04-27 18:15:31.121145
 
 <!-- Requirements -->
 ### Requirements
