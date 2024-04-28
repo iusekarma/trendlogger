@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* LSG vs RR
-* Pakistan vs New Zealand
-* Rasikh Salam
-* Kristi Noem
-* Real Madrid
-> 2024-04-27 18:15:31.121145
+* CSK vs SRH
+* India Women vs Bangladesh Women
+* Prajwal Revanna
+* Tottenham vs Arsenal
+* Harvey Weinstein
+> 2024-04-28 18:15:39.685436
 
 <!-- Requirements -->
 ### Requirements
