@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CSK vs SRH
-* India Women vs Bangladesh Women
-* Prajwal Revanna
-* Tottenham vs Arsenal
-* Harvey Weinstein
-> 2024-04-28 18:15:39.685436
+* DC vs KKR
+* HPBOSE
+* Yes Bank share price
+* Mahindra
+* Arvind Kejriwal
+> 2024-04-29 18:17:13.126236
 
 <!-- Requirements -->
 ### Requirements
