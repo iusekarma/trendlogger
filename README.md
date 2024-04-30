@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* DC vs KKR
-* HPBOSE
-* Yes Bank share price
-* Mahindra
-* Arvind Kejriwal
-> 2024-04-29 18:17:13.126236
+* MI vs LSG
+* Covishield
+* SSC Result 2024 Telangana
+* 10th Result 2024 Telangana
+* HBSE
+> 2024-04-30 18:19:11.524057
 
 <!-- Requirements -->
 ### Requirements
