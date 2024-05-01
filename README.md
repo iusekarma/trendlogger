@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* MI vs LSG
-* Covishield
-* SSC Result 2024 Telangana
-* 10th Result 2024 Telangana
-* HBSE
-> 2024-04-30 18:19:11.524057
+* Goldy Brar
+* Heeramandi review
+* Bomb threat today
+* Pushpa 2
+* Nithin Kamath
+> 2024-05-01 18:18:01.546547
 
 <!-- Requirements -->
 ### Requirements
