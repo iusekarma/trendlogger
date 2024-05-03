@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SRH vs RR
-* NEET Admit Card 2024
-* Uma Ramanan
-* Vivo V30e
-* The Idea of You
-> 2024-05-02 18:17:24.270338
+* CBSE
+* Rinku Singh
+* Aranmanai 4
+* Rahul Gandhi
+* VITEEE Result 2024
+> 2024-05-03 18:16:54.666539
 
 <!-- Requirements -->
 ### Requirements
