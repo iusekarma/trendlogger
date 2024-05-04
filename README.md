@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CBSE
-* Rinku Singh
-* Aranmanai 4
-* Rahul Gandhi
-* VITEEE Result 2024
-> 2024-05-03 18:16:54.666539
+* Hamida Banu
+* GT vs RCB
+* ISL
+* %E0%A4%B9%E0%A4%AE%E0%A5%80%E0%A4%A6%E0%A4%BE %E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A5%8B
+* Rohit Sharma
+> 2024-05-04 18:15:46.096320
 
 <!-- Requirements -->
 ### Requirements
