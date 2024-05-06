@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* KKR vs LSG
-* Manjummel Boys
-* La Liga
-* MS Dhoni
-* NEET 2024
-> 2024-05-05 18:16:09.685295
+* ICSE Result 2024
+* Anshul Kamboj
+* CBSE 10th Result 2024
+* Indegene IPO
+* Titan share price
+> 2024-05-06 18:20:05.036230
 
 <!-- Requirements -->
 ### Requirements
