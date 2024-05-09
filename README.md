@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* HS Result 2024
-* Mother's Day 2024
-* SSLC Result 2024 date
-* Narendra Modi
-* Sanju Samson
-> 2024-05-08 18:17:56.183588
+* Real Madrid vs Bayern
+* India Women vs Bangladesh Women
+* KL Rahul
+* Aavesham
+* CG Board Result 2024
+> 2024-05-09 18:17:03.746545
 
 <!-- Requirements -->
 ### Requirements
