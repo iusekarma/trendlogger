@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Real Madrid vs Bayern
-* India Women vs Bangladesh Women
-* KL Rahul
-* Aavesham
-* CG Board Result 2024
-> 2024-05-09 18:17:03.746545
+* Pakistan vs Ireland
+* Arvind Kejriwal
+* Bangladesh vs Zimbabwe
+* Bayer Leverkusen
+* Justin Bieber
+> 2024-05-10 18:17:51.334796
 
 <!-- Requirements -->
 ### Requirements
