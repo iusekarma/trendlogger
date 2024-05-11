@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan vs Ireland
-* Arvind Kejriwal
-* Bangladesh vs Zimbabwe
-* Bayer Leverkusen
-* Justin Bieber
-> 2024-05-10 18:17:51.334796
+* Fulham vs Man City
+* MS Dhoni
+* GSEB 10th Result
+* James Anderson
+* Northern lights
+> 2024-05-11 18:16:55.985767
 
 <!-- Requirements -->
 ### Requirements
