@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RCB vs DC
-* HBSE
-* Man United vs Arsenal
-* Narendra Modi
-* Pavithra Jayaram
-> 2024-05-12 18:18:37.919208
+* CBSE
+* India General Elections 2024
+* Cbse.gov.in 2024
+* Tata Motors share price
+* Mumbai Weather
+> 2024-05-13 18:16:00.922656
 
 <!-- Requirements -->
 ### Requirements
