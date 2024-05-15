@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* DC vs LSG
-* 11th Result 2024
-* OpenAI
-* Zomato share price
-* Maldives
-> 2024-05-14 18:17:26.893707
+* RR vs PBKS
+* Ireland vs Pakistan
+* RBSE 10th Result 2024
+* Canara Bank share price
+* TS TET Hall Ticket download 2024
+> 2024-05-15 18:17:29.252928
 
 <!-- Requirements -->
 ### Requirements
