@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RR vs PBKS
-* Ireland vs Pakistan
-* RBSE 10th Result 2024
-* Canara Bank share price
-* TS TET Hall Ticket download 2024
-> 2024-05-15 18:17:29.252928
+* Sunil Chhetri
+* Bridgerton Season 3
+* Guruvayoor Ambalanadayil
+* SRH %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE GT
+* Motorola Edge 50 Fusion
+> 2024-05-16 18:17:04.975036
 
 <!-- Requirements -->
 ### Requirements
