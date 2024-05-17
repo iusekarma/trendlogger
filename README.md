@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sunil Chhetri
-* Bridgerton Season 3
-* Guruvayoor Ambalanadayil
-* SRH %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE GT
-* Motorola Edge 50 Fusion
-> 2024-05-16 18:17:04.975036
+* Swati Maliwal
+* Arjun Tendulkar
+* JAC 11th Result 2024
+* JEE Advanced
+* Mamata Banerjee
+> 2024-05-17 18:18:29.710631
 
 <!-- Requirements -->
 ### Requirements
