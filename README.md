@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Swati Maliwal
-* Arjun Tendulkar
-* JAC 11th Result 2024
-* JEE Advanced
-* Mamata Banerjee
-> 2024-05-17 18:18:29.710631
+* TS EAMCET results 2024
+* TS EAMCET 2024
+* Faf du Plessis
+* Bundesliga
+* Hardik Pandya
+> 2024-05-18 18:17:28.599296
 
 <!-- Requirements -->
 ### Requirements
