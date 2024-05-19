@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* TS EAMCET results 2024
-* TS EAMCET 2024
-* Faf du Plessis
-* Bundesliga
-* Hardik Pandya
-> 2024-05-18 18:17:28.599296
+* Premier League
+* MS Dhoni
+* Man City
+* Abhishek Sharma
+* India
+> 2024-05-19 18:17:02.762813
 
 <!-- Requirements -->
 ### Requirements
