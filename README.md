@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Premier League
-* MS Dhoni
-* Man City
-* Abhishek Sharma
-* India
-> 2024-05-19 18:17:02.762813
+* RBSE 12th Result 2024
+* Saudi King Salman
+* NSE holidays
+* Real Madrid
+* KKR vs SRH
+> 2024-05-20 18:18:10.236408
 
 <!-- Requirements -->
 ### Requirements
