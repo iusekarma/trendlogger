@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RBSE 12th Result 2024
-* Saudi King Salman
-* NSE holidays
-* Real Madrid
-* KKR vs SRH
-> 2024-05-20 18:18:10.236408
+* Porsche
+* Rahul Tripathi
+* Mohanlal
+* RVNL share price
+* Rajiv Gandhi
+> 2024-05-21 18:17:48.832449
 
 <!-- Requirements -->
 ### Requirements
