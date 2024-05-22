@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Porsche
-* Rahul Tripathi
-* Mohanlal
-* RVNL share price
-* Rajiv Gandhi
-> 2024-05-21 18:17:48.832449
+* RCB vs RR
+* Narendra Modi
+* Shah Rukh Khan
+* Realme GT 6T
+* Nitish Kumar
+> 2024-05-22 18:18:16.209385
 
 <!-- Requirements -->
 ### Requirements
