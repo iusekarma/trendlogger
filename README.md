@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* RCB vs RR
-* Narendra Modi
-* Shah Rukh Khan
-* Realme GT 6T
-* Nitish Kumar
-> 2024-05-22 18:18:16.209385
+* Accordion
+* Virat Kohli
+* Buddha Purnima
+* Furiosa
+* Ravichandran Ashwin
+> 2024-05-23 18:17:57.243492
 
 <!-- Requirements -->
 ### Requirements
