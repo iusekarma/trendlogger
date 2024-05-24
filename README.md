@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Accordion
-* Virat Kohli
-* Buddha Purnima
-* Furiosa
-* Ravichandran Ashwin
-> 2024-05-23 18:17:57.243492
+* USA vs BAN
+* All We Imagine As Light Payal Kapadia
+* China military drills Taiwan
+* Remal Cyclone
+* MBOSE Result 2024
+> 2024-05-24 18:18:18.965605
 
 <!-- Requirements -->
 ### Requirements
