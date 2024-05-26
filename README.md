@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India General Elections 2024
-* England vs Pakistan
-* FA Cup
-* RBSE 10th Result 2024
-* Election Commission of India
-> 2024-05-25 18:16:45.649574
+* Odisha Result
+* Real Madrid
+* Mitchell Starc
+* Shreyas Iyer
+* PSG
+> 2024-05-26 18:16:44.349494
 
 <!-- Requirements -->
 ### Requirements
