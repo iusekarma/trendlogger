@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Odisha Result
-* Real Madrid
-* Mitchell Starc
-* Shreyas Iyer
-* PSG
-> 2024-05-26 18:16:44.349494
+* SSC Result 2024 Maharashtra Board
+* T20 World Cup
+* 10th Result 2024
+* TNPSC Group 4 hall ticket
+* Johnny Wactor
+> 2024-05-27 18:18:02.723107
 
 <!-- Requirements -->
 ### Requirements
