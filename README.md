@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Plus One Result 2024
-* Saudi Pro League
-* Rahul Gandhi
-* Army
-* Nadal
-> 2024-05-28 18:18:02.443595
+* RBSE 10th Result 2024
+* Namibia vs Australia
+* Delhi temperature today
+* Sidhu Moose Wala
+* Pope Francis
+> 2024-05-29 18:17:48.171960
 
 <!-- Requirements -->
 ### Requirements
