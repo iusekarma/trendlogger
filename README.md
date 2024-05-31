@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* NTA NEET
-* Prajwal Revanna
-* Inter Miami
-* Shashi Tharoor
-* Manmohan Singh
-> 2024-05-30 18:19:41.682671
+* West Indies vs Australia
+* Mr and Mrs Mahi
+* ENG vs PAK
+* Gangs Of Godavari
+* Donald Trump
+> 2024-05-31 18:18:10.077429
 
 <!-- Requirements -->
 ### Requirements
