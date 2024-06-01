@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* West Indies vs Australia
-* Mr and Mrs Mahi
-* ENG vs PAK
-* Gangs Of Godavari
-* Donald Trump
-> 2024-05-31 18:18:10.077429
+* T20 World Cup
+* Al Nassr
+* Narendra Modi
+* Election Results
+* UFC
+> 2024-06-01 18:17:34.012362
 
 <!-- Requirements -->
 ### Requirements
