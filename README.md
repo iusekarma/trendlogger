@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* T20 World Cup
-* Al Nassr
-* Narendra Modi
-* Election Results
-* UFC
-> 2024-06-01 18:17:34.012362
+* Novak Djokovic
+* Raveena Tandon
+* Venkatesh Iyer
+* Odisha Assembly Election 2024
+* Mbappe
+> 2024-06-02 18:18:32.588628
 
 <!-- Requirements -->
 ### Requirements
