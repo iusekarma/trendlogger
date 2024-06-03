@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Novak Djokovic
-* Raveena Tandon
-* Venkatesh Iyer
-* Odisha Assembly Election 2024
-* Mbappe
-> 2024-06-02 18:18:32.588628
+* Sri Lanka vs South Africa
+* Nifty
+* SBI share price
+* Adani Power Share
+* Kronox Lab Sciences IPO GMP
+> 2024-06-03 18:19:37.785310
 
 <!-- Requirements -->
 ### Requirements
