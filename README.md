@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs South Africa
-* Nifty
-* SBI share price
-* Adani Power Share
-* Kronox Lab Sciences IPO GMP
-> 2024-06-03 18:19:37.785310
+* Samajwadi Party
+* NEET Result 2024
+* Andhra Pradesh Election
+* Aam Aadmi Party
+* Results.eci.gov.in 2024
+> 2024-06-04 18:18:39.239528
 
 <!-- Requirements -->
 ### Requirements
