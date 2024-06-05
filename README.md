@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Samajwadi Party
-* NEET Result 2024
-* Andhra Pradesh Election
-* Aam Aadmi Party
-* Results.eci.gov.in 2024
-> 2024-06-04 18:18:39.239528
+* Who won the Election 2024
+* Ireland vs India
+* Who is the Prime Minister of India
+* Devendra Fadnavis
+* Modi Resign
+> 2024-06-05 18:18:23.712199
 
 <!-- Requirements -->
 ### Requirements
