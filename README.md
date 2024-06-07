@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs Oman
-* Virat Kohli
-* JKBOSE 12th Result 2024
-* Papua New Guinea vs Uganda
-* WBJEE
-> 2024-06-06 18:18:23.698154
+* Canada vs Ireland
+* Namibia vs Scotland
+* Munjya
+* MS Dhoni
+* Manamey Movie Review
+> 2024-06-07 18:19:55.951289
 
 <!-- Requirements -->
 ### Requirements
