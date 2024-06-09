@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Afghanistan vs New Zealand
-* Sri Lanka vs Bangladesh
-* Netherlands vs South Africa
-* Ramoji Rao
-* Australia vs England
-> 2024-06-08 18:17:30.143928
+* Nirmala Sitharaman
+* West Indies vs Uganda
+* Virat Kohli
+* Cabinet Ministers of India
+* Ram Mohan Naidu
+> 2024-06-09 18:17:38.721747
 
 <!-- Requirements -->
 ### Requirements
