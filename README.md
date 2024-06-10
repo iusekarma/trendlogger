@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Nirmala Sitharaman
-* West Indies vs Uganda
-* Virat Kohli
-* Cabinet Ministers of India
-* Ram Mohan Naidu
-> 2024-06-09 18:17:38.721747
+* Noor Malabika
+* Ixigo IPO GMP
+* Benny Gantz Israel
+* Amol Kale
+* Reasi district
+> 2024-06-10 18:19:03.301298
 
 <!-- Requirements -->
 ### Requirements
