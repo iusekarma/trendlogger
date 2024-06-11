@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Noor Malabika
-* Ixigo IPO GMP
-* Benny Gantz Israel
-* Amol Kale
-* Reasi district
-> 2024-06-10 18:19:03.301298
+* iOS 18
+* Darshan
+* Amol Kale Mumbai Cricket Association
+* North Korea South Korea balloons
+* Jnu
+> 2024-06-11 18:19:51.424390
 
 <!-- Requirements -->
 ### Requirements
