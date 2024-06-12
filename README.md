@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* iOS 18
-* Darshan
-* Amol Kale Mumbai Cricket Association
-* North Korea South Korea balloons
-* Jnu
-> 2024-06-11 18:19:51.424390
+* India vs Qatar
+* Sebi
+* Supreme Court
+* Malawi
+* Darshan Thoogudeepa
+> 2024-06-12 18:19:22.315428
 
 <!-- Requirements -->
 ### Requirements
