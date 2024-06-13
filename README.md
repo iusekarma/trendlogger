@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Qatar
-* Sebi
-* Supreme Court
-* Malawi
-* Darshan Thoogudeepa
-> 2024-06-12 18:19:22.315428
+* Bangladesh vs Netherlands
+* Saurabh Netravalkar
+* The Boys
+* JKBOSE 10th Result 2024
+* Kuwait
+> 2024-06-13 18:19:18.347256
 
 <!-- Requirements -->
 ### Requirements
