@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bangladesh vs Netherlands
-* Saurabh Netravalkar
-* The Boys
-* JKBOSE 10th Result 2024
-* Kuwait
-> 2024-06-13 18:19:18.347256
+* Papua New Guinea vs Afghanistan
+* Oman vs England
+* Euro 2024
+* UEFA Euro
+* Sunetra Pawar
+> 2024-06-14 18:19:40.001521
 
 <!-- Requirements -->
 ### Requirements
