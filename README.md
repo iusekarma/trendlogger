@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Papua New Guinea vs Afghanistan
-* Oman vs England
-* Euro 2024
-* UEFA Euro
-* Sunetra Pawar
-> 2024-06-14 18:19:40.001521
+* South Africa vs Nepal
+* Uganda vs New Zealand
+* Chandu Champion
+* UGC NET Admit Card 2024
+* Bridgerton
+> 2024-06-15 18:18:46.938623
 
 <!-- Requirements -->
 ### Requirements
