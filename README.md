@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ireland vs Pakistan
-* India Women vs South Africa Women
-* MHT CET Result
-* Eid ul-Adha 2024
-* House of the Dragon
-> 2024-06-16 18:18:42.440677
+* Bangladesh vs Nepal
+* Sri Lanka vs Netherlands
+* New Zealand vs Papua New Guinea
+* Train Accident
+* Train accident today
+> 2024-06-17 18:18:56.353943
 
 <!-- Requirements -->
 ### Requirements
