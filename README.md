@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bangladesh vs Nepal
-* Sri Lanka vs Netherlands
-* New Zealand vs Papua New Guinea
-* Train Accident
-* Train accident today
-> 2024-06-17 18:18:56.353943
+* West Indies vs Afghanistan
+* NEET PG Admit Card 2024
+* Narendra Modi
+* Inter Supply Results 2024
+* Priyanka Gandhi
+> 2024-06-18 18:19:41.878543
 
 <!-- Requirements -->
 ### Requirements
