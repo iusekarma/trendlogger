@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Smriti Mandhana
-* Croatia vs Albania
-* Germany vs Hungary
-* Nvidia
-* Juneteenth
-> 2024-06-19 18:18:35.918866
+* West Indies vs England
+* Nalanda University
+* David Johnson
+* Kota Factory Season 3
+* Denmark vs England
+> 2024-06-20 18:19:48.092071
 
 <!-- Requirements -->
 ### Requirements
