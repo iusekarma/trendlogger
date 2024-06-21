@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* West Indies vs England
-* Nalanda University
-* David Johnson
-* Kota Factory Season 3
-* Denmark vs England
-> 2024-06-20 18:19:48.092071
+* Bangladesh vs Australia
+* Spain vs Italy
+* Rohit Sharma
+* World Music Day
+* Pink Dolphins
+> 2024-06-21 18:19:20.604234
 
 <!-- Requirements -->
 ### Requirements
