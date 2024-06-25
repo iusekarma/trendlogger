@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* SA vs WI
-* PM Modi
-* Inter Supply Results 2024
-* Messi
-* India national cricket team vs australian men%E2%80%99s cricket team match scorecard
-> 2024-06-24 18:19:14.675903
+* Afghanistan vs Bangladesh
+* AFG vs BAN
+* Sports
+* Brazil vs Costa Rica
+* Virat Kohli
+> 2024-06-25 18:19:50.845925
 
 <!-- Requirements -->
 ### Requirements
