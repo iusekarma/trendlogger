@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India Women vs South Africa Women
-* Stage 3 breast cancer
-* Virat Kohli
-* Axar Patel
-* Delhi airport
-> 2024-06-28 18:18:27.541923
+* Astronaut Sunita Williams
+* Jharkhand Hemant Soren
+* Vikram Misri
+* Switzerland vs Italy
+* Kalki day 2 collection
+> 2024-06-29 18:17:50.433309
 
 <!-- Requirements -->
 ### Requirements
