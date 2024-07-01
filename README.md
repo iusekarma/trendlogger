@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ravindra Jadeja
-* Axar Patel
-* Argentina vs Peru
-* Suryakumar Yadav
-* Rahul Dravid
-> 2024-06-30 18:19:13.854396
+* Doctors' Day 2024
+* UPSC Prelims Result 2024
+* Spain vs Georgia
+* France vs Belgium
+* Wimbledon
+> 2024-07-01 18:19:12.621654
 
 <!-- Requirements -->
 ### Requirements
