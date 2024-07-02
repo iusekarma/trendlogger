@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Doctors' Day 2024
-* UPSC Prelims Result 2024
-* Spain vs Georgia
-* France vs Belgium
-* Wimbledon
-> 2024-07-01 18:19:12.621654
+* Hathras
+* Rahul Gandhi
+* David Miller
+* Rahul Gandhi Congress
+* Romania vs Netherlands
+> 2024-07-02 18:19:16.893629
 
 <!-- Requirements -->
 ### Requirements
