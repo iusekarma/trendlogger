@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Hathras
-* Rahul Gandhi
-* David Miller
-* Rahul Gandhi Congress
-* Romania vs Netherlands
-> 2024-07-02 18:19:16.893629
+* Austria vs t%C3%BCrkiye
+* Brazil
+* Hdfc Bank Share
+* Hemant Soren
+* CMF Phone 1
+> 2024-07-03 18:18:42.270182
 
 <!-- Requirements -->
 ### Requirements
