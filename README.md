@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Austria vs t%C3%BCrkiye
-* Brazil
-* Hdfc Bank Share
-* Hemant Soren
-* CMF Phone 1
-> 2024-07-03 18:18:42.270182
+* Champai Soren Jharkhand
+* PTET Result 2024
+* CTET Admit Card
+* Lal Krishna Advani
+* MLS
+> 2024-07-04 18:19:00.985320
 
 <!-- Requirements -->
 ### Requirements
