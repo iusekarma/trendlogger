@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Champai Soren Jharkhand
-* PTET Result 2024
-* CTET Admit Card
-* Lal Krishna Advani
-* MLS
-> 2024-07-04 18:19:00.985320
+* South Africa Women vs India Women
+* Portugal vs France
+* Bumrah
+* Hina Khan news
+* Kirodi Lal Meena Rajasthan
+> 2024-07-05 18:19:01.798110
 
 <!-- Requirements -->
 ### Requirements
