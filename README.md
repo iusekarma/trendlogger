@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* South Africa Women vs India Women
-* Portugal vs France
-* Bumrah
-* Hina Khan news
-* Kirodi Lal Meena Rajasthan
-> 2024-07-05 18:19:01.798110
+* Zimbabwe vs India
+* IND vs ZIM
+* Hardik Pandya
+* Euros
+* England vs Switzerland
+> 2024-07-06 18:17:54.427676
 
 <!-- Requirements -->
 ### Requirements
