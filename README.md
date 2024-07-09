@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mumbai rains
-* RVNL share price
-* CMF Phone 1
-* France Election
-* TMC MP Mahua Moitra
-> 2024-07-08 18:19:21.281070
+* India Women vs South Africa Women
+* Redmi 13 5G
+* Gautam Gambhir
+* Spain vs France
+* Kathua
+> 2024-07-09 18:19:25.714425
 
 <!-- Requirements -->
 ### Requirements
