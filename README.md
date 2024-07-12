@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket
-* Raymond share price
-* CA Final Result
-* Donna Veki%C4%87
-* Sahaj Solar IPO GMP
-> 2024-07-11 18:19:13.872409
+* Indian 2
+* John Cena
+* Bharateeyudu 2
+* Anant Ambani Wedding
+* Carlos Alcaraz
+> 2024-07-12 18:20:48.906590
 
 <!-- Requirements -->
 ### Requirements
