@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Indian 2
-* John Cena
-* Bharateeyudu 2
-* Anant Ambani Wedding
-* Carlos Alcaraz
-> 2024-07-12 18:20:48.906590
+* World Championship of Legends
+* Zimbabwe vs India
+* Election results
+* By-election results
+* IND vs ZIM 4th T20
+> 2024-07-13 18:17:49.461141
 
 <!-- Requirements -->
 ### Requirements
