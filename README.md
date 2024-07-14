@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* World Championship of Legends
-* Zimbabwe vs India
-* Election results
-* By-election results
-* IND vs ZIM 4th T20
-> 2024-07-13 18:17:49.461141
+* Donald Trump
+* Spain vs England
+* Sanju Samson
+* Argentina vs Colombia
+* Joe Biden
+> 2024-07-14 18:26:59.755497
 
 <!-- Requirements -->
 ### Requirements
