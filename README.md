@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Euro Cup
-* Lamine Yamal
-* Harry Kane
-* GDS Recruitment 2024
-* Muharram
-> 2024-07-15 18:19:28.194259
+* JD Vance
+* OnePlus Nord 4
+* Real Madrid
+* Amit Mishra
+* Pm Modi
+> 2024-07-16 18:19:23.508766
 
 <!-- Requirements -->
 ### Requirements
