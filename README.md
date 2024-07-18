@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Hardik Pandya
-* Bstc result 2024
-* Royal Enfield Guerrilla 450
-* Enzo Fernandez Argentina
-* Biden
-> 2024-07-17 18:19:35.001496
+* England vs West Indies
+* Aanvi Kamdar
+* Stree 2
+* Train Accident
+* Infosys share price
+> 2024-07-18 18:19:58.212207
 
 <!-- Requirements -->
 ### Requirements
