@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CrowdStrike
-* South Korea
-* NEET-PG 2024
-* TS EAMCET seat allotment 2024
-* BCCI
-> 2024-07-19 18:19:28.684920
+* Asia Cup Women
+* NTA
+* Guru Purnima 2024
+* NTA NEET
+* Mohammed Shami
+> 2024-07-20 18:19:21.058439
 
 <!-- Requirements -->
 ### Requirements
