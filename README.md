@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Asia Cup Women
-* NTA
-* Guru Purnima 2024
-* NTA NEET
-* Mohammed Shami
-> 2024-07-20 18:19:21.058439
+* India Women vs UAE Women
+* Guru Purnima Quotes in Hindi
+* Arvind Kejriwal
+* IND-W vs UAE-W
+* Jasmin Bhasin
+> 2024-07-21 18:17:55.988371
 
 <!-- Requirements -->
 ### Requirements
