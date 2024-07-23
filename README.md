@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Budget 2024 date
-* Joe Biden
-* Tishaa Kumar
-* Wipro share price
-* Mumbai Rains
-> 2024-07-22 18:19:22.518055
+* Nifty
+* Kimberly Cheatle
+* Share Market
+* Gautam Gambhir
+* The Hundred
+> 2024-07-23 18:19:30.729248
 
 <!-- Requirements -->
 ### Requirements
