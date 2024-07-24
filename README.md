@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Nifty
-* Kimberly Cheatle
-* Share Market
-* Gautam Gambhir
-* The Hundred
-> 2024-07-23 18:19:30.729248
+* Bangladesh Women vs Malaysia Women
+* Dhruv Rathee
+* Kill
+* IFCI share price
+* Saurya Airlines
+> 2024-07-24 18:19:34.511992
 
 <!-- Requirements -->
 ### Requirements
