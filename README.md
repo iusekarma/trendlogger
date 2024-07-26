@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Virat Kohli
-* Pune rain news
-* NTA
-* Kargil Vijay Diwas
-* Mumbai Rains
-> 2024-07-25 18:19:20.973680
+* Bangladesh Women vs India Women
+* Deadpool
+* Pakistan Women vs Sri Lanka Women
+* Raayan Movie Review
+* Taiwan
+> 2024-07-26 18:19:18.296631
 
 <!-- Requirements -->
 ### Requirements
