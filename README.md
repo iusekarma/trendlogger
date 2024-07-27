@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bangladesh Women vs India Women
-* Deadpool
-* Pakistan Women vs Sri Lanka Women
-* Raayan Movie Review
-* Taiwan
-> 2024-07-26 18:19:18.296631
+* India vs Sri Lanka 2024
+* Cricket
+* Sports
+* Olympics 2024 medals
+* Riyan Parag
+> 2024-07-27 18:19:18.184116
 
 <!-- Requirements -->
 ### Requirements
