@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Sri Lanka 2024
-* Cricket
-* Sports
-* Olympics 2024 medals
-* Riyan Parag
-> 2024-07-27 18:19:18.184116
+* Football olympics
+* Doctor Doom
+* CUET Result 2024
+* Ramita Jindal
+* Chamari Athapaththu
+> 2024-07-28 18:19:27.057550
 
 <!-- Requirements -->
 ### Requirements
