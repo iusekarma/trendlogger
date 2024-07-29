@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Football olympics
-* Doctor Doom
-* CUET Result 2024
-* Ramita Jindal
-* Chamari Athapaththu
-> 2024-07-28 18:19:27.057550
+* CA Foundation Result June 2024
+* PNB Share Price
+* Nadal vs Djokovic
+* New governors
+* Simone Biles
+> 2024-07-29 18:19:46.757084
 
 <!-- Requirements -->
 ### Requirements
