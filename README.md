@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CA Foundation Result June 2024
-* PNB Share Price
-* Nadal vs Djokovic
-* New governors
-* Simone Biles
-> 2024-07-29 18:19:46.757084
+* Wayanad
+* Friendship Day
+* Arvind Kejriwal
+* Sarabjot Singh
+* India at the Olympics medals
+> 2024-07-30 18:19:26.324929
 
 <!-- Requirements -->
 ### Requirements
