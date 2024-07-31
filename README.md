@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Wayanad
-* Friendship Day
-* Arvind Kejriwal
-* Sarabjot Singh
-* India at the Olympics medals
-> 2024-07-30 18:19:26.324929
+* Cricket
+* ICC
+* Ismail Haniyeh
+* Sports
+* CTET Result 2024
+> 2024-07-31 18:19:12.536577
 
 <!-- Requirements -->
 ### Requirements
