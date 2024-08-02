@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Anshuman Gaekwad
-* Nikhat Zareen
-* Hockey Olympics
-* Imane Khelif
-* Real Madrid
-> 2024-08-01 18:19:26.352839
+* Sri Lanka vs India
+* Live Score
+* Cricket
+* Manu Bhaker
+* Rohit Sharma
+> 2024-08-02 18:19:50.316261
 
 <!-- Requirements -->
 ### Requirements
