@@ -3,12 +3,11 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs India
-* Live Score
-* Cricket
-* Manu Bhaker
-* Rohit Sharma
-> 2024-08-02 18:19:50.316261
+* Trap
+* Mohanlal
+* When is Friendship Day in 2024
+* SummerSlam 2024
+> 2024-08-03 18:19:20.449504
 
 <!-- Requirements -->
 ### Requirements
