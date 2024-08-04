@@ -3,11 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Trap
-* Mohanlal
-* When is Friendship Day in 2024
-* SummerSlam 2024
-> 2024-08-03 18:19:20.449504
+* Novak Djokovic
+* Happy Friendship Day images
+* Rohit Sharma
+* Real Madrid
+* Sreejesh
+> 2024-08-04 18:18:22.219242
 
 <!-- Requirements -->
 ### Requirements
