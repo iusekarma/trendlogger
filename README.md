@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Nifty 50
-* Sheikh Hasina
-* Dow Jones
-* Nisha Dahiya
-* Nikkei index
-> 2024-08-05 18:20:29.232092
+* Vinesh Phogat
+* Neeraj Chopra
+* Neeraj Chopra Match
+* Athletics Olympics 2024 schedule
+* Armand Duplantis
+> 2024-08-06 18:21:03.309423
 
 <!-- Requirements -->
 ### Requirements
