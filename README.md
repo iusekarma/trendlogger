@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs India
-* Hockey Olympics
-* Vivo V40 Pro
-* Tata Curvv launch
-* Hariyali Teej 2024
-> 2024-08-07 18:19:53.195191
+* Cricket
+* Buddhadeb Bhattacharya
+* Mukesh Ambani
+* ICC
+* Neeraj Chopra match
+> 2024-08-08 18:20:38.066705
 
 <!-- Requirements -->
 ### Requirements
