@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Breaking Olympics
-* It Ends With Us movie
-* Indian 2
-* Olympic Games Paris 2024
-* Olympics 2024 Live
-> 2024-08-09 18:19:49.872779
+* Man City vs Man United
+* Aman Sehrawat bronze medal match
+* Hindenburg Research
+* National Lazy Day
+* Vijay Kadam
+> 2024-08-10 18:18:23.435399
 
 <!-- Requirements -->
 ### Requirements
