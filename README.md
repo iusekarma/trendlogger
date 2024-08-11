@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man City vs Man United
-* Aman Sehrawat bronze medal match
-* Hindenburg Research
-* National Lazy Day
-* Vijay Kadam
-> 2024-08-10 18:18:23.435399
+* Olympics
+* Madhabi Buch
+* Natwar Singh
+* Saint Martin Island Bangladesh
+* Arsenal
+> 2024-08-11 18:20:31.440653
 
 <!-- Requirements -->
 ### Requirements
