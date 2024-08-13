@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ola Electric Share Price
-* NIRF Ranking 2024
-* Saraswati Saree IPO GMP
-* Kolkata doctor case
-* International Youth Day
-> 2024-08-12 18:20:56.969965
+* ISI chief Faiz Hameed
+* Barcelona
+* Bharti Enterprises BT Group
+* Hardik Pandya
+* Firstcry share price
+> 2024-08-13 18:20:16.005859
 
 <!-- Requirements -->
 ### Requirements
