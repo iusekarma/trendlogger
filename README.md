@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Stree 2
-* Ajit Pawar
-* Vinesh Phogat news
-* Starbucks CEO Laxman Narasimhan
-* MCC
-> 2024-08-14 18:19:48.097976
+* Real Madrid
+* Kolkata doctor News
+* Thangalaan Review
+* Monkeypox
+* Mr Bachchan Review
+> 2024-08-15 18:20:39.117269
 
 <!-- Requirements -->
 ### Requirements
