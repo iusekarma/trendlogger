@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Real Madrid
-* Kolkata doctor News
-* Thangalaan Review
-* Monkeypox
-* Mr Bachchan Review
-> 2024-08-15 18:20:39.117269
+* National Film Awards 2024
+* Premier League
+* IPS) officer Nalin Prabhat
+* MS Dhoni
+* Ola Roadster
+> 2024-08-16 18:19:53.491726
 
 <!-- Requirements -->
 ### Requirements
