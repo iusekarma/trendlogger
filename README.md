@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Paetongtarn Shinawatra Thailand
-* Arsenal vs Wolves
-* Ishan Kishan
-* Sabarmati Express
-* Mark Zuckerberg
-> 2024-08-17 18:18:52.353664
+* Raksha Bandhan 2024 Muhurat
+* Chelsea vs Man City
+* UFC
+* Barca
+* Champai Soren
+> 2024-08-18 18:18:19.845016
 
 <!-- Requirements -->
 ### Requirements
