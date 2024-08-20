@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Happy Raksha Bandhan
-* Real Madrid
-* Happy rakshabandhan wishes
-* Interarch Building Products IPO GMP
-* Rakesh Pal
-> 2024-08-19 18:19:46.397274
+* Bharat Bandh 21 August
+* Badlapur news
+* Justice Hema Committee report Malayalam
+* Mukesh ambani
+* Tomorrow Bharat Bandh
+> 2024-08-20 18:20:00.055533
 
 <!-- Requirements -->
 ### Requirements
