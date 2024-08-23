@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kalki
-* PAK vs BAN
-* Cristiano Ronaldo
-* TVK flag
-* Paytm share price
-> 2024-08-22 18:19:47.977458
+* Diamond League
+* CDSL Share Price
+* Rajnath Singh
+* Rahul Gandhi
+* Anil Ambani
+> 2024-08-23 18:19:52.468055
 
 <!-- Requirements -->
 ### Requirements
