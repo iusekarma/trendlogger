@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Shikhar Dhawan
-* Unified Pension Scheme
-* Brighton vs Man United
-* Justin Bieber
-* Man City
-> 2024-08-24 18:18:19.073170
+* Wolves vs Chelsea
+* Real Madrid vs Valladolid
+* Telegram CEO
+* Manchester United
+* From
+> 2024-08-25 18:18:14.573273
 
 <!-- Requirements -->
 ### Requirements
