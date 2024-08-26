@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Wolves vs Chelsea
-* Real Madrid vs Valladolid
-* Telegram CEO
-* Manchester United
-* From
-> 2024-08-25 18:18:14.573273
+* Janmashtami 2024
+* Minu Muneer actor
+* Rahul Gandhi
+* Orient Technologies IPO allotment status
+* Krishna Janmashtami images
+> 2024-08-26 18:20:45.360969
 
 <!-- Requirements -->
 ### Requirements
