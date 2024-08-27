@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Janmashtami 2024
-* Minu Muneer actor
-* Rahul Gandhi
-* Orient Technologies IPO allotment status
-* Krishna Janmashtami images
-> 2024-08-26 18:20:45.360969
+* Champai Soren Jharkhand
+* Y chromosome's
+* Jay Shah
+* Nabanna Abhijan
+* Vivo T3 Pro
+> 2024-08-27 18:20:08.085172
 
 <!-- Requirements -->
 ### Requirements
