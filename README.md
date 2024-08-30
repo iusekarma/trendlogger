@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs Sri Lanka
-* Reliance share price
-* IC 814
-* Champions League
-* Saripodhaa Sanivaaram Review
-> 2024-08-29 18:20:15.098742
+* Wheelchair basketball Paralympics
+* Paralympics 2024
+* Mirzapur bonus episode
+* Mirzapur Season 3
+* Paralympics medals
+> 2024-08-30 18:20:55.127295
 
 <!-- Requirements -->
 ### Requirements
