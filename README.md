@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Wheelchair basketball Paralympics
-* Paralympics 2024
-* Mirzapur bonus episode
-* Mirzapur Season 3
-* Paralympics medals
-> 2024-08-30 18:20:55.127295
+* Durand Cup final
+* Jharkhand chief minister Champai Soren
+* Arsenal vs Brighton
+* Novak Djokovic
+* Barcelona
+> 2024-08-31 18:18:54.467486
 
 <!-- Requirements -->
 ### Requirements
