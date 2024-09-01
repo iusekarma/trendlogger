@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Durand Cup final
-* Jharkhand chief minister Champai Soren
-* Arsenal vs Brighton
-* Novak Djokovic
-* Barcelona
-> 2024-08-31 18:18:54.467486
+* Archery Paralympics
+* Indian
+* Man United vs Liverpool
+* Joe Root
+* Chelsea vs Crystal Palace
+> 2024-09-01 18:19:12.549705
 
 <!-- Requirements -->
 ### Requirements
