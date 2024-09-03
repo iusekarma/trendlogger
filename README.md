@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Jasdeep Singh Gill
-* Premier Energies IPO
-* Gala Precision Engineering IPO
-* Tata Curvv petrol
-* Bazaar Style IPO GMP
-> 2024-09-02 18:20:24.653638
+* Wheelchair tennis Paralympics 2024
+* IC 814 Kandahar hijacking Netflix
+* India vs Mauritius
+* Brunei
+* Japanese man sleeps 30 minutes
+> 2024-09-03 18:20:37.048909
 
 <!-- Requirements -->
 ### Requirements
