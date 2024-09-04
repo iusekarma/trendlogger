@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Wheelchair tennis Paralympics 2024
-* IC 814 Kandahar hijacking Netflix
-* India vs Mauritius
-* Brunei
-* Japanese man sleeps 30 minutes
-> 2024-09-03 18:20:37.048909
+* Indian
+* PresVu eye drops
+* NASDAQ
+* Sachin Sarjerao Khilari
+* Ezra Frech
+> 2024-09-04 18:18:29.238670
 
 <!-- Requirements -->
 ### Requirements
