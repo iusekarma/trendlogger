@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Indian
-* PresVu eye drops
-* NASDAQ
-* Sachin Sarjerao Khilari
-* Ezra Frech
-> 2024-09-04 18:18:29.238670
+* Powerlifting Paralympics
+* GOAT movie Review
+* India B vs India A
+* GOAT Review
+* The Perfect Couple
+> 2024-09-05 18:20:01.920863
 
 <!-- Requirements -->
 ### Requirements
