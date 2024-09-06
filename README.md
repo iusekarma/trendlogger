@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Powerlifting Paralympics
-* GOAT movie Review
-* India B vs India A
-* GOAT Review
-* The Perfect Couple
-> 2024-09-05 18:20:01.920863
+* Australia vs Scotland
+* Ganesh Chaturthi
+* Nations League
+* Portugal
+* Vladimir Putin
+> 2024-09-06 18:21:22.291071
 
 <!-- Requirements -->
 ### Requirements
