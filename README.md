@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Hokato Hotozhe Sema
-* Ireland vs England
-* Mammootty
-* Ollie Pope
-* Vinesh Phogat
-> 2024-09-07 18:19:15.220456
+* Paralympics
+* Vikas Sethi
+* Japanese Prince Hisahito
+* Shubman Gill
+* Pakistan army chief
+> 2024-09-08 18:20:07.629334
 
 <!-- Requirements -->
 ### Requirements
