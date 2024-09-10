@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Afghanistan vs New Zealand
-* Bajaj Housing Finance IPO
-* GST
-* India vs Syria
-* Mpox cases India
-> 2024-09-09 18:20:37.991480
+* Diljit Dosanjh concert
+* Senator Marie Alvarado-Gil
+* Russian
+* James Earl Jones
+* Devara
+> 2024-09-10 18:20:58.408837
 
 <!-- Requirements -->
 ### Requirements
