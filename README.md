@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Diljit Dosanjh concert
-* Senator Marie Alvarado-Gil
-* Russian
-* James Earl Jones
-* Devara
-> 2024-09-10 18:20:58.408837
+* Malaika Arora father news
+* Tata Motors share price
+* Rahul Gandhi
+* Earthquake in Delhi
+* Kamala Harris
+> 2024-09-11 18:20:43.639607
 
 <!-- Requirements -->
 ### Requirements
