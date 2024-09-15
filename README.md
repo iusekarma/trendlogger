@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Southampton vs Man United
-* Premier League
-* Maharashtra
-* IND vs PAK Hockey
-* RRB NTPC
-> 2024-09-14 18:19:57.476667
+* Kerala Blasters vs Punjab FC
+* Onam
+* Tottenham vs Arsenal
+* Delhi Chief Minister Arvind Kejriwal
+* Real Madrid
+> 2024-09-15 18:20:49.427217
 
 <!-- Requirements -->
 ### Requirements
