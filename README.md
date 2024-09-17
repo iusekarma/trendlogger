@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bajaj Housing Finance share price
-* England vs Australia
-* Aditi Rao Hydari
-* iOS 18 release date
-* Northern Arc Capital IPO GMP
-> 2024-09-16 18:21:14.449995
+* Atishi
+* Iran Supreme Leader Khamenei
+* Jio
+* JSSC CGL Admit Card
+* Russia
+> 2024-09-17 18:21:37.949310
 
 <!-- Requirements -->
 ### Requirements
