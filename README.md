@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Bangladesh
-* Hasan Mahmud
-* Cricket
-* ICC
-* Sports
-> 2024-09-19 18:21:10.323604
+* Afghanistan vs South Africa
+* Yudhra
+* Barcelona
+* Kaviyoor Ponnamma
+* Travis Head
+> 2024-09-20 18:21:21.314627
 
 <!-- Requirements -->
 ### Requirements
