@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Afghanistan vs South Africa
-* Yudhra
-* Barcelona
-* Kaviyoor Ponnamma
-* Travis Head
-> 2024-09-20 18:21:21.314627
+* Delhi Chief Minister Arvind Kejriwal
+* Rishabh Pant
+* Atishi
+* IPO allotment
+* Crystal Palace vs Man United
+> 2024-09-21 18:19:50.279396
 
 <!-- Requirements -->
 ### Requirements
