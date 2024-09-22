@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Delhi Chief Minister Arvind Kejriwal
-* Rishabh Pant
-* Atishi
-* IPO allotment
-* Crystal Palace vs Man United
-> 2024-09-21 18:19:50.279396
+* Ravichandran Ashwin
+* Man City vs Arsenal
+* Narendra Modi
+* Chess Olympiad 2024
+* PM Modi
+> 2024-09-22 18:19:45.228399
 
 <!-- Requirements -->
 ### Requirements
