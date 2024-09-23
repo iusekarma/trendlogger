@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ravichandran Ashwin
-* Man City vs Arsenal
-* Narendra Modi
-* Chess Olympiad 2024
-* PM Modi
-> 2024-09-22 18:19:45.228399
+* Afghanistan vs South Africa
+* Mohun Bagan vs NorthEast United
+* Hardik Pandya
+* Manba Finance IPO GMP
+* Idea share price
+> 2024-09-23 18:21:55.742728
 
 <!-- Requirements -->
 ### Requirements
