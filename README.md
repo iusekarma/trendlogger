@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Afghanistan vs South Africa
-* Mohun Bagan vs NorthEast United
-* Hardik Pandya
-* Manba Finance IPO GMP
-* Idea share price
-> 2024-09-23 18:21:55.742728
+* Lebanon
+* IEX share price
+* Eng vs Aus
+* Mpox clade 1 India
+* Arkade Developers share Price
+> 2024-09-24 18:21:54.922502
 
 <!-- Requirements -->
 ### Requirements
