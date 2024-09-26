@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Popcorn
-* KRN Heat Exchanger IPO GMP
-* Donkey
-* Man City
-* Mumbai weather
-> 2024-09-25 18:21:53.633188
+* iPhone 15
+* IPO Allotment status
+* Ranveer Allahbadia
+* Big Billion Days
+* Stree 2 OTT
+> 2024-09-26 18:20:36.043274
 
 <!-- Requirements -->
 ### Requirements
