@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs Australia
-* Hassan Nasrallah
-* GOAT
-* Ranbir Kapoor
-* Man City
-> 2024-09-28 18:20:02.746706
+* India Women vs West Indies Women
+* Barcelona
+* Man United vs Tottenham
+* Inter Miami vs Charlotte
+* Mukesh Ambani
+> 2024-09-29 18:20:05.148549
 
 <!-- Requirements -->
 ### Requirements
