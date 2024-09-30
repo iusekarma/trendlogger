@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India Women vs West Indies Women
-* Barcelona
-* Man United vs Tottenham
-* Inter Miami vs Charlotte
-* Mukesh Ambani
-> 2024-09-29 18:20:05.148549
+* Bangladesh vs India
+* England vs Australia
+* IND vs BAN Test
+* Real Madrid
+* DSC Results 2024
+> 2024-09-30 18:22:06.775734
 
 <!-- Requirements -->
 ### Requirements
