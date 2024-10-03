@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Israel
-* Mahatma Gandhi
-* Arsenal vs PSG
-* Barcelona
-* Tim Walz
-> 2024-10-02 18:22:27.559276
+* Anil Ambani Reliance Power
+* SSC CGL Answer Key 2024
+* Inter Miami
+* Pakistan Women vs Sri Lanka Women
+* BANGLADESH WOMEN vs Scotland Women
+> 2024-10-03 18:22:11.597648
 
 <!-- Requirements -->
 ### Requirements
