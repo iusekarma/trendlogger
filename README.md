@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Anil Ambani Reliance Power
-* SSC CGL Answer Key 2024
-* Inter Miami
-* Pakistan Women vs Sri Lanka Women
-* BANGLADESH WOMEN vs Scotland Women
-> 2024-10-03 18:22:11.597648
+* West Indies Women vs South Africa Women
+* Manchester United
+* Ctrl' Movie
+* Rishabh Pant
+* Chelsea
+> 2024-10-04 18:21:49.336706
 
 <!-- Requirements -->
 ### Requirements
