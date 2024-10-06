@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Haryana Election
-* Sri Lanka Women vs Australia Women
-* Man City vs Fulham
-* ICC Women's World T20
-* Arsenal vs Southampton
-> 2024-10-05 18:19:53.865726
+* IND vs PAK
+* Alav%C3%A9s vs Barcelona
+* Real Madrid
+* Aston Villa vs Man United
+* Bigg Boss 18 contestants
+> 2024-10-06 18:19:50.844854
 
 <!-- Requirements -->
 ### Requirements
