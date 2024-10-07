@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs PAK
-* Alav%C3%A9s vs Barcelona
-* Real Madrid
-* Aston Villa vs Man United
-* Bigg Boss 18 contestants
-> 2024-10-06 18:19:50.844854
+* Mayank Yadav
+* Singham Again
+* South Africa Women vs England Women
+* Suryakumar Yadav
+* Ratan Tata
+> 2024-10-07 18:21:54.969246
 
 <!-- Requirements -->
 ### Requirements
