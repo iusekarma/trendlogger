@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Mayank Yadav
-* Singham Again
-* South Africa Women vs England Women
-* Suryakumar Yadav
-* Ratan Tata
-> 2024-10-07 18:21:54.969246
+* Haryana Election Result
+* ECI
+* Vinesh Phogat
+* Australia Women vs New Zealand Women
+* National Conference
+> 2024-10-08 18:22:17.315911
 
 <!-- Requirements -->
 ### Requirements
