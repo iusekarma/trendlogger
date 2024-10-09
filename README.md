@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Haryana Election Result
-* ECI
-* Vinesh Phogat
-* Australia Women vs New Zealand Women
-* National Conference
-> 2024-10-08 18:22:17.315911
+* India vs Bangladesh
+* IND vs SL
+* Ratan Tata
+* Joe Root
+* South Africa Women vs Scotland Women
+> 2024-10-09 18:22:00.955802
 
 <!-- Requirements -->
 ### Requirements
