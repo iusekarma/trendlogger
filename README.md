@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Bangladesh
-* IND vs SL
-* Ratan Tata
-* Joe Root
-* South Africa Women vs Scotland Women
-> 2024-10-09 18:22:00.955802
+* Ratan Tata wife
+* Vettaiyan
+* Sports
+* Bangladesh Women vs West Indies Women
+* Cyrus Mistry
+> 2024-10-10 18:22:03.393026
 
 <!-- Requirements -->
 ### Requirements
