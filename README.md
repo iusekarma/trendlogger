@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ratan Tata wife
-* Vettaiyan
-* Sports
-* Bangladesh Women vs West Indies Women
-* Cyrus Mistry
-> 2024-10-10 18:22:03.393026
+* Pakistan Women vs Australia Women
+* Jigra
+* Nations League
+* Vicky Vidya Ka Woh Wala
+* IBPS PO Admit Card 2024
+> 2024-10-11 18:21:28.653876
 
 <!-- Requirements -->
 ### Requirements
