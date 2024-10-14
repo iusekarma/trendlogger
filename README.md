@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs West Indies
-* Sports
-* Scotland Women vs England Women
-* Sonam Wangchuk
-* INDW vs AUSW
-> 2024-10-13 18:20:18.921173
+* PAK vs NZ
+* Atul Parchure
+* Hyundai IPO GMP
+* North Korean
+* SpaceX
+> 2024-10-14 18:22:07.495414
 
 <!-- Requirements -->
 ### Requirements
