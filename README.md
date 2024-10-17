@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sunita Williams
-* Argentina
-* Waaree Energies IPO
-* World Food Day
-* Rohit Sharma Shami
-> 2024-10-16 18:22:19.130438
+* One Direction
+* West Indies vs Sri Lanka
+* Australia Women vs South Africa Women
+* Flight bomb threats
+* Rishabh Pant
+> 2024-10-17 18:20:44.100044
 
 <!-- Requirements -->
 ### Requirements
