@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* One Direction
-* West Indies vs Sri Lanka
-* Australia Women vs South Africa Women
-* Flight bomb threats
-* Rishabh Pant
-> 2024-10-17 18:20:44.100044
+* PKL
+* New Zealand Women vs West Indies Women
+* Rohit Sharma
+* Infosys Results
+* Byju Raveendran
+> 2024-10-18 18:22:22.799138
 
 <!-- Requirements -->
 ### Requirements
