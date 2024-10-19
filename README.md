@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* PKL
-* New Zealand Women vs West Indies Women
-* Rohit Sharma
-* Infosys Results
-* Byju Raveendran
-> 2024-10-18 18:22:22.799138
+* Sarfaraz Khan
+* Emerging Asia Cup
+* Premier League
+* East Bengal vs Mohun Bagan
+* Karwa Chauth
+> 2024-10-19 18:20:15.900819
 
 <!-- Requirements -->
 ### Requirements
