@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Bangladesh vs South Africa
-* Waaree Energies IPO GMP
-* Hyundai IPO
-* Cyclone Dana
-* Deepak Builders and Engineers IPO GMP
-> 2024-10-21 18:22:29.604572
+* Lidia Thorpe
+* North Korean South Korea
+* BRICS
+* Prithvi Shaw
+* Share Market today
+> 2024-10-22 18:22:11.967468
 
 <!-- Requirements -->
 ### Requirements
