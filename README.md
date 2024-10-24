@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Real Madrid vs Dortmund
-* Zimbabwe vs Gambia
-* UEFA Champions League
-* West Indies vs Sri Lanka
-* Prabhas
-> 2024-10-23 18:21:50.954548
+* New Zealand vs India
+* India Women vs New Zealand Women
+* England vs pakistan
+* IPO Allotment Status
+* Washington Sundar
+> 2024-10-24 18:22:27.644902
 
 <!-- Requirements -->
 ### Requirements
