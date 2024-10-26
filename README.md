@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Krishnakumar Kunnath KK
-* Kerala Blasters Vs Bengaluru
-* Do Patti
-* Rohit Sharma
-* Ind A vs Afg A
-> 2024-10-25 18:22:19.668342
+* Sri Lanka vs West Indies
+* Iran
+* Man City Vs Southampton
+* WTC Points Table
+* Arvind Kejriwal
+> 2024-10-26 18:20:22.963920
 
 <!-- Requirements -->
 ### Requirements
