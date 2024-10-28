@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Zealand Women vs India Women
-* West Ham vs Man United
-* Chelsea vs Newcastle
-* Arsenal vs Liverpool
-* Radha Yadav
-> 2024-10-27 18:20:13.346112
+* Dhanteras 2024
+* Waaree Energies share price
+* TNPSC Group 4 Result 2024
+* Reliance share price
+* Afcons Infrastructure IPO GMP
+> 2024-10-28 18:22:48.861585
 
 <!-- Requirements -->
 ### Requirements
