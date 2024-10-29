@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Dhanteras 2024
-* Waaree Energies share price
-* TNPSC Group 4 Result 2024
-* Reliance share price
-* Afcons Infrastructure IPO GMP
-> 2024-10-28 18:22:48.861585
+* South Africa vs Bangladesh
+* Elcid Investment
+* Dhanteras timing 2024
+* Ruben Amorim
+* C295 aircraft
+> 2024-10-29 18:22:55.072932
 
 <!-- Requirements -->
 ### Requirements
