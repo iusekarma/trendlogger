@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Govardhan Puja 2024
-* Bhai Dooj 2024
-* Singham Again Review
-* Hong Kong Sixes
-* AQI Delhi
-> 2024-11-01 18:22:10.654214
+* West Indies vs England
+* Ajaz Patel
+* Virat Kohli
+* Newcastle vs Arsenal
+* Shubman Gill
+> 2024-11-02 18:20:01.358405
 
 <!-- Requirements -->
 ### Requirements
