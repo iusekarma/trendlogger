@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Barcelona vs Espanyol
-* Guruprasad
-* Kemi Badenoch
-* Man United vs Chelsea
-* Israel
-> 2024-11-03 18:21:10.231296
+* US election 2024
+* US election results
+* AP TET Results 2024
+* Barcelona
+* Baby John
+> 2024-11-04 18:21:33.399965
 
 <!-- Requirements -->
 ### Requirements
