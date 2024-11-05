@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* US election 2024
-* US election results
-* AP TET Results 2024
-* Barcelona
-* Baby John
-> 2024-11-04 18:21:33.399965
+* Sharda Sinha
+* CAT Admit Card
+* Reliance Jio IPO
+* Al-Hilal
+* Champions League
+> 2024-11-05 18:21:32.087647
 
 <!-- Requirements -->
 ### Requirements
