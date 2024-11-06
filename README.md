@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sharda Sinha
-* CAT Admit Card
-* Reliance Jio IPO
-* Al-Hilal
-* Champions League
-> 2024-11-05 18:21:32.087647
+* Afghanistan vs Bangladesh
+* Sporting vs Man City
+* Robert Kennedy
+* Skoda Kylaq
+* CNN
+> 2024-11-06 18:21:49.477602
 
 <!-- Requirements -->
 ### Requirements
