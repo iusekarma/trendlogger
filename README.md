@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs SA
-* Cricket
-* Asian Paints Share
-* Bitcoin price
-* Ind
-> 2024-11-11 18:21:07.311956
+* Tom Cruise Mission: Impossible
+* Dev Uthani Ekadashi 2024
+* Gold prices
+* Vikrant Massey
+* Manoj Mitra
+> 2024-11-12 18:21:40.132256
 
 <!-- Requirements -->
 ### Requirements
