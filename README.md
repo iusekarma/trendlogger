@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Tom Cruise Mission: Impossible
-* Dev Uthani Ekadashi 2024
-* Gold prices
-* Vikrant Massey
-* Manoj Mitra
-> 2024-11-12 18:21:40.132256
+* Ramandeep Singh
+* Swiggy Share Price
+* Children's Day
+* Justin Welby Archbishop of Canterbury
+* Russia
+> 2024-11-13 18:21:38.078940
 
 <!-- Requirements -->
 ### Requirements
