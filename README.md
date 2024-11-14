@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ramandeep Singh
-* Swiggy Share Price
-* Children's Day
-* Justin Welby Archbishop of Canterbury
-* Russia
-> 2024-11-13 18:21:38.078940
+* Kanguva
+* Sports
+* Bihar Police Result 2024
+* Happy Children's Day images
+* Guru Nanak Jayanti 2024
+> 2024-11-14 18:23:00.954895
 
 <!-- Requirements -->
 ### Requirements
