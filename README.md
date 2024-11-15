@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Kanguva
-* Sports
-* Bihar Police Result 2024
-* Happy Children's Day images
-* Guru Nanak Jayanti 2024
-> 2024-11-14 18:23:00.954895
+* West Indies vs England
+* Paraguay vs Argentina
+* Dehradun Accident
+* Kartik Purnima 2024
+* Gurpurab
+> 2024-11-15 18:23:31.338028
 
 <!-- Requirements -->
 ### Requirements
