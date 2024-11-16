@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* West Indies vs England
-* Paraguay vs Argentina
-* Dehradun Accident
-* Kartik Purnima 2024
-* Gurpurab
-> 2024-11-15 18:23:31.338028
+* Tilak Varma
+* RRB
+* Rohit Sharma
+* Coldplay Ahmedabad
+* Neeraj Goyat
+> 2024-11-16 18:20:33.608031
 
 <!-- Requirements -->
 ### Requirements
