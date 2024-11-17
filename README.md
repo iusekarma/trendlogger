@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Tilak Varma
-* RRB
-* Rohit Sharma
-* Coldplay Ahmedabad
-* Neeraj Goyat
-> 2024-11-16 18:20:33.608031
+* England vs West Indies
+* UFC
+* Pushpa
+* Ayatollah Ali Khamenei
+* Dog
+> 2024-11-17 18:20:59.149639
 
 <!-- Requirements -->
 ### Requirements
