@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs West Indies
-* UFC
-* Pushpa
-* Ayatollah Ali Khamenei
-* Dog
-> 2024-11-17 18:20:59.149639
+* AQI
+* Italy vs France
+* NTPC Green Energy IPO GMP
+* India vs Malaysia
+* Movies
+> 2024-11-18 18:23:27.393786
 
 <!-- Requirements -->
 ### Requirements
