@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* AQI
-* Italy vs France
-* NTPC Green Energy IPO GMP
-* India vs Malaysia
-* Movies
-> 2024-11-18 18:23:27.393786
+* Vinod Tawde
+* Russia Ukraine war
+* SL vs NZ
+* Anil Deshmukh
+* UP Board Exam Date 2025
+> 2024-11-19 18:23:25.810955
 
 <!-- Requirements -->
 ### Requirements
