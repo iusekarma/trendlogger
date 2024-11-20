@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Vinod Tawde
-* Russia Ukraine war
-* SL vs NZ
-* Anil Deshmukh
-* UP Board Exam Date 2025
-> 2024-11-19 18:23:25.810955
+* Argentina vs Peru
+* Brazil vs Uruguay
+* NSE holidays
+* Rafael Nadal
+* UGC NET
+> 2024-11-20 18:23:36.657190
 
 <!-- Requirements -->
 ### Requirements
