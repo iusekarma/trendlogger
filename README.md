@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Argentina vs Peru
-* Brazil vs Uruguay
-* NSE holidays
-* Rafael Nadal
-* UGC NET
-> 2024-11-20 18:23:36.657190
+* UP Police Result
+* Liam Payne
+* IBPS PO Prelims Result 2024
+* Abu Dhabi T10
+* Vivo Y300
+> 2024-11-21 18:23:21.594356
 
 <!-- Requirements -->
 ### Requirements
