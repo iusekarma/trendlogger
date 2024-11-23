@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Harshit Rana
-* Cricket
-* West Indies vs Bangladesh
-* KL Rahul
-* Border-Gavaskar Trophy
-> 2024-11-22 18:23:05.842446
+* Maharashtra Election Result
+* Election Commission
+* UP Election Result
+* Aditya Thackeray
+* Premier League
+> 2024-11-23 18:21:25.682348
 
 <!-- Requirements -->
 ### Requirements
