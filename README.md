@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Maharashtra Election Result
-* Election Commission
-* UP Election Result
-* Aditya Thackeray
-* Premier League
-> 2024-11-23 18:21:25.682348
+* Virat Kohli
+* Zimbabwe vs Pakistan
+* IPL Auction 2025 Time and date
+* Washington Sundar
+* RCB
+> 2024-11-24 18:20:47.437809
 
 <!-- Requirements -->
 ### Requirements
