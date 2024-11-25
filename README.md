@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Virat Kohli
-* Zimbabwe vs Pakistan
-* IPL Auction 2025 Time and date
-* Washington Sundar
-* RCB
-> 2024-11-24 18:20:47.437809
+* Chess
+* Vaibhav Suryavanshi
+* Allah Ghazanfar
+* Jacob Bethell
+* NTPC Green Energy IPO allotment
+> 2024-11-25 18:23:16.062967
 
 <!-- Requirements -->
 ### Requirements
