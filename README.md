@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Chess
-* Vaibhav Suryavanshi
-* Allah Ghazanfar
-* Jacob Bethell
-* NTPC Green Energy IPO allotment
-> 2024-11-25 18:23:16.062967
+* Zimbabwe vs Pakistan
+* Constitution Day
+* 26/11
+* Zainab Ravdjee
+* Spotify
+> 2024-11-26 18:24:24.892155
 
 <!-- Requirements -->
 ### Requirements
