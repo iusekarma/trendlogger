@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* South Africa vs Sri Lanka
-* OLA Gig electric scooter
-* Syed Mushtaq Ali Trophy
-* Barcelona
-* Phillip Hughes
-> 2024-11-27 18:23:48.453736
+* New Zealand vs England
+* Hardik Pandya
+* Thanksgiving
+* Kerala Blasters
+* Suraksha Diagnostic IPO GMP
+> 2024-11-28 18:23:16.508156
 
 <!-- Requirements -->
 ### Requirements
