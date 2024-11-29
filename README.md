@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Zealand vs England
-* Hardik Pandya
-* Thanksgiving
-* Kerala Blasters
-* Suraksha Diagnostic IPO GMP
-> 2024-11-28 18:23:16.508156
+* Cyclonic storm Fengal
+* CAT 2024
+* Black Friday sale
+* Samantha Ruth Prabhu
+* SSC MTS Answer Key 2024
+> 2024-11-29 18:23:06.121191
 
 <!-- Requirements -->
 ### Requirements
