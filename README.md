@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cyclonic storm Fengal
-* CAT 2024
-* Black Friday sale
-* Samantha Ruth Prabhu
-* SSC MTS Answer Key 2024
-> 2024-11-29 18:23:06.121191
+* Barcelona vs Las Palmas
+* IND vs PAK
+* Vaibhav Suryavanshi
+* SSC MTS
+* Fengal Cyclone
+> 2024-11-30 18:21:08.266772
 
 <!-- Requirements -->
 ### Requirements
