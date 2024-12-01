@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Barcelona vs Las Palmas
-* IND vs PAK
-* Vaibhav Suryavanshi
-* SSC MTS
-* Fengal Cyclone
-> 2024-11-30 18:21:08.266772
+* Pakistan vs Zimbabwe
+* Real Madrid vs Getafe
+* Man United vs Everton
+* Liverpool vs Man City
+* Kash Patel
+> 2024-12-01 18:22:01.910470
 
 <!-- Requirements -->
 ### Requirements
