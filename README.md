@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan vs Zimbabwe
-* Real Madrid vs Getafe
-* Man United vs Everton
-* Liverpool vs Man City
-* Kash Patel
-> 2024-12-01 18:22:01.910470
+* Vikrant Massey
+* Skoda Kylaq
+* Sabarmati Report
+* Suraksha Diagnostic IPO GMP
+* Edoardo Bove
+> 2024-12-02 18:24:11.422196
 
 <!-- Requirements -->
 ### Requirements
