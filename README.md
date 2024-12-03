@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Vikrant Massey
-* Skoda Kylaq
-* Sabarmati Report
-* Suraksha Diagnostic IPO GMP
-* Edoardo Bove
-> 2024-12-02 18:24:11.422196
+* iQOO 13 price
+* Syed Mushtaq Ali Trophy
+* Sufiyan Muqeem
+* CTET
+* Gold prices
+> 2024-12-03 18:22:41.210860
 
 <!-- Requirements -->
 ### Requirements
