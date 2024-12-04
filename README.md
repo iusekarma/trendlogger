@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* iQOO 13 price
-* Syed Mushtaq Ali Trophy
-* Sufiyan Muqeem
-* CTET
-* Gold prices
-> 2024-12-03 18:22:41.210860
+* Earthquake in Hyderabad
+* Spotify Wrapped 2024
+* Barcelona
+* Navy Day
+* Sukhbir Badal
+> 2024-12-04 18:25:20.215067
 
 <!-- Requirements -->
 ### Requirements
