@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Earthquake in Hyderabad
-* Spotify Wrapped 2024
-* Barcelona
-* Navy Day
-* Sukhbir Badal
-> 2024-12-04 18:25:20.215067
+* India Women vs Australia Women
+* Arsenal vs Man United
+* Premier League
+* Bitcoin Price
+* SSC CGL Result 2024
+> 2024-12-05 18:22:21.169365
 
 <!-- Requirements -->
 ### Requirements
