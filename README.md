@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India Women vs Australia Women
-* Arsenal vs Man United
-* Premier League
-* Bitcoin Price
-* SSC CGL Result 2024
-> 2024-12-05 18:22:21.169365
+* India vs Australia
+* IND vs AUS
+* AUS vs IND
+* England vs New Zealand
+* Cricket
+> 2024-12-06 18:24:13.623623
 
 <!-- Requirements -->
 ### Requirements
