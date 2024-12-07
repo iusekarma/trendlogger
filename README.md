@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Australia
-* IND vs AUS
-* AUS vs IND
-* England vs New Zealand
-* Cricket
-> 2024-12-06 18:24:13.623623
+* Real Betis vs Barcelona
+* Crystal Palace vs Man City
+* Everton vs Liverpool
+* Syria
+* Khan Sir News
+> 2024-12-07 18:22:10.424167
 
 <!-- Requirements -->
 ### Requirements
