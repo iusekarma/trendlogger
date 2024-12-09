@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia Women vs India Women
-* Real Madrid
-* UFC
-* Pat Cummins
-* Fulham vs Arsenal
-> 2024-12-08 18:21:56.572542
+* Vishal Mega Mart IPO GMP
+* Gukesh
+* RBI Governor
+* Arsenal
+* Lewis Hamilton
+> 2024-12-09 18:25:20.252891
 
 <!-- Requirements -->
 ### Requirements
