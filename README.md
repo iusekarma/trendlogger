@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Vishal Mega Mart IPO GMP
-* Gukesh
-* RBI Governor
-* Arsenal
-* Lewis Hamilton
-> 2024-12-09 18:25:20.252891
+* SM Krishna
+* South Africa vs Pakistan
+* Sora
+* Luigi Mangione
+* Atul Subhash
+> 2024-12-10 18:25:19.597174
 
 <!-- Requirements -->
 ### Requirements
