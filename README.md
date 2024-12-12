@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia Women vs India Women
-* Afghanistan vs Zimbabwe
-* Gita Jayanti
-* Smriti Mandhana
-* Raj Kapoor
-> 2024-12-11 18:25:06.201712
+* Gukesh
+* WhatsApp down
+* Keerthy Suresh wedding
+* Vivo X200
+* Benny Blanco
+> 2024-12-12 18:25:00.166867
 
 <!-- Requirements -->
 ### Requirements
