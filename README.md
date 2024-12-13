@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Gukesh
-* WhatsApp down
-* Keerthy Suresh wedding
-* Vivo X200
-* Benny Blanco
-> 2024-12-12 18:25:00.166867
+* Allu Arjun
+* Afghanistan vs Zimbabwe
+* Pakistan vs South Africa
+* Friday the 13th
+* RAJAT PATIDAR
+> 2024-12-13 18:24:12.314066
 
 <!-- Requirements -->
 ### Requirements
