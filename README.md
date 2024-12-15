@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs India
-* New Zealand vs England
-* Syed Mushtaq Ali Trophy
-* SSC GD
-* %E0%A4%91%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE %E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE %E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4
-> 2024-12-14 18:22:07.239345
+* Steve Smith
+* India Women vs West Indies Women
+* Zakir Hussain
+* Man City vs Man United
+* Madhya Pradesh vs Mumbai
+> 2024-12-15 18:22:05.249507
 
 <!-- Requirements -->
 ### Requirements
