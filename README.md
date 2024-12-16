@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Steve Smith
-* India Women vs West Indies Women
-* Zakir Hussain
-* Man City vs Man United
-* Madhya Pradesh vs Mumbai
-> 2024-12-15 18:22:05.249507
+* IPO allotment status
+* Mobikwik IPO allotment status
+* Virat Kohli
+* Kane Williamson
+* Inventurus Knowledge Solutions IPO GMP
+> 2024-12-16 18:24:36.556777
 
 <!-- Requirements -->
 ### Requirements
