@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* South Africa vs Pakistan
-* Akash Deep
-* Zimbabwe vs Afghanistan
-* Ravindra Jadeja
-* Nitish kumar reddy
-> 2024-12-17 18:24:51.796916
+* Ashwin
+* Vishal Mega Mart Share Price
+* Jasprit Bumrah
+* Real Madrid vs Pachuca
+* Mobikwik share price
+> 2024-12-18 18:24:13.858886
 
 <!-- Requirements -->
 ### Requirements
