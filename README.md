@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ashwin
-* Vishal Mega Mart Share Price
-* Jasprit Bumrah
-* Real Madrid vs Pachuca
-* Mobikwik share price
-> 2024-12-18 18:24:13.858886
+* Real Madrid
+* Kia Syros
+* Mumbai boat Accident
+* CAT Result
+* Rahul Gandhi
+> 2024-12-19 18:22:40.103516
 
 <!-- Requirements -->
 ### Requirements
