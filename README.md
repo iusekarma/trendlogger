@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Real Madrid
-* Kia Syros
-* Mumbai boat Accident
-* CAT Result
-* Rahul Gandhi
-> 2024-12-19 18:22:40.103516
+* Mufasa
+* SA vs PAK
+* Om Prakash Chautala
+* Jaipur
+* Viduthalai 2
+> 2024-12-20 18:21:51.312107
 
 <!-- Requirements -->
 ### Requirements
