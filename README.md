@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Zimbabwe vs Afghanistan
-* Aston Villa vs Man City
-* Rey Mysterio
-* Google layoffs
-* Allu Arjun Pushpa
-> 2024-12-21 18:20:13.044875
+* India Women vs West Indies Women
+* Pakistan Vs South Africa
+* Real Madrid vs Sevilla
+* National Mathematics Day
+* Barcelona
+> 2024-12-22 18:19:52.074280
 
 <!-- Requirements -->
 ### Requirements
