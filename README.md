@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India Women vs West Indies Women
-* Pakistan Vs South Africa
-* Real Madrid vs Sevilla
-* National Mathematics Day
-* Barcelona
-> 2024-12-22 18:19:52.074280
+* DAM Capital IPO: GMP today
+* Mamata Machinery IPO GMP
+* Transrail Lighting Limited IPO GMP
+* Farmers' Day
+* Senores Pharmaceuticals IPO GMP
+> 2024-12-23 18:21:38.111827
 
 <!-- Requirements -->
 ### Requirements
