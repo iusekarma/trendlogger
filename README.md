@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* DAM Capital IPO: GMP today
-* Mamata Machinery IPO GMP
-* Transrail Lighting Limited IPO GMP
-* Farmers' Day
-* Senores Pharmaceuticals IPO GMP
-> 2024-12-23 18:21:38.111827
+* India Women vs West Indies Women
+* Vijay Hazare Trophy
+* Happy Christmas
+* Allu Arjun Pushpa box office collection
+* Christmas Eve
+> 2024-12-24 18:21:29.245149
 
 <!-- Requirements -->
 ### Requirements
