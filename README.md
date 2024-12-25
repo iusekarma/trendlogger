@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India Women vs West Indies Women
-* Vijay Hazare Trophy
-* Happy Christmas
-* Allu Arjun Pushpa box office collection
-* Christmas Eve
-> 2024-12-24 18:21:29.245149
+* Merry Christmas
+* Tulsi Pujan Diwas
+* Baby John Review
+* Santa
+* Azerbaijan Airlines plane crashes
+> 2024-12-25 18:21:13.340324
 
 <!-- Requirements -->
 ### Requirements
