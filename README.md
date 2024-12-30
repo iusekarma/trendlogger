@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Squid Game
-* Sam Konstas
-* Marnus Labuschagne
-* Jasprit Bumrah
-* Leicester City vs Man City
-> 2024-12-29 18:20:04.693199
+* New Zealand vs Sri Lanka
+* Yashasvi Jaiswal
+* Rohit Sharma
+* Happy New Year 2025
+* Jimmy Carter
+> 2024-12-30 18:21:58.050942
 
 <!-- Requirements -->
 ### Requirements
