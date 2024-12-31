@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* New Zealand vs Sri Lanka
-* Yashasvi Jaiswal
-* Rohit Sharma
-* Happy New Year 2025
-* Jimmy Carter
-> 2024-12-30 18:21:58.050942
+* Adani Wilmar
+* Manchester United
+* New year wishes for love
+* Chelsea
+* Unimech Aerospace share price
+> 2024-12-31 18:21:08.397676
 
 <!-- Requirements -->
 ### Requirements
