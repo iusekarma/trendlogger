@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Adani Wilmar
-* Manchester United
-* New year wishes for love
-* Chelsea
-* Unimech Aerospace share price
-> 2024-12-31 18:21:08.397676
+* Happy New Year 2025
+* New Year's Day
+* New Year
+* Time
+* Gautam Gambhir
+> 2025-01-01 18:21:13.462231
 
 <!-- Requirements -->
 ### Requirements
