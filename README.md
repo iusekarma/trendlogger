@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Happy New Year 2025
-* New Year's Day
-* New Year
-* Time
-* Gautam Gambhir
-> 2025-01-01 18:21:13.462231
+* Sri Lanka vs New Zealand
+* Rohit Sharma
+* Arsenal
+* Beau Webster
+* Bangladesh
+> 2025-01-02 18:22:24.102595
 
 <!-- Requirements -->
 ### Requirements
