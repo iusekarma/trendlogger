@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Sri Lanka vs New Zealand
-* Rohit Sharma
-* Arsenal
-* Beau Webster
-* Bangladesh
-> 2025-01-02 18:22:24.102595
+* India vs Australia
+* South Africa vs Pakistan
+* HMPV
+* Shubman Gill
+* Ryan Rickelton
+> 2025-01-03 18:22:04.262118
 
 <!-- Requirements -->
 ### Requirements
