@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs Australia
-* South Africa vs Pakistan
-* HMPV
-* Shubman Gill
-* Ryan Rickelton
-> 2025-01-03 18:22:04.262118
+* Real Madrid
+* Man City vs West Ham
+* Tottenham vs Newcastle
+* Vijay hazare trophy
+* Yuzvendra Chahal
+> 2025-01-04 18:20:38.352704
 
 <!-- Requirements -->
 ### Requirements
