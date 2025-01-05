@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Real Madrid
-* Man City vs West Ham
-* Tottenham vs Newcastle
-* Vijay hazare trophy
-* Yuzvendra Chahal
-> 2025-01-04 18:20:38.352704
+* Premier League
+* OYO unmarried couples
+* Shan Masood
+* Aubrey Plaza
+* Mukesh Chandrakar
+> 2025-01-05 18:20:09.403389
 
 <!-- Requirements -->
 ### Requirements
