@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Premier League
-* OYO unmarried couples
-* Shan Masood
-* Aubrey Plaza
-* Mukesh Chandrakar
-> 2025-01-05 18:20:09.403389
+* Standard Glass Lining IPO GMP
+* ITC share price
+* RRB
+* Share market today
+* WWE RAW Netflix
+> 2025-01-06 18:22:42.898517
 
 <!-- Requirements -->
 ### Requirements
