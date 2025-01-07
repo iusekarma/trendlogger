@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Standard Glass Lining IPO GMP
-* ITC share price
-* RRB
-* Share market today
-* WWE RAW Netflix
-> 2025-01-06 18:22:42.898517
+* Earthquake
+* GATE 2025
+* OnePlus 13
+* Zendaya
+* Delhi Election Date 2025
+> 2025-01-07 18:22:31.744397
 
 <!-- Requirements -->
 ### Requirements
