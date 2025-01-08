@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Earthquake
-* GATE 2025
-* OnePlus 13
-* Zendaya
-* Delhi Election Date 2025
-> 2025-01-07 18:22:31.744397
+* New Zealand vs Sri Lanka
+* Arsenal
+* SNAP Result 2024
+* Yash
+* Human Metapneumovirus HMPV Virus cases
+> 2025-01-08 18:23:02.850399
 
 <!-- Requirements -->
 ### Requirements
