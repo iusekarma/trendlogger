@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* CTET
-* Los Angeles
-* Barcelona
-* Tirupati
-* Vijay Hazare Trophy
-> 2025-01-09 18:23:15.027866
+* Ireland Women vs India Women
+* Game Changer rating
+* Saudi Pro League
+* Vaikuntha Ekadashi
+* JEE Main
+> 2025-01-10 18:22:35.154218
 
 <!-- Requirements -->
 ### Requirements
