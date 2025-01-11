@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Ireland Women vs India Women
-* Game Changer rating
-* Saudi Pro League
-* Vaikuntha Ekadashi
-* JEE Main
-> 2025-01-10 18:22:35.154218
+* Mohun Bagan vs East Bengal
+* Los Angeles news
+* Chelsea vs Morecambe
+* Liverpool
+* Millionaire India Tour Yo Yo Honey Singh
+> 2025-01-11 18:20:25.502526
 
 <!-- Requirements -->
 ### Requirements
