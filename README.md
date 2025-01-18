@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan vs West Indies
-* Australia Women vs England Women
-* Paatal Lok Season 2
-* Priya Saroj
-* David Lynch
-> 2025-01-17 18:21:10.375834
+* Champions Trophy India Squad 2025
+* JEE Mains
+* BCCI
+* Karnataka vs Vidarbha
+* Trump coin
+> 2025-01-18 18:19:41.643408
 
 <!-- Requirements -->
 ### Requirements
