@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Champions Trophy India Squad 2025
-* JEE Mains
-* BCCI
-* Karnataka vs Vidarbha
-* Trump coin
-> 2025-01-18 18:19:41.643408
+* Man United vs Brighton
+* La Liga
+* Barcelona
+* TikTok banned
+* Neeraj Chopra
+> 2025-01-19 18:19:32.123724
 
 <!-- Requirements -->
 ### Requirements
