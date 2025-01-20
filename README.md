@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Man United vs Brighton
-* La Liga
-* Barcelona
-* TikTok banned
-* Neeraj Chopra
-> 2025-01-19 18:19:32.123724
+* Stallion India Fluorochemicals IPO GMP
+* Idea share price
+* Mahakumbh Fire
+* Zomato share
+* Kalyan Jewellers share price
+> 2025-01-20 18:21:05.305859
 
 <!-- Requirements -->
 ### Requirements
