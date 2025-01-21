@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Stallion India Fluorochemicals IPO GMP
-* Idea share price
-* Mahakumbh Fire
-* Zomato share
-* Kalyan Jewellers share price
-> 2025-01-20 18:21:05.305859
+* IND vs ENG
+* Donald Trump
+* Elon Musk
+* Panama Canal
+* Usha Vance
+> 2025-01-21 18:22:15.472373
 
 <!-- Requirements -->
 ### Requirements
