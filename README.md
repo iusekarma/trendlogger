@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IND vs ENG
-* Donald Trump
-* Elon Musk
-* Panama Canal
-* Usha Vance
-> 2025-01-21 18:22:15.472373
+* Benfica vs Barcelona
+* ICC
+* UEFA Champions League
+* Sports
+* Varun Chakaravarthy
+> 2025-01-22 18:22:47.587755
 
 <!-- Requirements -->
 ### Requirements
