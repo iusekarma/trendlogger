@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Akshay Kumar Veer Pahariya Sky Force
-* Novak Djokovic
-* Virender Sehwag
-* BPSC
-* Earthquake
-> 2025-01-24 18:21:47.334404
+* England vs India
+* IND vs ENG
+* West Indies vs Pakistan
+* Republic Day
+* ICC
+> 2025-01-25 18:19:20.198309
 
 <!-- Requirements -->
 ### Requirements
