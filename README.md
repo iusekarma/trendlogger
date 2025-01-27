@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* %E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4 %E0%A4%95%E0%A4%BE %E0%A4%97%E0%A4%A3%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0 %E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8
-* Real Madrid
-* Alexander Zverev
-* Thalapathy Vijay
-* Suryakumar Yadav
-> 2025-01-26 18:20:10.484670
+* Nvidia share price
+* Mitchell Owen
+* Guillain Barre Syndrome
+* Denta Water IPO Allotment Status
+* Budget 2025 date
+> 2025-01-27 18:22:01.366729
 
 <!-- Requirements -->
 ### Requirements
