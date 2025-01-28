@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Nvidia share price
-* Mitchell Owen
-* Guillain Barre Syndrome
-* Denta Water IPO Allotment Status
-* Budget 2025 date
-> 2025-01-27 18:22:01.366729
+* England vs India
+* Hotstar
+* IND vs ENG T20
+* Mohammed Shami
+* Kris Gopalakrishnan
+> 2025-01-28 18:21:56.815350
 
 <!-- Requirements -->
 ### Requirements
