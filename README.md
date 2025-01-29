@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs India
-* Hotstar
-* IND vs ENG T20
-* Mohammed Shami
-* Kris Gopalakrishnan
-> 2025-01-28 18:21:56.815350
+* Australia vs Sri Lanka
+* Stampede
+* Sports
+* Delhi vs Railways Ranji match
+* ITC Hotels share price
+> 2025-01-29 18:22:03.962406
 
 <!-- Requirements -->
 ### Requirements
