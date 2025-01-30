@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs Sri Lanka
-* Stampede
-* Sports
-* Delhi vs Railways Ranji match
-* ITC Hotels share price
-> 2025-01-29 18:22:03.962406
+* Mahatma Gandhi
+* Liverpool
+* Washington DC plane crashes
+* Martyrs' Day
+* Federal Reserve interest rates
+> 2025-01-30 18:21:46.265235
 
 <!-- Requirements -->
 ### Requirements
