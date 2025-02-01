@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs England
-* Saqib Mahmood
-* ICC
-* Harshit Rana
-* Budget 2025
-> 2025-01-31 18:21:19.525932
+* Australia vs Sri Lanka
+* Vasant Panchami 2025
+* February
+* Udit Narayan
+* Royal Rumble 2025
+> 2025-02-01 18:19:20.511637
 
 <!-- Requirements -->
 ### Requirements
