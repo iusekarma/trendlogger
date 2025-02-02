@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Australia vs Sri Lanka
-* Vasant Panchami 2025
-* February
-* Udit Narayan
-* Royal Rumble 2025
-> 2025-02-01 18:19:20.511637
+* Barcelona vs Alav%C3%A9s
+* Cricket Live
+* Man United vs Crystal Palace
+* Arsenal vs Man City
+* Sanju Samson
+> 2025-02-02 18:21:19.134390
 
 <!-- Requirements -->
 ### Requirements
