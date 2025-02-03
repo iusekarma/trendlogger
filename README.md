@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Barcelona vs Alav%C3%A9s
-* Cricket Live
-* Man United vs Crystal Palace
-* Arsenal vs Man City
-* Sanju Samson
-> 2025-02-02 18:21:19.134390
+* Cricket
+* Kanye West
+* Grammys 2025
+* Shein
+* %E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F
+> 2025-02-03 18:22:02.661383
 
 <!-- Requirements -->
 ### Requirements
