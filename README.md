@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Cricket
-* Kanye West
-* Grammys 2025
-* Shein
-* %E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F
-> 2025-02-03 18:22:02.661383
+* JEE Mains 2025
+* Bryan Johnson
+* World Cancer Day
+* Delhi elections
+* USAID
+> 2025-02-04 18:22:11.342271
 
 <!-- Requirements -->
 ### Requirements
