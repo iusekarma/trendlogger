@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* JEE Mains 2025
-* Bryan Johnson
-* World Cancer Day
-* Delhi elections
-* USAID
-> 2025-02-04 18:22:11.342271
+* Voting time in Delhi
+* Asian Paints share price
+* Shantanu Naidu
+* ITC Hotels removed from BSE indices
+* Aga Khan
+> 2025-02-05 18:22:09.810423
 
 <!-- Requirements -->
 ### Requirements
