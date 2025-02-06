@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Voting time in Delhi
-* Asian Paints share price
-* Shantanu Naidu
-* ITC Hotels removed from BSE indices
-* Aga Khan
-> 2025-02-05 18:22:09.810423
+* England vs India
+* Eng vs Ind
+* Sri Lanka vs Australia
+* ICC
+* Shreyas Iyer
+> 2025-02-06 18:22:14.035087
 
 <!-- Requirements -->
 ### Requirements
