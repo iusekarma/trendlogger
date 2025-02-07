@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs India
-* Eng vs Ind
-* Sri Lanka vs Australia
-* ICC
-* Shreyas Iyer
-> 2025-02-06 18:22:14.035087
+* Thandel
+* RBI Monetary Policy
+* Barcelona
+* Badass Ravi Kumar
+* Today
+> 2025-02-07 18:22:01.071690
 
 <!-- Requirements -->
 ### Requirements
