@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Thandel
-* RBI Monetary Policy
-* Barcelona
-* Badass Ravi Kumar
-* Today
-> 2025-02-07 18:22:01.071690
+* Election Commission
+* Leyton Orient vs Man City
+* Milkipur By Election
+* Avadh Ojha Election seat
+* Propose Day quotes
+> 2025-02-08 18:19:41.218777
 
 <!-- Requirements -->
 ### Requirements
