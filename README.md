@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Election Commission
-* Leyton Orient vs Man City
-* Milkipur By Election
-* Avadh Ojha Election seat
-* Propose Day quotes
-> 2025-02-08 18:19:41.218777
+* England vs India
+* IND vs ENG
+* India vs England
+* Real Madrid vs atl%C3%A9tico Madrid
+* Virat Kohli
+> 2025-02-09 18:19:55.339702
 
 <!-- Requirements -->
 ### Requirements
