@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* England vs India
-* IND vs ENG
-* India vs England
-* Real Madrid vs atl%C3%A9tico Madrid
-* Virat Kohli
-> 2025-02-09 18:19:55.339702
+* South Africa vs New Zealand
+* Ranveer Allahbadia
+* Matthew Breetzke
+* SBI Clerk Admit Card 2025
+* Pariksha Pe Charcha 2025
+> 2025-02-10 18:22:33.704345
 
 <!-- Requirements -->
 ### Requirements
