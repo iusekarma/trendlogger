@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* India vs England
-* IND vs ENG
-* England vs India
-* Sri Lanka vs Australia
-* South Africa vs Pakistan
-> 2025-02-12 18:22:53.620315
+* WPL
+* Captain America
+* Liverpool
+* Tulsi Gabbard
+* JPMorgan Chase layoffs
+> 2025-02-13 18:23:01.027633
 
 <!-- Requirements -->
 ### Requirements
