@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Pakistan vs New Zealand
-* JioHotstar
-* Valentine's Day wishes
-* Chhaava
-* IPL
-> 2025-02-14 18:22:06.514944
+* Premier League
+* Man City vs Newcastle
+* Prateik Babbar
+* Arsenal
+* CBSE Class 10 board exam
+> 2025-02-15 18:19:46.074395
 
 <!-- Requirements -->
 ### Requirements
