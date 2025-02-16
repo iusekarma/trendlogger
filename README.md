@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Premier League
-* Man City vs Newcastle
-* Prateik Babbar
-* Arsenal
-* CBSE Class 10 board exam
-> 2025-02-15 18:19:46.074395
+* IPL 2025 schedule
+* New Delhi Railway Station Stampede
+* Liverpool vs Wolves
+* Tottenham vs Man United
+* Kim Sae-ron
+> 2025-02-16 18:20:17.153078
 
 <!-- Requirements -->
 ### Requirements
