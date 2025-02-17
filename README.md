@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* IPL 2025 schedule
-* New Delhi Railway Station Stampede
-* Liverpool vs Wolves
-* Tottenham vs Man United
-* Kim Sae-ron
-> 2025-02-16 18:20:17.153078
+* Earthquake in Delhi
+* RCB vs DC
+* Delhi earthquake tremors
+* Vivo V50
+* News today
+> 2025-02-17 18:22:00.990597
 
 <!-- Requirements -->
 ### Requirements
