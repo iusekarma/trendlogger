@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Earthquake in Delhi
-* RCB vs DC
-* Delhi earthquake tremors
-* Vivo V50
-* News today
-> 2025-02-17 18:22:00.990597
+* Grok 3
+* GG vs MI
+* Barcelona
+* Gyanesh Kumar Election Commissioner
+* DRDO Internship 2025
+> 2025-02-18 18:23:28.556143
 
 <!-- Requirements -->
 ### Requirements
