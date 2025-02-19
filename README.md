@@ -3,12 +3,12 @@ A simple python script which logs the top five searches of the day in India.<br>
 
 <!-- Last Trends -->
 ### Last Trends
-* Grok 3
-* GG vs MI
-* Barcelona
-* Gyanesh Kumar Election Commissioner
-* DRDO Internship 2025
-> 2025-02-18 18:23:28.556143
+* New Zealand vs Pakistan
+* Champions Trophy
+* Babar Azam
+* Fakhar Zaman
+* IND vs BAN
+> 2025-02-19 18:21:20.056641
 
 <!-- Requirements -->
 ### Requirements
